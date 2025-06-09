@@ -863,3 +863,44 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [23:21:01] [Server thread/INFO]: celsofuster lost connection: Disconnected
 [23:21:01] [Server thread/INFO]: celsofuster left the game
 [23:21:01] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[23:22:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@4db497e6[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:22:33] [Server thread/WARN]: handleDisconnection() called twice
+[23:22:33] [Server thread/WARN]: handleDisconnection() called twice
+[23:25:57] [Server thread/INFO]: celsofuster[/127.232.63.210:34683] logged in with entity id 6815 at (856.2334216455711, 66.0, -453.4256638200795)
+[23:25:57] [Server thread/INFO]: Sending server config values to client
+[23:25:57] [Server thread/INFO]: Loading config from file...
+[23:25:57] [Server thread/INFO]: celsofuster joined the game
+[23:25:58] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[23:25:58] [Server thread/INFO]: Receiving client config
+[23:25:58] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[23:25:58] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[23:31:59] [Server thread/INFO]: pablitox[/127.156.232.155:43557] logged in with entity id 8256 at (7.5, 95.0, 7.5)
+[23:31:59] [Server thread/INFO]: Sending server config values to client
+[23:31:59] [Server thread/INFO]: Loading config from file...
+[23:31:59] [Server thread/INFO]: pablitox joined the game
+[23:32:00] [Server thread/INFO]: pablitox has made the advancement [Ice and Fire]
+[23:32:00] [Server thread/INFO]: pablitox has made the advancement [Mobs of Mythology]
+[23:32:00] [Server thread/INFO]: [voicechat] Received secret request of pablitox (18)
+[23:32:00] [Server thread/INFO]: [voicechat] Sent secret to pablitox
+[23:32:00] [Server thread/INFO]: Priority overwritten for player pablitox. Claiming: GRAVE / Robbing: INVENTORY
+[23:32:00] [Server thread/INFO]: Receiving client config
+[23:32:16] [Server thread/INFO]: [Not Secure] <celsofuster> holapablito
+[23:32:17] [Server thread/INFO]: [Not Secure] <pablitox> porfin entre
+[23:32:31] [Server thread/INFO]: [Not Secure] <pablitox> tuve que transformarme en un ingeniero en sistemas para poder entrar
+[23:33:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Desert Myrmex Chitin'/9079, l='ServerLevel[world]', x=959.45, y=-1.00, z=-453.52]
+[23:34:03] [Server thread/INFO]: pablitox has made the advancement [Hunt and Gather]
+[23:35:28] [Server thread/INFO]: [Not Secure] <celsofuster> ya vengo
+[23:35:31] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[23:35:31] [Server thread/INFO]: celsofuster left the game
+[23:35:31] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[23:39:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/10150, l='ServerLevel[world]', x=77.63, y=71.00, z=111.52]
+[23:39:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/10151, l='ServerLevel[world]', x=77.63, y=71.00, z=111.52]
+[23:39:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/10152, l='ServerLevel[world]', x=77.63, y=71.00, z=111.52]
+[23:40:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/10312, l='ServerLevel[world]', x=104.92, y=71.00, z=123.51]
+[23:40:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/10313, l='ServerLevel[world]', x=104.92, y=71.00, z=123.51]
+[23:40:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/10323, l='ServerLevel[world]', x=113.55, y=71.00, z=112.74]
+[23:40:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/10502, l='ServerLevel[world]', x=227.76, y=88.00, z=-1.00]
+[23:41:25] [Server thread/INFO]: pablitox has made the advancement [Monster Hunter]
+[23:41:32] [Server thread/INFO]: pablitox was slain by Zombie
+[23:42:13] [Server thread/INFO]: pablitox burned to death
+[23:42:13] [Server thread/INFO]: No grave backup generated (empty grave)
