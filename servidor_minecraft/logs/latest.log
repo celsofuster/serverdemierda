@@ -1097,3 +1097,40 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02:44:54] [Server thread/INFO]: Pansaof has made the advancement [Acquire Hardware]
 [02:45:02] [Server thread/INFO]: Pansaof has made the advancement [Amateur Archaeologist]
 [02:45:09] [Server thread/INFO]: [Not Secure] <celsofuster> es de dia o de noche?
+[02:46:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/18356, l='ServerLevel[world]', x=442.77, y=101.00, z=-298.23]
+[02:47:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/18603, l='ServerLevel[world]', x=399.60, y=-8.00, z=-250.37]
+[02:47:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/18617, l='ServerLevel[world]', x=397.55, y=-9.00, z=-249.92]
+[02:47:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/18696, l='ServerLevel[world]', x=395.70, y=-30.00, z=21.30]
+[02:47:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/18697, l='ServerLevel[world]', x=395.70, y=-30.00, z=21.30]
+[02:49:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/19019, l='ServerLevel[world]', x=443.20, y=94.00, z=-304.97]
+[02:49:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/19029, l='ServerLevel[world]', x=467.37, y=100.00, z=-330.29]
+[02:49:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/19030, l='ServerLevel[world]', x=467.37, y=100.00, z=-330.29]
+[02:49:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@7140f5d7[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:49:30] [Server thread/WARN]: handleDisconnection() called twice
+[02:49:30] [Server thread/WARN]: handleDisconnection() called twice
+[02:49:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@261c152c[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:49:36] [Server thread/WARN]: handleDisconnection() called twice
+[02:49:36] [Server thread/WARN]: handleDisconnection() called twice
+[02:50:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@55c37c78[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:50:01] [Server thread/WARN]: handleDisconnection() called twice
+[02:50:01] [Server thread/WARN]: handleDisconnection() called twice
+[02:50:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/19365, l='ServerLevel[world]', x=432.30, y=96.10, z=-299.70]
+[02:51:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@2713c58e[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:51:11] [Server thread/WARN]: handleDisconnection() called twice
+[02:51:11] [Server thread/WARN]: handleDisconnection() called twice
+[02:51:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/19940, l='ServerLevel[world]', x=536.71, y=7.00, z=-333.60]
+[02:51:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/20388, l='ServerLevel[world]', x=539.32, y=5.00, z=-333.60]
+[02:52:57] [Server thread/INFO]: Pansaof has made the advancement [Smashing Success]
+[02:53:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/21038, l='ServerLevel[world]', x=381.61, y=-21.00, z=19.58]
+[02:53:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/21039, l='ServerLevel[world]', x=381.61, y=-21.00, z=19.58]
+[02:53:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/21040, l='ServerLevel[world]', x=381.61, y=-21.00, z=19.58]
+[02:53:23] [Server thread/INFO]: Pansaof has made the advancement [Not Today, Thank You]
+[02:53:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/21071, l='ServerLevel[world]', x=539.30, y=87.00, z=-396.70]
+[02:53:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/21072, l='ServerLevel[world]', x=539.30, y=87.00, z=-396.70]
+[02:53:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/21073, l='ServerLevel[world]', x=539.30, y=87.00, z=-396.70]
+[02:53:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/21230, l='ServerLevel[world]', x=408.93, y=-44.00, z=18.51]
+[02:53:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/21231, l='ServerLevel[world]', x=408.93, y=-44.00, z=18.51]
+[02:53:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/21271, l='ServerLevel[world]', x=407.44, y=-44.77, z=18.38]
+[02:55:06] [Server thread/INFO]: Pansaof has made the advancement [Diamonds!]
+[02:55:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/21769, l='ServerLevel[world]', x=424.30, y=-34.00, z=64.70]
+[02:55:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/21770, l='ServerLevel[world]', x=424.30, y=-34.00, z=64.70]
