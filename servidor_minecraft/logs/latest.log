@@ -1,9 +1,9 @@
-[17:46:48] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
-[17:46:48] [ForkJoinPool-1-worker-4/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[17:46:48] [main/WARN]: Warnings were found!
+[22:21:50] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
+[22:21:51] [ForkJoinPool-1-worker-1/WARN]: Mod travelersbackpack uses the version fabric-1.21-10.0.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:21:51] [main/WARN]: Warnings were found!
  - Mod 'Alloy Forgery' (alloy_forgery) 2.4.1+1.21 recommends version 14.0.0 or later of roughlyenoughitems, which is missing!
 	 - You should install version 14.0.0 or later of roughlyenoughitems for the optimal experience.
-[17:46:48] [main/INFO]: Loading 196 mods:
+[22:21:51] [main/INFO]: Loading 196 mods:
 	- advancednetherite 2.2.1-1.21.1
 	- aether 1.5.1-beta.5
 	   |-- accessories 1.1.0-beta.16+1.21.1
@@ -227,337 +227,337 @@
 	        |    \-- blue_endless_jankson 1.2.3
 	        \-- libninepatch 1.2.0
 	- zombiehorsespawn 5.2
-[17:46:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serverdemierda/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:46:49] [main/INFO]: Compatibility level set to JAVA_17
-[17:46:49] [main/INFO]: Compatibility level set to JAVA_21
-[17:46:49] [main/WARN]: Reference map 'armorstatues.common.refmap.json' for armorstatues.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'armorstatues.fabric.refmap.json' for armorstatues.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:49] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[17:46:50] [main/WARN]: Mod 'mutantmonsters' attempted to override option 'mixin.ai.nearby_entity_tracking.goals', which doesn't exist, ignoring
-[17:46:50] [main/WARN]: Mod 'supplementaries' attempted to override option 'mixins.block.moving_block_shapes', which doesn't exist, ignoring
-[17:46:50] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[17:46:50] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[17:46:50] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[17:46:50] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[17:46:50] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[17:46:50] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[17:46:50] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 3 override(s) found
-[17:46:50] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
-[17:46:50] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/INFO]: Loaded configuration file for ModernFix 5.19.6+mc1.21.1: 54 options available, 0 override(s) found
-[17:46:50] [main/INFO]: Applying Nashorn fix
-[17:46:50] [main/WARN]: Reference map 'mutantmonsters.fabric.refmap.json' for mutantmonsters.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'statuemenus.common.refmap.json' for statuemenus.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'statuemenus.fabric.refmap.json' for statuemenus.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'universalbonemeal.common.refmap.json' for universalbonemeal.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'universalbonemeal.fabric.refmap.json' for universalbonemeal.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:46:50] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[17:46:50] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
-[17:46:50] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[17:46:50] [main/WARN]: @Mixin target net.minecraft.class_310 was not found aether.mixins.json:client.accessor.MinecraftAccessor from mod aether
-[17:46:51] [main/INFO]: Force-disabling mixin 'ai.task.memory_change_counting.BehaviorMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
-[17:46:51] [main/INFO]: Force-disabling mixin 'ai.task.memory_change_counting.BrainMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
-[17:46:51] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.PistonMovingBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[17:46:51] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[17:46:51] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[17:46:51] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[17:46:51] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[17:46:51] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[17:46:51] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[17:46:51] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[17:46:51] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[17:46:51] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[17:46:52] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[17:46:52] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[17:46:52] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[17:46:52] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
-[17:46:52] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
-[17:46:52] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzn000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[17:46:57] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[17:46:57] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[17:47:01] [main/INFO]: Vanilla bootstrap took 8306 milliseconds
-[17:47:02] [main/INFO]: fabric loader environment detected
-[17:47:02] [main/INFO]: Loaded config for: cupboard.json
-[17:47:02] [main/INFO]: Reflections took 150 ms to scan 1 urls, producing 9 keys and 76 values
-[17:47:02] [main/ERROR]: No data fixer registered for seat
-[17:47:03] [main/INFO]: Registering Listeners!
-[17:47:03] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[17:47:04] [main/INFO]: Loaded config amendments-common.json
-[17:47:04] [main/INFO]: Constructing common components for armorstatues:main
-[17:47:04] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
-[17:47:04] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
-[17:47:04] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
-[17:47:04] [main/ERROR]: No data fixer registered for artifacts:mimic
-[17:47:04] [main/INFO]: Registered azurelib config for auto-sync function
-[17:47:04] [main/INFO]: Better Archeology says Hello
-[17:47:04] [main/INFO]: Registering Items from betterarcheology
-[17:47:04] [main/INFO]: Registering Blocks from betterarcheology
-[17:47:04] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[17:47:04] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[17:47:04] [main/INFO]: Registering Enchantments for betterarcheology
-[17:47:04] [main/INFO]: betterchunkloading mod initialized
-[17:47:05] [main/INFO]: Loading Collective version 8.1.
-[17:47:05] [main/INFO]: Constructing common components for easyanvils:main
-[17:47:05] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[17:47:05] [main/INFO]: Constructing common components for easymagic:main
-[17:47:05] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[17:47:05] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[17:47:05] [main/INFO]: ExpandAbility here, who dis?
-[17:47:05] [main/INFO]: Loaded config farmersdelight-common.json
-[17:47:05] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[17:47:05] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[17:47:05] [main/ERROR]: No data fixer registered for anomaly
-[17:47:05] [main/INFO]: Ice And Fire common config version match.
-[17:47:06] [main/ERROR]: No data fixer registered for dragon_multipart
-[17:47:06] [main/ERROR]: No data fixer registered for multipart
-[17:47:06] [main/ERROR]: No data fixer registered for hydra_multipart
-[17:47:06] [main/ERROR]: No data fixer registered for cylcops_multipart
-[17:47:06] [main/ERROR]: No data fixer registered for dragon_egg
-[17:47:06] [main/ERROR]: No data fixer registered for dragon_arrow
-[17:47:06] [main/ERROR]: No data fixer registered for dragon_skull
-[17:47:06] [main/ERROR]: No data fixer registered for fire_dragon
-[17:47:06] [main/ERROR]: No data fixer registered for ice_dragon
-[17:47:06] [main/ERROR]: No data fixer registered for lightning_dragon
-[17:47:06] [main/ERROR]: No data fixer registered for fire_dragon_charge
-[17:47:06] [main/ERROR]: No data fixer registered for ice_dragon_charge
-[17:47:06] [main/ERROR]: No data fixer registered for lightning_dragon_charge
-[17:47:06] [main/ERROR]: No data fixer registered for hippogryph_egg
-[17:47:06] [main/ERROR]: No data fixer registered for hippogryph
-[17:47:06] [main/ERROR]: No data fixer registered for stone_statue
-[17:47:06] [main/ERROR]: No data fixer registered for gorgon
-[17:47:06] [main/ERROR]: No data fixer registered for pixie
-[17:47:06] [main/ERROR]: No data fixer registered for cyclops
-[17:47:06] [main/ERROR]: No data fixer registered for siren
-[17:47:06] [main/ERROR]: No data fixer registered for hippocampus
-[17:47:06] [main/ERROR]: No data fixer registered for deathworm
-[17:47:06] [main/ERROR]: No data fixer registered for deathworm_egg
-[17:47:06] [main/ERROR]: No data fixer registered for cockatrice
-[17:47:06] [main/ERROR]: No data fixer registered for cockatrice_egg
-[17:47:06] [main/ERROR]: No data fixer registered for stymphalian_bird
-[17:47:06] [main/ERROR]: No data fixer registered for stymphalian_feather
-[17:47:06] [main/ERROR]: No data fixer registered for stymphalian_arrow
-[17:47:06] [main/ERROR]: No data fixer registered for troll
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_worker
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_soldier
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_sentinel
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_royal
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_queen
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_egg
-[17:47:06] [main/ERROR]: No data fixer registered for amphithere
-[17:47:06] [main/ERROR]: No data fixer registered for amphithere_arrow
-[17:47:06] [main/ERROR]: No data fixer registered for sea_serpent
-[17:47:06] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
-[17:47:06] [main/ERROR]: No data fixer registered for sea_serpent_arrow
-[17:47:06] [main/ERROR]: No data fixer registered for chain_tie
-[17:47:06] [main/ERROR]: No data fixer registered for pixie_charge
-[17:47:06] [main/ERROR]: No data fixer registered for myrmex_swarmer
-[17:47:06] [main/ERROR]: No data fixer registered for tide_trident
-[17:47:06] [main/ERROR]: No data fixer registered for mob_skull
-[17:47:06] [main/ERROR]: No data fixer registered for dread_thrall
-[17:47:06] [main/ERROR]: No data fixer registered for dread_ghoul
-[17:47:06] [main/ERROR]: No data fixer registered for dread_beast
-[17:47:06] [main/ERROR]: No data fixer registered for dread_scuttler
-[17:47:06] [main/ERROR]: No data fixer registered for dread_lich
-[17:47:06] [main/ERROR]: No data fixer registered for dread_lich_skull
-[17:47:06] [main/ERROR]: No data fixer registered for dread_knight
-[17:47:06] [main/ERROR]: No data fixer registered for dread_horse
-[17:47:06] [main/ERROR]: No data fixer registered for hydra
-[17:47:06] [main/ERROR]: No data fixer registered for hydra_breath
-[17:47:06] [main/ERROR]: No data fixer registered for hydra_arrow
-[17:47:06] [main/ERROR]: No data fixer registered for ghost
-[17:47:06] [main/ERROR]: No data fixer registered for ghost_sword
-[17:47:06] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[17:47:06] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[17:47:06] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[17:47:06] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[17:47:06] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
-[17:47:06] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
-[17:47:06] [main/INFO]: Constructing common components for iteminteractions:main
-[17:47:06] [main/INFO]: Initializing JamLib on Fabric
-[17:47:06] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[17:47:06] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[17:47:06] [main/ERROR]: No data fixer registered for gremlin
-[17:47:06] [main/ERROR]: No data fixer registered for eldbomb
-[17:47:06] [main/ERROR]: No data fixer registered for eldknight
-[17:47:06] [main/ERROR]: No data fixer registered for samhain
-[17:47:06] [main/ERROR]: No data fixer registered for swampman
-[17:47:06] [main/ERROR]: No data fixer registered for fallen_knight
-[17:47:06] [main/ERROR]: No data fixer registered for ratman
-[17:47:06] [main/ERROR]: No data fixer registered for lizzy
-[17:47:06] [main/ERROR]: No data fixer registered for bad_patch
-[17:47:06] [main/ERROR]: No data fixer registered for ghastling
-[17:47:06] [main/ERROR]: No data fixer registered for ghosty
-[17:47:06] [main/ERROR]: No data fixer registered for netherman
-[17:47:06] [main/ERROR]: No data fixer registered for netherman_clone
-[17:47:06] [main/ERROR]: No data fixer registered for netherman_projectile_charge
-[17:47:06] [main/ERROR]: No data fixer registered for swampman_axe
-[17:47:06] [main/INFO]: [Knight Quest] The mod 'forgeconfigapiport' was detected, reading config file `knightquest.toml` for Knight Quest.
-[17:47:06] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[17:47:06] [main/INFO]: ---------------------------
-[17:47:06] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[17:47:06] [main/INFO]:  
-[17:47:06] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[17:47:06] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[17:47:06] [main/INFO]:  
-[17:47:06] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[17:47:06] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[17:47:06] [main/INFO]:  
-[17:47:06] [main/INFO]: Json-smart Copyright © netplex.
-[17:47:06] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[17:47:06] [main/INFO]:  
-[17:47:06] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[17:47:06] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[17:47:06] [main/INFO]: ---------------------------
-[17:47:06] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[17:47:06] [main/INFO]: Definitely not up to no good
-[17:47:06] [main/INFO]: Definitely not up to no good
-[17:47:06] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
-[17:47:06] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
-[17:47:06] [main/ERROR]: No data fixer registered for skull_spirit
-[17:47:06] [main/INFO]: Constructing common components for mutantmonsters:main
-[17:47:06] [main/INFO]: Dispatching loading event for config mutantmonsters-common.toml
-[17:47:06] [main/ERROR]: No data fixer registered for creeper_minion
-[17:47:06] [main/ERROR]: No data fixer registered for mutant_creeper
-[17:47:06] [main/ERROR]: No data fixer registered for mutant_enderman
-[17:47:06] [main/ERROR]: No data fixer registered for mutant_skeleton
-[17:47:06] [main/ERROR]: No data fixer registered for mutant_snow_golem
-[17:47:06] [main/ERROR]: No data fixer registered for mutant_zombie
-[17:47:06] [main/ERROR]: No data fixer registered for spider_pig
-[17:47:06] [main/ERROR]: No data fixer registered for body_part
-[17:47:06] [main/ERROR]: No data fixer registered for creeper_minion_egg
-[17:47:06] [main/ERROR]: No data fixer registered for endersoul_clone
-[17:47:06] [main/ERROR]: No data fixer registered for endersoul_fragment
-[17:47:06] [main/ERROR]: No data fixer registered for throwable_block
-[17:47:06] [main/INFO]: [Mythic Metals] Mythic Metals is now initialized.
-[17:47:06] [main/INFO]: Loading Noisium.
-[17:47:06] [main/INFO]: Hello from the Oracle Wiki Mod!
-[17:47:06] [main/INFO]: i ate moss and i died
-[17:47:06] [main/INFO]: Constructing common components for puzzleslib:main
-[17:47:06] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[17:47:06] [main/INFO]: Updated config file at /workspaces/serverdemierda/servidor_minecraft/config/rightclickharvest.json5
-[17:47:06] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[17:47:07] [main/INFO]: Loaded config simplyswords:general in 242ms
-[17:47:07] [main/INFO]: Loaded config simplyswords:gem_powers in 188ms
-[17:47:07] [main/INFO]: Loaded config simplyswords:status_effects in 4ms
-[17:47:07] [main/INFO]: Loaded config simplyswords:weapon_attributes in 72ms
-[17:47:07] [main/INFO]: Loaded config simplyswords:unique_effects in 156ms
-[17:47:07] [main/ERROR]: No data fixer registered for battlestandard
-[17:47:07] [main/ERROR]: No data fixer registered for battlestandarddark
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
-[17:47:07] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
-[17:47:07] [main/INFO]: [STDOUT]: /workspaces/serverdemierda/servidor_minecraft/config
-[17:47:07] [main/INFO]: Constructing common components for statuemenus:main
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
-[17:47:08] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
-[17:47:08] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
-[17:47:08] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[17:47:08] [main/INFO]: Loaded config subtle_effects:server in 4ms
-[17:47:08] [main/INFO]: Loaded config supplementaries-common.json
-[17:47:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[17:47:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[17:47:08] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[17:47:08] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[17:47:08] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[17:47:08] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[17:47:08] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[17:47:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[17:47:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[17:47:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[17:47:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[17:47:08] [main/INFO]: Constructing common components for universalbonemeal:main
-[17:47:08] [main/INFO]: Constructing common components for visualworkbench:main
-[17:47:08] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[17:47:08] [main/INFO]: [voicechat] Compatibility version 18
-[17:47:08] [main/INFO]: [voicechat] Loading plugins
-[17:47:08] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[17:47:08] [main/INFO]: [voicechat] Initializing plugins
-[17:47:08] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[17:47:09] [main/INFO]: Initialized block sets in 22ms
-[17:47:09] [main/ERROR]: No data fixer registered for falling_lantern
-[17:47:09] [main/ERROR]: No data fixer registered for dispenser_minecart
-[17:47:09] [main/ERROR]: No data fixer registered for falling_urn
-[17:47:09] [main/ERROR]: No data fixer registered for falling_ash
-[17:47:09] [main/ERROR]: No data fixer registered for falling_sack
-[17:47:09] [main/ERROR]: No data fixer registered for brick_projectile
-[17:47:09] [main/ERROR]: No data fixer registered for slimeball_projectile
-[17:47:09] [main/ERROR]: No data fixer registered for bomb
-[17:47:09] [main/ERROR]: No data fixer registered for cannonball
-[17:47:09] [main/ERROR]: No data fixer registered for rope_arrow
-[17:47:09] [main/ERROR]: No data fixer registered for slingshot_projectile
-[17:47:09] [main/INFO]: Loaded config sawmill-common.json
-[17:47:09] [main/INFO]: Initialized color sets in 49ms
-[17:47:09] [main/INFO]: Finished mod setup in: [0, 1, 0, 0, 0, 24, 4, 0] ms
-[17:47:09] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[17:47:09] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[17:47:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:47:10] [main/INFO]: Generated runtime SERVER_DATA for pack sawmill:sawmill_recipes (Sawmill) in: 0 ms (debug resource dump on)
-[17:47:10] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 30 ms
-[17:47:10] [main/INFO]: Generated runtime SERVER_DATA for pack suppsquared:generated_pack (Suppsquared) in: 20 ms
-[17:47:11] [Worker-Main-3/INFO]: Loaded config simplyswords:loot in 13ms
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_green - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_blue - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_black - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_light_blue - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_yellow - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_lime - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/test - Failed to get element ResourceKey[moonlight:map_marker / supplementaries:igloo]
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_cyan - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/epic - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_gray - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_pink - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_brown - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/urn_loot - No key value in MapLike[{"type":"minecraft:loot_table","weight":1,"quality":5,"name":"supplementaries:blocks/urn_loot/epic"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":7,"quality":2,"name":"supplementaries:blocks/urn_loot/rare"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":32,"quality":-2,"name":"supplementaries:blocks/urn_loot/uncommon"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":60,"quality":-5,"name":"supplementaries:blocks/urn_loot/common"}]
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/end_city_stasis - Failed to parse either. First: No key components in MapLike[{"function":"set_components","tag":"{StoredEnchantments:[{lvl:1s,id:\"supplementaries:stasis\"}]}"}]; Second: Not a json array: {"function":"set_components","tag":"{StoredEnchantments:[{lvl:1s,id:\"supplementaries:stasis\"}]}"}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/temple_spikes - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:set_charges; Second: Not a json array: {"function":"supplementaries:set_charges","damage":{"min":0.2,"max":0.9}}; Failed to parse either. First: Not a JSON object: [{"type":"minecraft:potion_content","potion":"minecraft:poison"}]; Second: Not a json array: {"function":"set_components","components":[{"type":"minecraft:potion_content","potion":"minecraft:poison"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_red - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_white - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_orange - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/rare - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}; Failed to parse either. First: No key enchantments in MapLike[{"function":"supplementaries:curse_loot"}]; No key chance in MapLike[{"function":"supplementaries:curse_loot"}]; Second: Not a json array: {"function":"supplementaries:curse_loot"}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_purple - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_magenta - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_light_gray - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
-[17:47:11] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/supplementaries:blocks/urn}.pools[1].entries[0]: Unknown loot table called supplementaries:blocks/urn_loot/urn_loot
-[17:47:12] [main/INFO]: Intercepted tag results
-[17:47:12] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id suppsquared:candle_holders/gold_candle_holder_soul, skipping: Unknown resource condition key: forge:mod_loaded
-[17:47:12] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[22:21:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serverdemierda/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:21:52] [main/INFO]: Compatibility level set to JAVA_17
+[22:21:52] [main/INFO]: Compatibility level set to JAVA_21
+[22:21:52] [main/WARN]: Reference map 'armorstatues.common.refmap.json' for armorstatues.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'armorstatues.fabric.refmap.json' for armorstatues.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Reference map 'knightlib.refmap.json' for knightlib.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:52] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[22:21:52] [main/WARN]: Mod 'mutantmonsters' attempted to override option 'mixin.ai.nearby_entity_tracking.goals', which doesn't exist, ignoring
+[22:21:52] [main/WARN]: Mod 'supplementaries' attempted to override option 'mixins.block.moving_block_shapes', which doesn't exist, ignoring
+[22:21:52] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[22:21:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[22:21:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[22:21:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[22:21:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[22:21:52] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[22:21:52] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 3 override(s) found
+[22:21:52] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
+[22:21:52] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/INFO]: Loaded configuration file for ModernFix 5.19.6+mc1.21.1: 54 options available, 0 override(s) found
+[22:21:53] [main/INFO]: Applying Nashorn fix
+[22:21:53] [main/WARN]: Reference map 'mutantmonsters.fabric.refmap.json' for mutantmonsters.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'statuemenus.common.refmap.json' for statuemenus.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'statuemenus.fabric.refmap.json' for statuemenus.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'universalbonemeal.common.refmap.json' for universalbonemeal.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'universalbonemeal.fabric.refmap.json' for universalbonemeal.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:21:53] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[22:21:53] [main/WARN]: @Mixin target net.minecraft.class_761 was not found accessories-common.mixins.json:LevelRendererAccessor from mod accessories
+[22:21:53] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[22:21:53] [main/WARN]: @Mixin target net.minecraft.class_310 was not found aether.mixins.json:client.accessor.MinecraftAccessor from mod aether
+[22:21:54] [main/INFO]: Force-disabling mixin 'ai.task.memory_change_counting.BehaviorMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[22:21:54] [main/INFO]: Force-disabling mixin 'ai.task.memory_change_counting.BrainMixin' as rule 'mixin.ai.task.memory_change_counting' (added by mods [smartbrainlib]) disables it and children
+[22:21:54] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.PistonMovingBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[22:21:54] [main/INFO]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[22:21:54] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[22:21:54] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[22:21:54] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[22:21:54] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[22:21:54] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[22:21:54] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[22:21:54] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[22:21:54] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:21:54] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:21:54] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[22:21:54] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:21:54] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
+[22:21:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
+[22:21:55] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on accessories-common.mixins.json:NbtCompoundMixin from mod accessories::handler$zzn000$accessories$adjustCheckForListVariants exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22:22:01] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[22:22:01] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[22:22:06] [main/INFO]: Vanilla bootstrap took 10694 milliseconds
+[22:22:07] [main/INFO]: fabric loader environment detected
+[22:22:07] [main/INFO]: Loaded config for: cupboard.json
+[22:22:07] [main/INFO]: Reflections took 185 ms to scan 1 urls, producing 9 keys and 76 values
+[22:22:08] [main/ERROR]: No data fixer registered for seat
+[22:22:08] [main/INFO]: Registering Listeners!
+[22:22:08] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[22:22:09] [main/INFO]: Loaded config amendments-common.json
+[22:22:09] [main/INFO]: Constructing common components for armorstatues:main
+[22:22:09] [main/INFO]: Registering C2S receiver with id artifacts:double_jump
+[22:22:09] [main/INFO]: Registering C2S receiver with id artifacts:update_swimming
+[22:22:09] [main/INFO]: Registering C2S receiver with id artifacts:toggle_artifacts
+[22:22:09] [main/ERROR]: No data fixer registered for artifacts:mimic
+[22:22:09] [main/INFO]: Registered azurelib config for auto-sync function
+[22:22:09] [main/INFO]: Better Archeology says Hello
+[22:22:09] [main/INFO]: Registering Items from betterarcheology
+[22:22:09] [main/INFO]: Registering Blocks from betterarcheology
+[22:22:09] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[22:22:09] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[22:22:10] [main/INFO]: Registering Enchantments for betterarcheology
+[22:22:10] [main/INFO]: betterchunkloading mod initialized
+[22:22:10] [main/INFO]: Loading Collective version 8.1.
+[22:22:10] [main/INFO]: Constructing common components for easyanvils:main
+[22:22:10] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[22:22:10] [main/INFO]: Constructing common components for easymagic:main
+[22:22:10] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[22:22:10] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[22:22:10] [main/INFO]: ExpandAbility here, who dis?
+[22:22:10] [main/INFO]: Loaded config farmersdelight-common.json
+[22:22:10] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[22:22:10] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[22:22:11] [main/ERROR]: No data fixer registered for anomaly
+[22:22:11] [main/INFO]: Ice And Fire common config version match.
+[22:22:11] [main/ERROR]: No data fixer registered for dragon_multipart
+[22:22:11] [main/ERROR]: No data fixer registered for multipart
+[22:22:11] [main/ERROR]: No data fixer registered for hydra_multipart
+[22:22:11] [main/ERROR]: No data fixer registered for cylcops_multipart
+[22:22:11] [main/ERROR]: No data fixer registered for dragon_egg
+[22:22:11] [main/ERROR]: No data fixer registered for dragon_arrow
+[22:22:11] [main/ERROR]: No data fixer registered for dragon_skull
+[22:22:11] [main/ERROR]: No data fixer registered for fire_dragon
+[22:22:11] [main/ERROR]: No data fixer registered for ice_dragon
+[22:22:11] [main/ERROR]: No data fixer registered for lightning_dragon
+[22:22:11] [main/ERROR]: No data fixer registered for fire_dragon_charge
+[22:22:11] [main/ERROR]: No data fixer registered for ice_dragon_charge
+[22:22:11] [main/ERROR]: No data fixer registered for lightning_dragon_charge
+[22:22:11] [main/ERROR]: No data fixer registered for hippogryph_egg
+[22:22:11] [main/ERROR]: No data fixer registered for hippogryph
+[22:22:11] [main/ERROR]: No data fixer registered for stone_statue
+[22:22:11] [main/ERROR]: No data fixer registered for gorgon
+[22:22:11] [main/ERROR]: No data fixer registered for pixie
+[22:22:11] [main/ERROR]: No data fixer registered for cyclops
+[22:22:11] [main/ERROR]: No data fixer registered for siren
+[22:22:11] [main/ERROR]: No data fixer registered for hippocampus
+[22:22:11] [main/ERROR]: No data fixer registered for deathworm
+[22:22:11] [main/ERROR]: No data fixer registered for deathworm_egg
+[22:22:11] [main/ERROR]: No data fixer registered for cockatrice
+[22:22:11] [main/ERROR]: No data fixer registered for cockatrice_egg
+[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_bird
+[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_feather
+[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_arrow
+[22:22:11] [main/ERROR]: No data fixer registered for troll
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_worker
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_soldier
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_sentinel
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_royal
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_queen
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_egg
+[22:22:11] [main/ERROR]: No data fixer registered for amphithere
+[22:22:11] [main/ERROR]: No data fixer registered for amphithere_arrow
+[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent
+[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
+[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent_arrow
+[22:22:11] [main/ERROR]: No data fixer registered for chain_tie
+[22:22:11] [main/ERROR]: No data fixer registered for pixie_charge
+[22:22:11] [main/ERROR]: No data fixer registered for myrmex_swarmer
+[22:22:11] [main/ERROR]: No data fixer registered for tide_trident
+[22:22:11] [main/ERROR]: No data fixer registered for mob_skull
+[22:22:11] [main/ERROR]: No data fixer registered for dread_thrall
+[22:22:11] [main/ERROR]: No data fixer registered for dread_ghoul
+[22:22:11] [main/ERROR]: No data fixer registered for dread_beast
+[22:22:11] [main/ERROR]: No data fixer registered for dread_scuttler
+[22:22:11] [main/ERROR]: No data fixer registered for dread_lich
+[22:22:11] [main/ERROR]: No data fixer registered for dread_lich_skull
+[22:22:11] [main/ERROR]: No data fixer registered for dread_knight
+[22:22:11] [main/ERROR]: No data fixer registered for dread_horse
+[22:22:11] [main/ERROR]: No data fixer registered for hydra
+[22:22:11] [main/ERROR]: No data fixer registered for hydra_breath
+[22:22:11] [main/ERROR]: No data fixer registered for hydra_arrow
+[22:22:11] [main/ERROR]: No data fixer registered for ghost
+[22:22:11] [main/ERROR]: No data fixer registered for ghost_sword
+[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:gyrodyne
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:biplane
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:airship
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:cargo_airship
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:warship
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:quadrocopter
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:bullet
+[22:22:11] [main/ERROR]: No data fixer registered for immersive_aircraft:tiny_tnt
+[22:22:11] [main/INFO]: Constructing common components for iteminteractions:main
+[22:22:11] [main/INFO]: Initializing JamLib on Fabric
+[22:22:11] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[22:22:11] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[22:22:11] [main/ERROR]: No data fixer registered for gremlin
+[22:22:11] [main/ERROR]: No data fixer registered for eldbomb
+[22:22:11] [main/ERROR]: No data fixer registered for eldknight
+[22:22:11] [main/ERROR]: No data fixer registered for samhain
+[22:22:11] [main/ERROR]: No data fixer registered for swampman
+[22:22:11] [main/ERROR]: No data fixer registered for fallen_knight
+[22:22:11] [main/ERROR]: No data fixer registered for ratman
+[22:22:11] [main/ERROR]: No data fixer registered for lizzy
+[22:22:11] [main/ERROR]: No data fixer registered for bad_patch
+[22:22:11] [main/ERROR]: No data fixer registered for ghastling
+[22:22:11] [main/ERROR]: No data fixer registered for ghosty
+[22:22:11] [main/ERROR]: No data fixer registered for netherman
+[22:22:11] [main/ERROR]: No data fixer registered for netherman_clone
+[22:22:11] [main/ERROR]: No data fixer registered for netherman_projectile_charge
+[22:22:11] [main/ERROR]: No data fixer registered for swampman_axe
+[22:22:11] [main/INFO]: [Knight Quest] The mod 'forgeconfigapiport' was detected, reading config file `knightquest.toml` for Knight Quest.
+[22:22:11] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[22:22:11] [main/INFO]: ---------------------------
+[22:22:11] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[22:22:11] [main/INFO]:  
+[22:22:11] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[22:22:11] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[22:22:11] [main/INFO]:  
+[22:22:11] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[22:22:11] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[22:22:11] [main/INFO]:  
+[22:22:11] [main/INFO]: Json-smart Copyright © netplex.
+[22:22:11] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[22:22:11] [main/INFO]:  
+[22:22:11] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[22:22:11] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[22:22:11] [main/INFO]: ---------------------------
+[22:22:11] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[22:22:11] [main/INFO]: Definitely not up to no good
+[22:22:11] [main/INFO]: Definitely not up to no good
+[22:22:11] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
+[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
+[22:22:11] [main/ERROR]: No data fixer registered for skull_spirit
+[22:22:11] [main/INFO]: Constructing common components for mutantmonsters:main
+[22:22:11] [main/INFO]: Dispatching loading event for config mutantmonsters-common.toml
+[22:22:11] [main/ERROR]: No data fixer registered for creeper_minion
+[22:22:11] [main/ERROR]: No data fixer registered for mutant_creeper
+[22:22:11] [main/ERROR]: No data fixer registered for mutant_enderman
+[22:22:11] [main/ERROR]: No data fixer registered for mutant_skeleton
+[22:22:11] [main/ERROR]: No data fixer registered for mutant_snow_golem
+[22:22:11] [main/ERROR]: No data fixer registered for mutant_zombie
+[22:22:11] [main/ERROR]: No data fixer registered for spider_pig
+[22:22:11] [main/ERROR]: No data fixer registered for body_part
+[22:22:11] [main/ERROR]: No data fixer registered for creeper_minion_egg
+[22:22:11] [main/ERROR]: No data fixer registered for endersoul_clone
+[22:22:11] [main/ERROR]: No data fixer registered for endersoul_fragment
+[22:22:11] [main/ERROR]: No data fixer registered for throwable_block
+[22:22:11] [main/INFO]: [Mythic Metals] Mythic Metals is now initialized.
+[22:22:11] [main/INFO]: Loading Noisium.
+[22:22:11] [main/INFO]: Hello from the Oracle Wiki Mod!
+[22:22:11] [main/INFO]: blod: he her
+[22:22:12] [main/INFO]: Constructing common components for puzzleslib:main
+[22:22:12] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[22:22:12] [main/INFO]: Updated config file at /workspaces/serverdemierda/servidor_minecraft/config/rightclickharvest.json5
+[22:22:12] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[22:22:12] [main/INFO]: Loaded config simplyswords:general in 245ms
+[22:22:12] [main/INFO]: Loaded config simplyswords:gem_powers in 191ms
+[22:22:12] [main/INFO]: Loaded config simplyswords:status_effects in 3ms
+[22:22:12] [main/INFO]: Loaded config simplyswords:weapon_attributes in 71ms
+[22:22:13] [main/INFO]: Loaded config simplyswords:unique_effects in 166ms
+[22:22:13] [main/ERROR]: No data fixer registered for battlestandard
+[22:22:13] [main/ERROR]: No data fixer registered for battlestandarddark
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:thrown_sword
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:frostfall_entity
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:livyatan_entity
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:spear_entity
+[22:22:13] [main/ERROR]: No data fixer registered for simplyswords:runic_entity
+[22:22:13] [main/INFO]: [STDOUT]: /workspaces/serverdemierda/servidor_minecraft/config
+[22:22:13] [main/INFO]: Constructing common components for statuemenus:main
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[22:22:13] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[22:22:13] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[22:22:13] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[22:22:13] [main/INFO]: Loaded config subtle_effects:server in 4ms
+[22:22:13] [main/INFO]: Loaded config supplementaries-common.json
+[22:22:13] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:22:13] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:22:13] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:22:13] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:22:13] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:22:13] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:22:13] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[22:22:13] [main/INFO]: Constructing common components for universalbonemeal:main
+[22:22:13] [main/INFO]: Constructing common components for visualworkbench:main
+[22:22:13] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[22:22:13] [main/INFO]: [voicechat] Compatibility version 18
+[22:22:14] [main/INFO]: [voicechat] Loading plugins
+[22:22:14] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:22:14] [main/INFO]: [voicechat] Initializing plugins
+[22:22:14] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:22:14] [main/INFO]: Initialized block sets in 22ms
+[22:22:14] [main/ERROR]: No data fixer registered for falling_lantern
+[22:22:14] [main/ERROR]: No data fixer registered for dispenser_minecart
+[22:22:14] [main/ERROR]: No data fixer registered for falling_urn
+[22:22:14] [main/ERROR]: No data fixer registered for falling_ash
+[22:22:14] [main/ERROR]: No data fixer registered for falling_sack
+[22:22:14] [main/ERROR]: No data fixer registered for brick_projectile
+[22:22:14] [main/ERROR]: No data fixer registered for slimeball_projectile
+[22:22:14] [main/ERROR]: No data fixer registered for bomb
+[22:22:14] [main/ERROR]: No data fixer registered for cannonball
+[22:22:14] [main/ERROR]: No data fixer registered for rope_arrow
+[22:22:14] [main/ERROR]: No data fixer registered for slingshot_projectile
+[22:22:14] [main/INFO]: Loaded config sawmill-common.json
+[22:22:14] [main/INFO]: Initialized color sets in 63ms
+[22:22:14] [main/INFO]: Finished mod setup in: [0, 1, 0, 0, 0, 21, 5, 0] ms
+[22:22:14] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22:22:14] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[22:22:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:22:15] [main/INFO]: Generated runtime SERVER_DATA for pack sawmill:sawmill_recipes (Sawmill) in: 0 ms (debug resource dump on)
+[22:22:15] [main/INFO]: Generated runtime SERVER_DATA for pack supplementaries:generated_pack (Supplementaries) in: 29 ms
+[22:22:15] [main/INFO]: Generated runtime SERVER_DATA for pack suppsquared:generated_pack (Suppsquared) in: 15 ms
+[22:22:16] [Worker-Main-3/INFO]: Loaded config simplyswords:loot in 16ms
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_green - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_blue - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_black - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_light_blue - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_yellow - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_lime - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/test - Failed to get element ResourceKey[moonlight:map_marker / supplementaries:igloo]
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_cyan - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/epic - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_gray - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_pink - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_brown - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:16] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/urn_loot - No key value in MapLike[{"type":"minecraft:loot_table","weight":1,"quality":5,"name":"supplementaries:blocks/urn_loot/epic"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":7,"quality":2,"name":"supplementaries:blocks/urn_loot/rare"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":32,"quality":-2,"name":"supplementaries:blocks/urn_loot/uncommon"}]; No key value in MapLike[{"type":"minecraft:loot_table","weight":60,"quality":-5,"name":"supplementaries:blocks/urn_loot/common"}]
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/end_city_stasis - Failed to parse either. First: No key components in MapLike[{"function":"set_components","tag":"{StoredEnchantments:[{lvl:1s,id:\"supplementaries:stasis\"}]}"}]; Second: Not a json array: {"function":"set_components","tag":"{StoredEnchantments:[{lvl:1s,id:\"supplementaries:stasis\"}]}"}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:inject/temple_spikes - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:set_charges; Second: Not a json array: {"function":"supplementaries:set_charges","damage":{"min":0.2,"max":0.9}}; Failed to parse either. First: Not a JSON object: [{"type":"minecraft:potion_content","potion":"minecraft:poison"}]; Second: Not a json array: {"function":"set_components","components":[{"type":"minecraft:potion_content","potion":"minecraft:poison"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_red - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_white - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_orange - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/supplementaries:blocks/urn_loot/rare - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: supplementaries:random_enchantment; Second: Not a json array: {"function":"supplementaries:random_enchantment","enchantments":"#minecraft:curse"}; Failed to parse either. First: No key enchantments in MapLike[{"function":"supplementaries:curse_loot"}]; No key chance in MapLike[{"function":"supplementaries:curse_loot"}]; Second: Not a json array: {"function":"supplementaries:curse_loot"}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_purple - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_magenta - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/suppsquared:blocks/sack_light_gray - Failed to parse either. First: No key component in MapLike[{"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}]; Second: Not a json array: {"function":"minecraft:set_contents","type":"minecraft:shulker_box","entries":[{"type":"minecraft:dynamic","name":"minecraft:contents"}]}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:copy_nbt; Second: Not a json array: {"function":"minecraft:copy_nbt","source":"block_entity","ops":[{"source":"Lock","target":"BlockEntityTag.Lock","op":"replace"},{"source":"LootTable","target":"BlockEntityTag.LootTable","op":"replace"},{"source":"LootTableSeed","target":"BlockEntityTag.LootTableSeed","op":"replace"}]}
+[22:22:17] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/supplementaries:blocks/urn}.pools[1].entries[0]: Unknown loot table called supplementaries:blocks/urn_loot/urn_loot
+[22:22:18] [main/INFO]: Intercepted tag results
+[22:22:18] [main/ERROR]: Failed to parse resource conditions for file of type recipe with id suppsquared:candle_holders/gold_candle_holder_soul, skipping: Unknown resource condition key: forge:mod_loaded
+[22:22:18] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:glass_bottle"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -573,9 +573,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:glas
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:12] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[22:22:18] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -591,9 +591,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:12] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+[22:22:18] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
 com.google.gson.JsonParseException: Not a JSON object: "minecraft:lapis_lazuli"; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:item_ability","action":"pickaxe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:item_ability","action":"pickaxe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:item_ability","action":"pickaxe_dig"}]; No key item in MapLike[{"type":"farmersdelight:item_ability","action":"pickaxe_dig"}]; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":["supplementaries:lapis_bricks"]}]; Second: Failed to parse either. First: Not a json array: {"item":["supplementaries:lapis_bricks"]}; Second: No key tag in MapLike[{"item":["supplementaries:lapis_bricks"]}]; Not a string: ["supplementaries:lapis_bricks"]; No ingredients for cutting recipe
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -609,9 +609,9 @@ com.google.gson.JsonParseException: Not a JSON object: "minecraft:lapis_lazuli";
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:12] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+[22:22:18] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
 com.google.gson.JsonParseException: Not a JSON object: ["supplementaries:ash_brick"]; Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"type":"farmersdelight:tool_action","action":"pickaxe_dig"}]; Second: Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"pickaxe_dig"}; Second: No key tag in MapLike[{"type":"farmersdelight:tool_action","action":"pickaxe_dig"}]; No key item in MapLike[{"type":"farmersdelight:tool_action","action":"pickaxe_dig"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -627,9 +627,9 @@ com.google.gson.JsonParseException: Not a JSON object: ["supplementaries:ash_bri
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:12] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[22:22:18] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -645,9 +645,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:13] [main/ERROR]: Parsing error loading recipe suppsquared:candle_holders/gold_candle_holder_soul
+[22:22:18] [main/ERROR]: Parsing error loading recipe suppsquared:candle_holders/gold_candle_holder_soul
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: suppsquared:gold_candle_holder_soul; Map entry '1' : Failed to parse either. First: Input does not contain a key [fabric:type]: MapLike[{"item":"buzzier_bees:soul_candle"}]; Second: Failed to parse either. First: Not a json array: {"item":"buzzier_bees:soul_candle"}; Second: No key tag in MapLike[{"item":"buzzier_bees:soul_candle"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: buzzier_bees:soul_candle
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -663,9 +663,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:13] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[22:22:18] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:glass_bottle"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -681,9 +681,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:glas
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:13] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[22:22:18] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl"}]
-	at knot/com.mojang.serialization.DataResult$Error.mdbb8853$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md5e3847$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -699,47 +699,47 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"minecraft:bowl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:47:13] [main/INFO]: Generating Sawmill Recipes
-[17:47:13] [main/INFO]: Generated Sawmill recipes in 224 milliseconds
-[17:47:13] [main/INFO]: Loaded 6681 recipes
-[17:47:13] [main/INFO]: Loaded 4250 advancements
-[17:47:13] [main/INFO]: Ice And Fire common config version match.
-[17:47:13] [main/INFO]: Successfully reload 2 server config(s).
-[17:47:13] [main/INFO]: Applied 13 data villager trades
-[17:47:13] [main/INFO]: Loaded 79 chiseling recipes
-[17:47:13] [main/INFO]: Loaded 27 flute songs
-[17:47:13] [main/INFO]: Reloading grave shape (server)
-[17:47:13] [main/INFO]: Grave model and shape reload successful (server)
-[17:47:13] [main/INFO]: Reloading YIGD graveyard data (server)
-[17:47:13] [main/INFO]: Graveyard data successfully reloaded (server)
-[17:47:13] [main/INFO]: Reloading YIGD grave area overrides (server)
-[17:47:13] [main/INFO]: Grave area overrides successfully reloaded (server)
-[17:47:13] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:black_dyes, c:blue_dyes, c:brown_dyes, c:cyan_dyes, c:gray_dyes, c:green_dyes, c:ingots/brass, c:ingots/lead, c:light_blue_dyes, c:light_gray_dyes, c:lime_dyes, c:magenta_dyes, c:orange_dyes, c:pink_dyes, c:purple_dyes, c:red_dyes, c:storage_blocks/lead, c:white_dyes, c:yellow_dyes
-[17:47:13] [main/INFO]: Registering custom dispenser behaviors
-[17:47:14] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[17:47:14] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[17:47:14] [main/INFO]: Applied 3796 biome modifications to 140 of 140 new biomes in 169.5 ms
-[17:47:14] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[17:47:14] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[17:47:14] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
-[17:47:14] [Server thread/INFO]: Dispatching loading event for config mutantmonsters-server.toml
-[17:47:14] [Server thread/INFO]: Dispatching loading event for config universalbonemeal-server.toml
-[17:47:15] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 24227 bytes (in 3 string chunks with the size of 10000)
-[17:47:15] [Server thread/INFO]: Loading server configs...
-[17:47:15] [Server thread/INFO]: Injecting Carpenter Village Houses
-[17:47:15] [Server thread/INFO]: Starting background profiler...
-[17:47:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:47:15] [Server thread/INFO]: Loading properties
-[17:47:15] [Server thread/INFO]: Default game type: SURVIVAL
-[17:47:15] [Server thread/INFO]: Generating keypair
-[17:47:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:47:15] [Server thread/INFO]: Using epoll channel type
-[17:47:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:47:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:47:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:47:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:47:15] [Server thread/INFO]: Preparing level "world"
-[17:47:15] [Server thread/WARN]: Mixin apply for mod betterchunkloading failed betterchunkloading.mixins.json:ServerChunkCacheMixin from mod betterchunkloading -> net.minecraft.class_3215: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/class_3215::prioWaiting with priority 200 cannot inject into net/minecraft/class_3215::method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; merged by net.caffeinemc.mods.lithium.mixin.world.chunk_access.ServerChunkCacheMixin with priority 1000 [redirect$znf000$betterchunkloading$prioWaiting(Lnet/minecraft/class_3215;IILnet/minecraft/class_2806;Z)Ljava/util/concurrent/CompletableFuture; -> Prepare ->  -> { target: method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; }]
+[22:22:18] [main/INFO]: Generating Sawmill Recipes
+[22:22:18] [main/INFO]: Generated Sawmill recipes in 92 milliseconds
+[22:22:18] [main/INFO]: Loaded 6681 recipes
+[22:22:19] [main/INFO]: Loaded 4250 advancements
+[22:22:19] [main/INFO]: Ice And Fire common config version match.
+[22:22:19] [main/INFO]: Successfully reload 2 server config(s).
+[22:22:19] [main/INFO]: Applied 13 data villager trades
+[22:22:19] [main/INFO]: Loaded 79 chiseling recipes
+[22:22:19] [main/INFO]: Loaded 27 flute songs
+[22:22:19] [main/INFO]: Reloading grave shape (server)
+[22:22:19] [main/INFO]: Grave model and shape reload successful (server)
+[22:22:19] [main/INFO]: Reloading YIGD graveyard data (server)
+[22:22:19] [main/INFO]: Graveyard data successfully reloaded (server)
+[22:22:19] [main/INFO]: Reloading YIGD grave area overrides (server)
+[22:22:19] [main/INFO]: Grave area overrides successfully reloaded (server)
+[22:22:19] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:black_dyes, c:blue_dyes, c:brown_dyes, c:cyan_dyes, c:gray_dyes, c:green_dyes, c:ingots/brass, c:ingots/lead, c:light_blue_dyes, c:light_gray_dyes, c:lime_dyes, c:magenta_dyes, c:orange_dyes, c:pink_dyes, c:purple_dyes, c:red_dyes, c:storage_blocks/lead, c:white_dyes, c:yellow_dyes
+[22:22:19] [main/INFO]: Registering custom dispenser behaviors
+[22:22:19] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:22:19] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:22:20] [main/INFO]: Applied 3796 biome modifications to 140 of 140 new biomes in 147.8 ms
+[22:22:20] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[22:22:20] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[22:22:20] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
+[22:22:20] [Server thread/INFO]: Dispatching loading event for config mutantmonsters-server.toml
+[22:22:20] [Server thread/INFO]: Dispatching loading event for config universalbonemeal-server.toml
+[22:22:20] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 24227 bytes (in 3 string chunks with the size of 10000)
+[22:22:20] [Server thread/INFO]: Loading server configs...
+[22:22:20] [Server thread/INFO]: Injecting Carpenter Village Houses
+[22:22:20] [Server thread/INFO]: Starting background profiler...
+[22:22:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:22:20] [Server thread/INFO]: Loading properties
+[22:22:20] [Server thread/INFO]: Default game type: SURVIVAL
+[22:22:20] [Server thread/INFO]: Generating keypair
+[22:22:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:22:21] [Server thread/INFO]: Using epoll channel type
+[22:22:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:22:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:22:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:22:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:22:21] [Server thread/INFO]: Preparing level "world"
+[22:22:21] [Server thread/WARN]: Mixin apply for mod betterchunkloading failed betterchunkloading.mixins.json:ServerChunkCacheMixin from mod betterchunkloading -> net.minecraft.class_3215: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/class_3215::prioWaiting with priority 200 cannot inject into net/minecraft/class_3215::method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; merged by net.caffeinemc.mods.lithium.mixin.world.chunk_access.ServerChunkCacheMixin with priority 1000 [redirect$znf000$betterchunkloading$prioWaiting(Lnet/minecraft/class_3215;IILnet/minecraft/class_2806;Z)Ljava/util/concurrent/CompletableFuture; -> Prepare ->  -> { target: method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; }]
 org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At("INVOKE") on net/minecraft/class_3215::prioWaiting with priority 200 cannot inject into net/minecraft/class_3215::method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; merged by net.caffeinemc.mods.lithium.mixin.world.chunk_access.ServerChunkCacheMixin with priority 1000 [redirect$znf000$betterchunkloading$prioWaiting(Lnet/minecraft/class_3215;IILnet/minecraft/class_2806;Z)Ljava/util/concurrent/CompletableFuture; -> Prepare ->  -> { target: method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; }]
 	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:312) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
 	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:248) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
@@ -764,240 +764,26 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:664) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:47:16] [Server thread/INFO]: Loaded config for: betterchunkloading.json
-[17:47:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:47:16] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[17:47:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:47:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:47:17] [Server thread/INFO]: Time elapsed: 728 ms
-[17:47:17] [Server thread/INFO]: Done (1.410s)! For help, type "help"
-[17:47:17] [Server thread/WARN]: Dedicated server took 30.602 seconds to load
-[17:47:17] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition: com.iafenvoy.iceandfire.compat.jade.IceAndFireJadePlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[17:47:17] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[17:47:17] [Server thread/INFO]: Start loading plugin from Supplementaries: net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[17:47:17] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[17:47:27] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[17:47:27] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:47:27] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[17:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10576ms or 211 ticks behind
-[17:47:27] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[17:47:27] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[17:50:22] [Server thread/INFO]: celsofuster[/127.232.63.210:48159] logged in with entity id 9 at (203.76493315999917, 75.0, -42.30000001192093)
-[17:50:22] [Server thread/INFO]: Sending server config values to client
-[17:50:23] [Server thread/INFO]: Loading config from file...
-[17:50:23] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[17:50:23] [Server thread/INFO]: celsofuster joined the game
-[17:50:23] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
-[17:50:23] [Server thread/INFO]: Receiving client config
-[17:50:23] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
-[17:50:23] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
-[17:54:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/563, l='ServerLevel[world]', x=208.18, y=67.00, z=-52.55]
-[17:54:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/599, l='ServerLevel[world]', x=202.40, y=63.00, z=-75.75]
-[17:55:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/857, l='ServerLevel[world]', x=196.15, y=81.00, z=47.62]
-[17:57:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/1267, l='ServerLevel[world]', x=120.45, y=24.35, z=85.05]
-[17:57:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/1268, l='ServerLevel[world]', x=120.45, y=24.35, z=85.05]
-[18:00:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/2004, l='ServerLevel[world]', x=-100.90, y=72.00, z=389.84]
-[18:00:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/2092, l='ServerLevel[world]', x=-185.97, y=103.00, z=378.27]
-[18:01:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Cod'/2567, l='ServerLevel[world]', x=-77.54, y=56.90, z=538.47]
-[18:02:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3236, l='ServerLevel[world]', x=-190.24, y=104.00, z=338.18]
-[18:02:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/3267, l='ServerLevel[world]', x=-198.65, y=104.00, z=330.37]
-[18:02:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3268, l='ServerLevel[world]', x=-198.65, y=104.00, z=330.37]
-[18:03:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/3296, l='ServerLevel[world]', x=-184.48, y=104.77, z=306.78]
-[18:03:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3297, l='ServerLevel[world]', x=-184.48, y=104.77, z=306.78]
-[18:04:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/3484, l='ServerLevel[world]', x=-125.60, y=28.00, z=294.36]
-[18:04:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/3504, l='ServerLevel[world]', x=-132.54, y=-4.00, z=321.40]
-[18:04:34] [Server thread/INFO]: celsofuster has made the advancement [Gentle Giant]
-[18:04:34] [Server thread/INFO]: celsofuster has made the advancement [Best Friends Forever]
-[18:05:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/3891, l='ServerLevel[world]', x=-365.40, y=103.00, z=180.98]
-[18:05:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/3937, l='ServerLevel[world]', x=-399.78, y=129.00, z=271.22]
-[18:05:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3938, l='ServerLevel[world]', x=-399.78, y=129.00, z=271.22]
-[18:05:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/3958, l='ServerLevel[world]', x=-398.53, y=129.00, z=266.71]
-[18:05:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3959, l='ServerLevel[world]', x=-398.53, y=129.00, z=266.71]
-[18:05:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/3972, l='ServerLevel[world]', x=-397.61, y=128.77, z=265.08]
-[18:05:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3973, l='ServerLevel[world]', x=-397.61, y=128.77, z=265.08]
-[18:05:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/3978, l='ServerLevel[world]', x=-394.24, y=128.00, z=258.80]
-[18:05:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/4012, l='ServerLevel[world]', x=-385.58, y=131.00, z=275.77]
-[18:05:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/4013, l='ServerLevel[world]', x=-385.58, y=131.00, z=275.77]
-[18:05:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4021, l='ServerLevel[world]', x=-390.36, y=22.00, z=299.60]
-[18:05:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/4028, l='ServerLevel[world]', x=-371.77, y=125.00, z=276.48]
-[18:05:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/4029, l='ServerLevel[world]', x=-371.77, y=125.00, z=276.48]
-[18:05:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/4061, l='ServerLevel[world]', x=-396.23, y=130.00, z=273.24]
-[18:06:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4073, l='ServerLevel[world]', x=-395.08, y=26.00, z=306.50]
-[18:07:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4615, l='ServerLevel[world]', x=-582.47, y=70.00, z=317.72]
-[18:07:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/4864, l='ServerLevel[world]', x=-597.57, y=49.00, z=333.14]
-[18:09:20] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-837, y=69, z=-245}
-[18:09:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-837, y=69, z=-245} but found not block entity block Block{minecraft:air} at location
-[18:09:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-837, y=69, z=-245}
-[18:10:03] [Server thread/WARN]: celsofuster was kicked for floating a vehicle too long!
-[18:10:03] [Server thread/INFO]: celsofuster lost connection: Flying is not enabled on this server
-[18:10:03] [Server thread/INFO]: celsofuster left the game
-[18:10:03] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
-[18:10:03] [Server thread/WARN]: handleDisconnection() called twice
-[18:10:12] [Server thread/INFO]: celsofuster[/127.232.63.210:46251] logged in with entity id 6737 at (-710.6641826006911, 172.16325627497358, -220.12312322873123)
-[18:10:12] [Server thread/INFO]: Sending server config values to client
-[18:10:12] [Server thread/INFO]: Loading config from file...
-[18:10:12] [Server thread/INFO]: celsofuster joined the game
-[18:10:12] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
-[18:10:12] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
-[18:10:12] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
-[18:10:12] [Server thread/INFO]: Receiving client config
-[18:10:41] [Server thread/WARN]: celsofuster was kicked for floating a vehicle too long!
-[18:10:42] [Server thread/INFO]: celsofuster lost connection: Flying is not enabled on this server
-[18:10:42] [Server thread/INFO]: celsofuster left the game
-[18:10:42] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
-[18:10:49] [Server thread/INFO]: celsofuster[/127.232.63.210:47381] logged in with entity id 7399 at (-752.9989085420892, 201.12897582249195, -346.36042964164534)
-[18:10:49] [Server thread/INFO]: Sending server config values to client
-[18:10:49] [Server thread/INFO]: Loading config from file...
-[18:10:49] [Server thread/INFO]: celsofuster joined the game
-[18:10:50] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
-[18:10:50] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
-[18:10:50] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
-[18:10:50] [Server thread/INFO]: Receiving client config
-[18:11:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7860, l='ServerLevel[world]', x=-660.60, y=-8.00, z=-473.53]
-[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.4315964428078587
-[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.7187634646527385
-[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.1924755581363797
-[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.4383585530723053
-[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.730024812801048
-[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.2113191838809598
-[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.7138466766801912
-[18:12:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8357, l='ServerLevel[world]', x=-531.62, y=70.00, z=-584.39]
-[18:12:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8361, l='ServerLevel[world]', x=-532.97, y=70.00, z=-585.53]
-[18:12:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8367, l='ServerLevel[world]', x=-529.76, y=70.00, z=-583.51]
-[18:12:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8386, l='ServerLevel[world]', x=-554.39, y=8.00, z=-515.55]
-[18:13:15] [Server thread/INFO]: celsofuster has made the advancement [Who is Cutting Onions?]
-[18:13:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8469, l='ServerLevel[world]', x=-538.20, y=68.00, z=-573.45]
-[18:13:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8470, l='ServerLevel[world]', x=-538.20, y=68.00, z=-573.45]
-[18:13:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/8494, l='ServerLevel[world]', x=-543.30, y=67.00, z=-565.70]
-[18:14:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/8627, l='ServerLevel[world]', x=-593.45, y=63.00, z=-527.76]
-[18:15:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8666, l='ServerLevel[world]', x=-591.46, y=17.00, z=-512.24]
-[18:17:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/9069, l='ServerLevel[world]', x=-536.15, y=67.00, z=-578.44]
-[18:17:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9070, l='ServerLevel[world]', x=-536.15, y=67.00, z=-578.44]
-[18:18:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/9265, l='ServerLevel[world]', x=-580.30, y=63.00, z=-628.09]
-[18:18:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/9273, l='ServerLevel[world]', x=-580.50, y=60.00, z=-626.36]
-[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9313, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
-[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9314, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
-[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9315, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
-[18:18:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/9352, l='ServerLevel[world]', x=-585.18, y=68.00, z=-618.11]
-[18:19:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9392, l='ServerLevel[world]', x=-590.80, y=68.00, z=-616.83]
-[18:19:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9393, l='ServerLevel[world]', x=-590.80, y=68.00, z=-616.83]
-[18:20:19] [Server thread/INFO]: celsofuster has made the advancement [GOLD!!!]
-[18:20:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9749, l='ServerLevel[world]', x=-21.70, y=26.25, z=-147.72]
-[18:20:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9750, l='ServerLevel[world]', x=-21.70, y=26.25, z=-147.72]
-[18:20:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9761, l='ServerLevel[world]', x=-23.06, y=49.00, z=-146.96]
-[18:23:25] [Server thread/INFO]: celsofuster has completed the challenge [Return to Sender]
-[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ghast Tear'/10057, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
-[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/10058, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
-[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/10059, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
-[18:24:28] [Server thread/INFO]: [celsofuster: Teleported celsofuster to -71.500000, 73.500000, -74.500000]
-[18:24:38] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[18:24:38] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[18:25:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/10662, l='ServerLevel[world]', x=-504.30, y=38.17, z=-633.70]
-[18:25:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/10663, l='ServerLevel[world]', x=-504.30, y=38.17, z=-633.70]
-[18:26:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/11327, l='ServerLevel[world]', x=-487.67, y=13.00, z=-1041.60]
-[18:26:18] [pool-8-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=-277, y=71, z=-1195}
-[18:26:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-277, y=71, z=-1195} but found not block entity block Block{minecraft:spruce_trapdoor}[powered=false,waterlogged=false,half=bottom,open=false,facing=north] at location
-[18:26:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[powered=false,waterlogged=false,half=bottom,open=false,facing=north] but failed at location class_2338{x=-277, y=71, z=-1195}
-[18:26:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/11543, l='ServerLevel[world]', x=-455.33, y=30.00, z=-1033.54]
-[18:28:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/13274, l='ServerLevel[world]', x=44.86, y=73.00, z=-1465.76]
-[18:28:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Cooked Porkchop'/13283, l='ServerLevel[world]', x=50.98, y=75.00, z=-1445.83]
-[18:28:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Cooked Porkchop'/13389, l='ServerLevel[world]', x=47.50, y=74.00, z=-1445.31]
-[18:28:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/13417, l='ServerLevel[world]', x=43.17, y=74.00, z=-1459.45]
-[18:29:25] [pool-8-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-181, y=72, z=-1803}
-[18:29:25] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-181, y=72, z=-1803} but found not block entity block Block{minecraft:spruce_fence}[west=false,waterlogged=false,south=false,east=true,north=false] at location
-[18:29:25] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[west=false,waterlogged=false,south=false,east=true,north=false] but failed at location class_2338{x=-181, y=72, z=-1803}
-[18:29:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Saddle'/14442, l='ServerLevel[world]', x=-81.22, y=61.93, z=-1645.33]
-[18:29:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14460, l='ServerLevel[world]', x=-76.10, y=61.06, z=-1649.18]
-[18:29:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14461, l='ServerLevel[world]', x=-77.80, y=61.56, z=-1649.51]
-[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14486, l='ServerLevel[world]', x=-64.60, y=58.89, z=-1646.91]
-[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14487, l='ServerLevel[world]', x=-63.90, y=59.26, z=-1646.98]
-[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14490, l='ServerLevel[world]', x=-62.95, y=58.56, z=-1647.83]
-[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14491, l='ServerLevel[world]', x=-61.94, y=59.95, z=-1645.90]
-[18:29:37] [Server thread/INFO]: celsofuster was turned into KFC by Fire Dragon
-[18:29:38] [pool-8-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=85, y=72, z=-1749}
-[18:29:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=85, y=72, z=-1749} but found not block entity block Block{minecraft:air} at location
-[18:29:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=85, y=72, z=-1749}
-[18:29:48] [Server thread/INFO]: [celsofuster: Teleported celsofuster to -56.500000, 56.500000, -1648.500000]
-[18:29:51] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at -61, 56, -1648, minecraft:overworld
-[18:30:20] [Server thread/INFO]: celsofuster lost connection: Disconnected
-[18:30:20] [Server thread/INFO]: celsofuster left the game
-[18:30:20] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
-[18:35:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@105e8ffb[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:35:26] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:26] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f76e9f8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:35:35] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:35] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a8af5b8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:35:49] [Server thread/WARN]: handleDisconnection() called twice
-[18:35:49] [Server thread/WARN]: handleDisconnection() called twice
-[18:36:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b87948[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:36:08] [Server thread/WARN]: handleDisconnection() called twice
-[18:36:08] [Server thread/WARN]: handleDisconnection() called twice
-[18:38:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@33a49590[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:38:08] [Server thread/WARN]: handleDisconnection() called twice
-[18:38:08] [Server thread/WARN]: handleDisconnection() called twice
-[18:44:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fab13f7[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:44:52] [Server thread/WARN]: handleDisconnection() called twice
-[18:44:52] [Server thread/WARN]: handleDisconnection() called twice
-[18:45:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@42baf74[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:45:55] [Server thread/WARN]: handleDisconnection() called twice
-[18:45:55] [Server thread/WARN]: handleDisconnection() called twice
-[18:46:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@21a5c0c0[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:46:15] [Server thread/WARN]: handleDisconnection() called twice
-[18:46:15] [Server thread/WARN]: handleDisconnection() called twice
-[18:46:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@10dc270f[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:46:43] [Server thread/WARN]: handleDisconnection() called twice
-[18:46:43] [Server thread/WARN]: handleDisconnection() called twice
-[18:47:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@ba831f1[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:47:13] [Server thread/WARN]: handleDisconnection() called twice
-[18:47:13] [Server thread/WARN]: handleDisconnection() called twice
-[18:49:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@3e310612[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:49:31] [Server thread/WARN]: handleDisconnection() called twice
-[18:49:31] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@327954ea[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:51:16] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:16] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e11059c[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:51:19] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:19] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@76871297[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:51:26] [Server thread/WARN]: handleDisconnection() called twice
-[18:51:26] [Server thread/WARN]: handleDisconnection() called twice
-[18:57:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c42628c[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:57:00] [Server thread/WARN]: handleDisconnection() called twice
-[18:57:00] [Server thread/WARN]: handleDisconnection() called twice
-[18:58:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a5543a0[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[18:58:49] [Server thread/WARN]: handleDisconnection() called twice
-[18:58:49] [Server thread/WARN]: handleDisconnection() called twice
-[19:01:33] [Server thread/INFO]: celsofuster[/127.232.63.210:48095] logged in with entity id 15096 at (-65.90504115008515, 62.0, -1654.1876804748892)
-[19:01:33] [Server thread/INFO]: Sending server config values to client
-[19:01:33] [Server thread/INFO]: Loading config from file...
-[19:01:33] [Server thread/INFO]: celsofuster joined the game
-[19:01:34] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
-[19:01:34] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
-[19:01:34] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
-[19:01:34] [Server thread/INFO]: Receiving client config
-[19:01:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15361, l='ServerLevel[world]', x=-122.36, y=68.00, z=-1772.17]
-[19:01:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15362, l='ServerLevel[world]', x=-122.36, y=68.00, z=-1772.17]
-[19:01:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15365, l='ServerLevel[world]', x=-121.55, y=69.92, z=-1776.39]
-[19:01:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15366, l='ServerLevel[world]', x=-121.55, y=69.92, z=-1776.39]
-[19:01:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15372, l='ServerLevel[world]', x=-130.40, y=66.00, z=-1768.29]
-[19:01:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15373, l='ServerLevel[world]', x=-130.40, y=66.00, z=-1768.29]
-[19:02:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Black Wool'/15393, l='ServerLevel[world]', x=-138.13, y=65.00, z=-1765.51]
-[19:02:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15394, l='ServerLevel[world]', x=-138.13, y=65.00, z=-1765.51]
-[19:02:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/15444, l='ServerLevel[world]', x=-113.50, y=67.00, z=-1561.50]
-[19:02:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/15521, l='ServerLevel[world]', x=-113.73, y=65.00, z=-1575.79]
-[19:02:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/15522, l='ServerLevel[world]', x=-113.73, y=65.00, z=-1575.79]
-[19:03:57] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 411.500000, 64.500000, -1682.500000]
-[19:04:13] [Server thread/INFO]: celsofuster lost connection: Disconnected
-[19:04:13] [Server thread/INFO]: celsofuster left the game
-[19:04:13] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
-[19:11:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b4b2af8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
-[19:11:11] [Server thread/WARN]: handleDisconnection() called twice
-[19:11:11] [Server thread/WARN]: handleDisconnection() called twice
+[22:22:21] [Server thread/INFO]: Loaded config for: betterchunkloading.json
+[22:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:22:21] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[22:22:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:22:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:22:22] [Server thread/INFO]: Time elapsed: 850 ms
+[22:22:22] [Server thread/INFO]: Done (1.282s)! For help, type "help"
+[22:22:22] [Server thread/WARN]: Dedicated server took 33.03 seconds to load
+[22:22:22] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition: com.iafenvoy.iceandfire.compat.jade.IceAndFireJadePlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[22:22:22] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[22:22:22] [Server thread/INFO]: Start loading plugin from Supplementaries: net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[22:22:22] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[22:22:34] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[22:22:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:22:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12241ms or 244 ticks behind
+[22:22:34] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22:22:34] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
