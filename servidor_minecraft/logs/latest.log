@@ -806,3 +806,60 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22:59:53] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
 [22:59:53] [Server thread/INFO]: Receiving client config
 [23:00:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/230, l='ServerLevel[world]', x=408.41, y=64.00, z=-1678.64]
+[23:02:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/658, l='ServerLevel[world]', x=421.05, y=62.00, z=-1677.90]
+[23:02:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/659, l='ServerLevel[world]', x=421.05, y=62.00, z=-1677.90]
+[23:03:06] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 436.500000, 67.500000, -1171.500000]
+[23:03:28] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[23:03:41] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 407.500000, 59.500000, -1179.500000]
+[23:03:44] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at 410, 62, -1177, minecraft:overworld
+[23:03:53] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 859.500000, 77.500000, -451.500000]
+[23:04:00] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[23:04:00] [Server thread/INFO]: celsofuster left the game
+[23:04:00] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[23:04:06] [Server thread/INFO]: celsofuster[/127.232.63.210:50867] logged in with entity id 1898 at (860.250333639632, 77.0, -453.9357349033069)
+[23:04:06] [Server thread/INFO]: Sending server config values to client
+[23:04:06] [Server thread/INFO]: Loading config from file...
+[23:04:06] [Server thread/INFO]: celsofuster joined the game
+[23:04:06] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[23:04:06] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[23:04:06] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[23:04:06] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[23:04:06] [Server thread/INFO]: Receiving client config
+[23:04:06] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[23:04:06] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[23:04:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@300369f9[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:04:41] [Server thread/WARN]: handleDisconnection() called twice
+[23:04:41] [Server thread/WARN]: handleDisconnection() called twice
+[23:04:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a515dac[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:04:48] [Server thread/WARN]: handleDisconnection() called twice
+[23:04:48] [Server thread/WARN]: handleDisconnection() called twice
+[23:06:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/2532, l='ServerLevel[world]', x=849.21, y=58.25, z=-427.06]
+[23:06:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Copper Ingot'/2533, l='ServerLevel[world]', x=849.21, y=58.25, z=-427.06]
+[23:06:34] [Server thread/INFO]: celsofuster has made the advancement [Who You Gonna Call?]
+[23:06:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/2559, l='ServerLevel[world]', x=898.50, y=65.00, z=-501.50]
+[23:07:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/2662, l='ServerLevel[world]', x=705.51, y=85.62, z=-360.77]
+[23:08:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@77b1b12e[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:08:27] [Server thread/WARN]: handleDisconnection() called twice
+[23:08:28] [Server thread/WARN]: handleDisconnection() called twice
+[23:11:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Desert Myrmex Resin Chunk'/3524, l='ServerLevel[world]', x=983.60, y=83.05, z=-456.60]
+[23:11:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Desert Myrmex Chitin'/3525, l='ServerLevel[world]', x=983.60, y=83.05, z=-456.60]
+[23:11:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Desert Myrmex Chitin'/3526, l='ServerLevel[world]', x=983.60, y=83.05, z=-456.60]
+[23:15:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@521b9d00[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:15:40] [Server thread/WARN]: handleDisconnection() called twice
+[23:15:40] [Server thread/WARN]: handleDisconnection() called twice
+[23:16:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/5672, l='ServerLevel[world]', x=859.00, y=9.00, z=-465.97]
+[23:16:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone Meal'/5673, l='ServerLevel[world]', x=859.00, y=9.00, z=-465.97]
+[23:16:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@50b9872b[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:16:13] [Server thread/WARN]: handleDisconnection() called twice
+[23:16:13] [Server thread/WARN]: handleDisconnection() called twice
+[23:17:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d65f7bc[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[23:17:46] [Server thread/WARN]: handleDisconnection() called twice
+[23:17:46] [Server thread/WARN]: handleDisconnection() called twice
+[23:18:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Desert Myrmex Resin Chunk'/6252, l='ServerLevel[world]', x=966.40, y=85.00, z=-426.60]
+[23:19:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/6452, l='ServerLevel[world]', x=841.50, y=71.00, z=-522.50]
+[23:19:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6501, l='ServerLevel[world]', x=912.42, y=-2.00, z=-374.60]
+[23:20:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6703, l='ServerLevel[world]', x=899.43, y=2.77, z=-359.25]
+[23:20:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6775, l='ServerLevel[world]', x=922.36, y=2.45, z=-366.18]
+[23:21:01] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[23:21:01] [Server thread/INFO]: celsofuster left the game
+[23:21:01] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
