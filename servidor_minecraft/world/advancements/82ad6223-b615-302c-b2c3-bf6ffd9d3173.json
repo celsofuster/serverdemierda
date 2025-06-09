@@ -1361,6 +1361,7 @@
     "criteria": {
       "volcanic_plains": "2025-06-09 04:26:59 +0000",
       "woodland": "2025-06-09 02:11:20 +0000",
+      "floodplain": "2025-06-09 05:17:53 +0000",
       "wasteland": "2025-06-09 04:28:55 +0000",
       "old_growth_woodland": "2025-06-09 02:11:33 +0000",
       "mediterranean_forest": "2025-06-09 02:12:51 +0000",
@@ -4659,6 +4660,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-06-09 05:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
@@ -4692,6 +4699,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-09 05:05:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-09 05:22:46 +0000"
     },
     "done": true
   },
@@ -4758,6 +4771,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-06-09 05:21:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-09 05:16:36 +0000"
     },
     "done": true
   },
