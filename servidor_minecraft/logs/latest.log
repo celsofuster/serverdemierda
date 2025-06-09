@@ -787,3 +787,22 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12241ms or 244 ticks behind
 [22:22:34] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [22:22:34] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[22:56:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f1c11d6[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[22:56:58] [Server thread/WARN]: handleDisconnection() called twice
+[22:56:58] [Server thread/WARN]: handleDisconnection() called twice
+[22:57:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@157d314f[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[22:57:03] [Server thread/WARN]: handleDisconnection() called twice
+[22:57:03] [Server thread/WARN]: handleDisconnection() called twice
+[22:58:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@224d7a8e[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[22:58:26] [Server thread/WARN]: handleDisconnection() called twice
+[22:58:26] [Server thread/WARN]: handleDisconnection() called twice
+[22:59:52] [Server thread/INFO]: celsofuster[/127.232.63.210:39423] logged in with entity id 8 at (397.9391962670203, 64.0, -1673.9534329663063)
+[22:59:52] [Server thread/INFO]: Sending server config values to client
+[22:59:52] [Server thread/INFO]: Loading config from file...
+[22:59:53] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[22:59:53] [Server thread/INFO]: celsofuster joined the game
+[22:59:53] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[22:59:53] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[22:59:53] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[22:59:53] [Server thread/INFO]: Receiving client config
+[23:00:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/230, l='ServerLevel[world]', x=408.41, y=64.00, z=-1678.64]
