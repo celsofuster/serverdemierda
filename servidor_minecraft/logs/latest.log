@@ -906,3 +906,166 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02:04:57] [Server thread/INFO]: celsofuster lost connection: Disconnected
 [02:04:57] [Server thread/INFO]: celsofuster left the game
 [02:04:57] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[02:05:42] [Server thread/INFO]: Pansaof[/127.221.214.35:39873] logged in with entity id 5917 at (12.98854064273776, 97.0, 7.512200188125448)
+[02:05:42] [Server thread/INFO]: Sending server config values to client
+[02:05:42] [Server thread/INFO]: Loading config from file...
+[02:05:42] [Server thread/INFO]: Pansaof joined the game
+[02:05:42] [Server thread/INFO]: Priority overwritten for player Pansaof. Claiming: GRAVE / Robbing: INVENTORY
+[02:05:42] [Server thread/INFO]: [voicechat] Received secret request of Pansaof (18)
+[02:05:42] [Server thread/INFO]: [voicechat] Sent secret to Pansaof
+[02:05:42] [Server thread/INFO]: Receiving client config
+[02:07:02] [Server thread/INFO]: celsofuster[/127.232.63.210:45095] logged in with entity id 6244 at (113.72415476719799, 115.0, -180.0528000293654)
+[02:07:02] [Server thread/INFO]: Sending server config values to client
+[02:07:02] [Server thread/INFO]: Loading config from file...
+[02:07:02] [Server thread/INFO]: celsofuster joined the game
+[02:07:02] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[02:07:02] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[02:07:02] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[02:07:02] [Server thread/INFO]: Receiving client config
+[02:07:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6384, l='ServerLevel[world]', x=110.40, y=-9.00, z=-205.31]
+[02:07:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6397, l='ServerLevel[world]', x=124.55, y=7.00, z=-163.67]
+[02:07:57] [Server thread/INFO]: Pansaof has made the advancement [Stone Age]
+[02:08:19] [Server thread/INFO]: Pansaof has made the advancement [Getting an Upgrade]
+[02:08:24] [Server thread/INFO]: [Not Secure] <celsofuster> hay un mod todo raro para el sistema de combate
+[02:08:35] [Server thread/INFO]: [Not Secure] <Pansaof> comoes
+[02:08:46] [Server thread/INFO]: [Not Secure] <celsofuster> busque un mod y peguele
+[02:08:52] [Server thread/INFO]: [Not Secure] <celsofuster> con un arma
+[02:09:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6820, l='ServerLevel[world]', x=111.60, y=-10.00, z=-205.50]
+[02:09:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/6821, l='ServerLevel[world]', x=109.34, y=-10.00, z=-205.33]
+[02:09:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/6824, l='ServerLevel[world]', x=73.23, y=93.00, z=-190.70]
+[02:09:14] [Server thread/INFO]: [Not Secure] <Pansaof> no me gusta q la mierda se quede en la mesa de crafteo
+[02:09:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/6911, l='ServerLevel[world]', x=52.03, y=72.00, z=-199.01]
+[02:09:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/6912, l='ServerLevel[world]', x=52.03, y=72.00, z=-199.01]
+[02:09:45] [Server thread/INFO]: [Not Secure] <celsofuster> estas en la jungla?
+[02:09:53] [Server thread/INFO]: [Not Secure] <Pansaof> en el inicio practicamente
+[02:11:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@67f47b73[id=18a9d06f-2117-381a-9e2b-ff7fded4b4ca,name=Ananeitorxd,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:11:34] [Server thread/WARN]: handleDisconnection() called twice
+[02:11:34] [Server thread/WARN]: handleDisconnection() called twice
+[02:11:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/7495, l='ServerLevel[world]', x=102.78, y=62.69, z=-48.40]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/7561, l='ServerLevel[world]', x=97.40, y=60.99, z=-59.56]
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:02] [Worker-Main-6/WARN]: Empty or non-existent pool: minecraft:
+[02:12:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@163f91d5[id=18a9d06f-2117-381a-9e2b-ff7fded4b4ca,name=Ananeitorxd,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:12:21] [Server thread/WARN]: handleDisconnection() called twice
+[02:12:21] [Server thread/WARN]: handleDisconnection() called twice
+[02:12:30] [Server thread/INFO]: [Not Secure] <Pansaof> ayuda no encuentro animales
+[02:12:43] [Server thread/INFO]: [Not Secure] <celsofuster> hay muy pocos
+[02:12:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/8023, l='ServerLevel[world]', x=317.70, y=64.00, z=-163.30]
+[02:13:03] [Server thread/INFO]: [Not Secure] <Pansaof> todo horrible el sistemaxd
+[02:13:12] [Server thread/INFO]: [Not Secure] <celsofuster> pero esta gracioso
+[02:13:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8050, l='ServerLevel[world]', x=188.12, y=67.62, z=-97.15]
+[02:13:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8051, l='ServerLevel[world]', x=188.12, y=67.62, z=-97.15]
+[02:13:34] [Server thread/INFO]: [Not Secure] <celsofuster> pq si hacemos pvp va a ser todo horrible
+[02:13:41] [Server thread/INFO]: [Not Secure] <Pansaof> si
+[02:13:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/8244, l='ServerLevel[world]', x=345.32, y=62.00, z=-218.91]
+[02:14:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/8289, l='ServerLevel[world]', x=342.59, y=57.73, z=-233.59]
+[02:14:34] [Server thread/INFO]: [Not Secure] <celsofuster> perrita si le undes a tab puedes ver los mobs en el mapa
+[02:14:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/8502, l='ServerLevel[world]', x=398.52, y=78.02, z=-243.93]
+[02:14:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/8641, l='ServerLevel[world]', x=414.16, y=88.00, z=-238.21]
+[02:14:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/8642, l='ServerLevel[world]', x=414.16, y=88.00, z=-238.21]
+[02:14:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/8671, l='ServerLevel[world]', x=331.53, y=64.00, z=-54.30]
+[02:14:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/8672, l='ServerLevel[world]', x=331.53, y=64.00, z=-54.30]
+[02:14:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/8678, l='ServerLevel[world]', x=414.10, y=89.00, z=-239.46]
+[02:14:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/8679, l='ServerLevel[world]', x=414.10, y=89.00, z=-239.46]
+[02:14:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/8725, l='ServerLevel[world]', x=420.69, y=90.75, z=-253.45]
+[02:14:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/8726, l='ServerLevel[world]', x=420.69, y=90.75, z=-253.45]
+[02:14:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/8736, l='ServerLevel[world]', x=346.53, y=64.00, z=-56.59]
+[02:14:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/8737, l='ServerLevel[world]', x=346.53, y=64.00, z=-56.59]
+[02:15:39] [Server thread/INFO]: celsofuster has made the advancement [Isn't It Iron Pick]
+[02:16:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/9410, l='ServerLevel[world]', x=266.37, y=66.00, z=-63.78]
+[02:16:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/9411, l='ServerLevel[world]', x=266.37, y=66.00, z=-63.78]
+[02:16:44] [Server thread/INFO]: Pansaof has made the advancement [Who You Gonna Call?]
+[02:16:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/9660, l='ServerLevel[world]', x=465.36, y=79.00, z=-139.48]
+[02:17:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9698, l='ServerLevel[world]', x=159.70, y=40.17, z=35.70]
+[02:17:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9699, l='ServerLevel[world]', x=159.70, y=40.17, z=35.70]
+[02:17:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/9767, l='ServerLevel[world]', x=470.48, y=74.00, z=-124.25]
+[02:17:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/9805, l='ServerLevel[world]', x=454.31, y=79.00, z=-136.78]
+[02:17:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/9916, l='ServerLevel[world]', x=435.55, y=80.00, z=-122.09]
+[02:17:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/9938, l='ServerLevel[world]', x=424.79, y=80.00, z=-112.66]
+[02:18:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/9984, l='ServerLevel[world]', x=456.96, y=77.00, z=-125.05]
+[02:18:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/10068, l='ServerLevel[world]', x=241.70, y=9.17, z=-50.30]
+[02:18:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/10069, l='ServerLevel[world]', x=241.70, y=9.17, z=-50.30]
+[02:18:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/10099, l='ServerLevel[world]', x=294.64, y=28.00, z=24.36]
+[02:22:22] [Server thread/INFO]: Pansaof has made the advancement [Monster Hunter]
+[02:22:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/10867, l='ServerLevel[world]', x=452.70, y=37.94, z=-128.30]
+[02:22:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/10942, l='ServerLevel[world]', x=285.30, y=32.10, z=35.30]
+[02:23:35] [Server thread/INFO]: [Not Secure] <Pansaof> pq hay puros minerales raros y n hierro
+[02:23:48] [Server thread/INFO]: [Not Secure] <celsofuster> como asi
+[02:24:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/11477, l='ServerLevel[world]', x=500.04, y=4.58, z=-168.81]
+[02:24:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/11478, l='ServerLevel[world]', x=500.04, y=4.58, z=-168.81]
+[02:25:35] [Server thread/INFO]: celsofuster has made the advancement [Suit Up]
+[02:26:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/11816, l='ServerLevel[world]', x=403.45, y=29.35, z=43.02]
+[02:29:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13125, l='ServerLevel[world]', x=318.97, y=80.00, z=23.24]
+[02:29:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13126, l='ServerLevel[world]', x=402.96, y=91.00, z=-205.99]
+[02:29:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13127, l='ServerLevel[world]', x=326.09, y=86.00, z=9.91]
+[02:29:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13130, l='ServerLevel[world]', x=532.90, y=79.00, z=-178.93]
+[02:29:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13131, l='ServerLevel[world]', x=371.10, y=63.00, z=-118.90]
+[02:29:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13159, l='ServerLevel[world]', x=383.11, y=64.00, z=-58.92]
+[02:29:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13168, l='ServerLevel[world]', x=313.05, y=70.00, z=-22.82]
+[02:29:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13186, l='ServerLevel[world]', x=313.03, y=70.00, z=-21.18]
+[02:29:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/13187, l='ServerLevel[world]', x=313.03, y=70.00, z=-21.18]
+[02:29:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/13188, l='ServerLevel[world]', x=479.05, y=36.00, z=-120.26]
+[02:29:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/13189, l='ServerLevel[world]', x=479.05, y=36.00, z=-120.26]
+[02:29:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13272, l='ServerLevel[world]', x=532.90, y=79.00, z=-178.93]
+[02:29:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13273, l='ServerLevel[world]', x=319.67, y=80.00, z=23.28]
+[02:29:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/13274, l='ServerLevel[world]', x=319.67, y=80.00, z=23.28]
+[02:29:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13276, l='ServerLevel[world]', x=384.48, y=64.00, z=-58.11]
+[02:29:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13286, l='ServerLevel[world]', x=376.68, y=63.00, z=-115.52]
+[02:29:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13297, l='ServerLevel[world]', x=326.09, y=86.00, z=9.91]
+[02:29:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@384c6c37[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:29:41] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:41] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@31fb6e5[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:29:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@17edf911[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:29:55] [Server thread/WARN]: handleDisconnection() called twice
+[02:29:55] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@5548796c[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:30:00] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:00] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/13488, l='ServerLevel[world]', x=502.70, y=45.00, z=-119.30]
+[02:30:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@425d52cc[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:30:21] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:21] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:27] [Server thread/INFO]: Pansaof has made the advancement [Legendary Bang]
+[02:30:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@39158098[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:30:32] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:32] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13618, l='ServerLevel[world]', x=341.51, y=12.00, z=14.24]
+[02:30:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@4258958e[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:30:48] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:48] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b422845[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:30:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:30:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:38] [Server thread/INFO]: celsofuster has made the advancement [Diamonds!]
+[02:31:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bafce9a[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:31:39] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:39] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@402d7d87[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:31:46] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:46] [Server thread/WARN]: handleDisconnection() called twice
+[02:31:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/14007, l='ServerLevel[world]', x=335.30, y=10.00, z=49.30]
+[02:32:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/14069, l='ServerLevel[world]', x=345.56, y=10.77, z=44.55]
+[02:32:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/14070, l='ServerLevel[world]', x=345.56, y=10.77, z=44.55]
+[02:32:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e571130[id=9407fa86-3501-3a42-bd57-bf5165ce6a15,name=Shui3000,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[02:32:20] [Server thread/WARN]: handleDisconnection() called twice
+[02:32:20] [Server thread/WARN]: handleDisconnection() called twice
+[02:33:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/14447, l='ServerLevel[world]', x=459.47, y=-18.00, z=36.60]
+[02:33:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/14513, l='ServerLevel[world]', x=354.59, y=-16.00, z=48.46]
+[02:34:46] [Server thread/INFO]: [Not Secure] <celsofuster> mrc
+[02:34:56] [Server thread/INFO]: [Not Secure] <celsofuster> encontre la nueva estructura esa toda loca
