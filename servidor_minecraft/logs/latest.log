@@ -842,3 +842,67 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [01:52:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/4171, l='ServerLevel[world]', x=42.85, y=71.00, z=-204.20]
 [01:52:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/4196, l='ServerLevel[world]', x=19.40, y=70.00, z=-199.45]
 [01:52:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/4225, l='ServerLevel[world]', x=43.68, y=70.00, z=-211.85]
+[01:55:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4590, l='ServerLevel[world]', x=111.50, y=-12.00, z=-209.43]
+[01:55:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4591, l='ServerLevel[world]', x=123.84, y=1.00, z=-161.42]
+[01:55:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4592, l='ServerLevel[world]', x=127.63, y=-2.00, z=-163.60]
+[01:55:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4602, l='ServerLevel[world]', x=123.40, y=1.00, z=-163.60]
+[01:56:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4672, l='ServerLevel[world]', x=124.03, y=1.00, z=-163.60]
+[01:56:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4683, l='ServerLevel[world]', x=127.49, y=-2.00, z=-163.41]
+[01:56:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4684, l='ServerLevel[world]', x=125.14, y=1.00, z=-161.42]
+[01:56:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4711, l='ServerLevel[world]', x=111.57, y=-11.00, z=-208.10]
+[01:56:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4718, l='ServerLevel[world]', x=111.58, y=-10.00, z=-205.87]
+[01:57:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4791, l='ServerLevel[world]', x=123.15, y=1.00, z=-161.24]
+[01:57:36] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[01:57:36] [Server thread/INFO]: celsofuster left the game
+[01:57:36] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[01:57:55] [Server thread/INFO]: celsofuster[/127.232.63.210:43441] logged in with entity id 4819 at (116.41108537593969, 115.0, -178.30000001192093)
+[01:57:55] [Server thread/INFO]: Sending server config values to client
+[01:57:55] [Server thread/INFO]: Loading config from file...
+[01:57:55] [Server thread/INFO]: celsofuster joined the game
+[01:57:55] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[01:57:55] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[01:57:55] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[01:57:55] [Server thread/INFO]: Receiving client config
+[01:58:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4979, l='ServerLevel[world]', x=122.51, y=1.00, z=-161.64]
+[01:58:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5023, l='ServerLevel[world]', x=125.06, y=1.00, z=-163.60]
+[01:58:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5028, l='ServerLevel[world]', x=122.43, y=1.00, z=-161.61]
+[01:58:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5032, l='ServerLevel[world]', x=111.52, y=-10.00, z=-205.72]
+[01:59:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5137, l='ServerLevel[world]', x=122.41, y=1.00, z=-162.60]
+[02:00:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5256, l='ServerLevel[world]', x=124.21, y=1.00, z=-161.59]
+[02:00:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5270, l='ServerLevel[world]', x=125.36, y=1.00, z=-163.60]
+[02:01:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/5335, l='ServerLevel[world]', x=173.30, y=24.17, z=-115.70]
+[02:01:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/5336, l='ServerLevel[world]', x=173.30, y=24.17, z=-115.70]
+[02:01:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/5337, l='ServerLevel[world]', x=173.30, y=24.17, z=-115.70]
+[02:01:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5403, l='ServerLevel[world]', x=163.88, y=20.00, z=-108.58]
+[02:01:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5428, l='ServerLevel[world]', x=110.59, y=-9.00, z=-205.36]
+[02:02:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5434, l='ServerLevel[world]', x=127.66, y=-2.00, z=-160.62]
+[02:02:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5444, l='ServerLevel[world]', x=109.40, y=3.00, z=-209.56]
+[02:02:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5509, l='ServerLevel[world]', x=111.60, y=3.00, z=-208.40]
+[02:02:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5546, l='ServerLevel[world]', x=111.09, y=-9.00, z=-205.25]
+[02:03:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5599, l='ServerLevel[world]', x=127.60, y=-2.00, z=-159.83]
+[02:03:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5612, l='ServerLevel[world]', x=124.55, y=7.00, z=-164.25]
+[02:03:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5617, l='ServerLevel[world]', x=127.57, y=-2.00, z=-161.21]
+[02:03:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5630, l='ServerLevel[world]', x=122.53, y=7.00, z=-163.45]
+[02:03:48] [Server thread/INFO]: Pansaof[/127.221.214.35:42205] logged in with entity id 5632 at (9.5, 97.0, 10.5)
+[02:03:48] [Server thread/INFO]: Sending server config values to client
+[02:03:48] [Server thread/INFO]: Loading config from file...
+[02:03:48] [Server thread/INFO]: Pansaof joined the game
+[02:03:48] [Server thread/INFO]: Pansaof has made the advancement [Ice and Fire]
+[02:03:48] [Server thread/INFO]: Pansaof has made the advancement [Mobs of Mythology]
+[02:03:49] [Server thread/INFO]: [voicechat] Received secret request of Pansaof (18)
+[02:03:49] [Server thread/INFO]: [voicechat] Sent secret to Pansaof
+[02:03:49] [Server thread/INFO]: Priority overwritten for player Pansaof. Claiming: GRAVE / Robbing: INVENTORY
+[02:03:49] [Server thread/INFO]: Receiving client config
+[02:03:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5768, l='ServerLevel[world]', x=122.83, y=1.00, z=-161.40]
+[02:04:02] [Server thread/INFO]: Pansaof lost connection: Disconnected
+[02:04:02] [Server thread/INFO]: Pansaof left the game
+[02:04:02] [Server thread/INFO]: [voicechat] Disconnecting client Pansaof
+[02:04:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5805, l='ServerLevel[world]', x=127.48, y=-2.00, z=-162.04]
+[02:04:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5824, l='ServerLevel[world]', x=127.68, y=-2.00, z=-163.47]
+[02:04:14] [Server thread/INFO]: [Not Secure] <celsofuster> hola
+[02:04:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5878, l='ServerLevel[world]', x=122.37, y=1.00, z=-162.60]
+[02:04:55] [Server thread/INFO]: [Not Secure] <celsofuster> ya vengo
+[02:04:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/5905, l='ServerLevel[world]', x=124.69, y=7.00, z=-162.68]
+[02:04:57] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[02:04:57] [Server thread/INFO]: celsofuster left the game
+[02:04:57] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
