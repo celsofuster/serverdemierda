@@ -1362,16 +1362,17 @@
     "criteria": {
       "volcanic_plains": "2025-06-09 04:26:59 +0000",
       "woodland": "2025-06-09 02:11:20 +0000",
-      "floodplain": "2025-06-09 05:17:53 +0000",
       "wasteland": "2025-06-09 04:28:55 +0000",
       "old_growth_woodland": "2025-06-09 02:11:33 +0000",
-      "mediterranean_forest": "2025-06-09 02:12:51 +0000",
-      "rainforest": "2025-06-09 02:11:13 +0000",
       "crystalline_chasm": "2025-06-09 05:53:00 +0000",
       "lush_desert": "2025-06-09 04:29:30 +0000",
-      "volcano": "2025-06-09 04:28:12 +0000",
       "scrubland": "2025-06-09 02:16:42 +0000",
-      "wasteland_steppe": "2025-06-09 04:30:37 +0000"
+      "wasteland_steppe": "2025-06-09 04:30:37 +0000",
+      "floodplain": "2025-06-09 05:17:53 +0000",
+      "mediterranean_forest": "2025-06-09 02:12:51 +0000",
+      "rainforest": "2025-06-09 02:11:13 +0000",
+      "volcano": "2025-06-09 04:28:12 +0000",
+      "rocky_rainforest": "2025-06-09 06:13:07 +0000"
     },
     "done": false
   },
@@ -4612,6 +4613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-09 06:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-09 05:46:56 +0000"
@@ -4630,6 +4637,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-06-09 05:12:08 +0000"
@@ -4638,9 +4657,16 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-09 05:55:06 +0000",
       "minecraft:soul_sand_valley": "2025-06-09 05:47:37 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
@@ -4651,6 +4677,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -4684,15 +4716,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:all_fossils_found": {
     "criteria": {
       "betterarcheology:villager_fossil_body": "2025-06-09 05:07:17 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-06-09 06:20:16 +0000"
     },
     "done": true
   },
@@ -4705,6 +4773,24 @@
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-06-09 05:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 06:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
     },
     "done": true
   },
@@ -4726,9 +4812,45 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-06-09 06:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-06-09 06:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2025-06-09 05:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-09 06:07:28 +0000"
     },
     "done": true
   },
@@ -4744,6 +4866,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-06-09 05:37:16 +0000"
@@ -4756,9 +4890,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -4786,6 +4944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-09 06:23:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-06-09 05:49:20 +0000"
@@ -4810,6 +4974,12 @@
     },
     "done": true
   },
+  "alloy_forgery:recipes/alloy_forgery/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-09 05:49:04 +0000"
@@ -4819,6 +4989,18 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-09 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-09 06:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 06:23:45 +0000"
     },
     "done": true
   },
@@ -4846,15 +5028,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:fossil_found": {
     "criteria": {
       "betterarcheology:fossil_found": "2025-06-09 05:07:17 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-06-09 06:24:13 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/decorations/villager_fossil": {
     "criteria": {
       "has_villager_fossil_body": "2025-06-09 05:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -4936,6 +5136,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:recipes/misc/blasting/quadrillum_from_raw_ore": {
     "criteria": {
       "has_material": "2025-06-09 04:44:48 +0000"
@@ -4954,6 +5166,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-09 06:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_chestplate": {
     "criteria": {
       "has_item": "2025-06-09 05:37:20 +0000"
@@ -4963,6 +5187,18 @@
   "waystones:recipes/decorations/warp_stone": {
     "criteria": {
       "has_ender_pearl": "2025-06-09 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-09 06:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -4978,9 +5214,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-09 05:58:19 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/misc/teleport_landmine": {
     "criteria": {
       "recipe_condition": "2025-06-09 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-09 06:02:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
     },
     "done": true
   },
@@ -4996,6 +5262,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2025-06-09 04:55:14 +0000"
@@ -5005,6 +5277,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -5032,6 +5310,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-06-09 04:48:24 +0000"
@@ -5041,6 +5331,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
@@ -5074,6 +5370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-06-09 05:51:28 +0000"
@@ -5098,6 +5400,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-06-09 06:07:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-06-09 05:37:25 +0000"
@@ -5116,9 +5424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-09 06:03:42 +0000"
     },
     "done": true
   },
