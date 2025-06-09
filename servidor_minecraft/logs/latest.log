@@ -876,3 +876,66 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [18:13:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/8494, l='ServerLevel[world]', x=-543.30, y=67.00, z=-565.70]
 [18:14:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/8627, l='ServerLevel[world]', x=-593.45, y=63.00, z=-527.76]
 [18:15:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8666, l='ServerLevel[world]', x=-591.46, y=17.00, z=-512.24]
+[18:17:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/9069, l='ServerLevel[world]', x=-536.15, y=67.00, z=-578.44]
+[18:17:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9070, l='ServerLevel[world]', x=-536.15, y=67.00, z=-578.44]
+[18:18:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/9265, l='ServerLevel[world]', x=-580.30, y=63.00, z=-628.09]
+[18:18:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/9273, l='ServerLevel[world]', x=-580.50, y=60.00, z=-626.36]
+[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9313, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
+[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9314, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
+[18:18:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9315, l='ServerLevel[world]', x=-580.30, y=59.00, z=-628.66]
+[18:18:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/9352, l='ServerLevel[world]', x=-585.18, y=68.00, z=-618.11]
+[18:19:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9392, l='ServerLevel[world]', x=-590.80, y=68.00, z=-616.83]
+[18:19:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9393, l='ServerLevel[world]', x=-590.80, y=68.00, z=-616.83]
+[18:20:19] [Server thread/INFO]: celsofuster has made the advancement [GOLD!!!]
+[18:20:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/9749, l='ServerLevel[world]', x=-21.70, y=26.25, z=-147.72]
+[18:20:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/9750, l='ServerLevel[world]', x=-21.70, y=26.25, z=-147.72]
+[18:20:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/9761, l='ServerLevel[world]', x=-23.06, y=49.00, z=-146.96]
+[18:23:25] [Server thread/INFO]: celsofuster has completed the challenge [Return to Sender]
+[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ghast Tear'/10057, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
+[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/10058, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
+[18:23:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/10059, l='ServerLevel[world]', x=-88.83, y=80.93, z=-206.47]
+[18:24:28] [Server thread/INFO]: [celsofuster: Teleported celsofuster to -71.500000, 73.500000, -74.500000]
+[18:24:38] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[18:24:38] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[18:25:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/10662, l='ServerLevel[world]', x=-504.30, y=38.17, z=-633.70]
+[18:25:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/10663, l='ServerLevel[world]', x=-504.30, y=38.17, z=-633.70]
+[18:26:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/11327, l='ServerLevel[world]', x=-487.67, y=13.00, z=-1041.60]
+[18:26:18] [pool-8-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=-277, y=71, z=-1195}
+[18:26:19] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-277, y=71, z=-1195} but found not block entity block Block{minecraft:spruce_trapdoor}[powered=false,waterlogged=false,half=bottom,open=false,facing=north] at location
+[18:26:19] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[powered=false,waterlogged=false,half=bottom,open=false,facing=north] but failed at location class_2338{x=-277, y=71, z=-1195}
+[18:26:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/11543, l='ServerLevel[world]', x=-455.33, y=30.00, z=-1033.54]
+[18:28:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/13274, l='ServerLevel[world]', x=44.86, y=73.00, z=-1465.76]
+[18:28:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Cooked Porkchop'/13283, l='ServerLevel[world]', x=50.98, y=75.00, z=-1445.83]
+[18:28:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Cooked Porkchop'/13389, l='ServerLevel[world]', x=47.50, y=74.00, z=-1445.31]
+[18:28:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/13417, l='ServerLevel[world]', x=43.17, y=74.00, z=-1459.45]
+[18:29:25] [pool-8-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-181, y=72, z=-1803}
+[18:29:25] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-181, y=72, z=-1803} but found not block entity block Block{minecraft:spruce_fence}[west=false,waterlogged=false,south=false,east=true,north=false] at location
+[18:29:25] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[west=false,waterlogged=false,south=false,east=true,north=false] but failed at location class_2338{x=-181, y=72, z=-1803}
+[18:29:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Saddle'/14442, l='ServerLevel[world]', x=-81.22, y=61.93, z=-1645.33]
+[18:29:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14460, l='ServerLevel[world]', x=-76.10, y=61.06, z=-1649.18]
+[18:29:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14461, l='ServerLevel[world]', x=-77.80, y=61.56, z=-1649.51]
+[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14486, l='ServerLevel[world]', x=-64.60, y=58.89, z=-1646.91]
+[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14487, l='ServerLevel[world]', x=-63.90, y=59.26, z=-1646.98]
+[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14490, l='ServerLevel[world]', x=-62.95, y=58.56, z=-1647.83]
+[18:29:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/14491, l='ServerLevel[world]', x=-61.94, y=59.95, z=-1645.90]
+[18:29:37] [Server thread/INFO]: celsofuster was turned into KFC by Fire Dragon
+[18:29:38] [pool-8-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=85, y=72, z=-1749}
+[18:29:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=85, y=72, z=-1749} but found not block entity block Block{minecraft:air} at location
+[18:29:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=85, y=72, z=-1749}
+[18:29:48] [Server thread/INFO]: [celsofuster: Teleported celsofuster to -56.500000, 56.500000, -1648.500000]
+[18:29:51] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at -61, 56, -1648, minecraft:overworld
+[18:30:20] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[18:30:20] [Server thread/INFO]: celsofuster left the game
+[18:30:20] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[18:35:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@105e8ffb[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:35:26] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:26] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f76e9f8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:35:35] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:35] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@2a8af5b8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:35:49] [Server thread/WARN]: handleDisconnection() called twice
+[18:35:49] [Server thread/WARN]: handleDisconnection() called twice
+[18:36:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b87948[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:36:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:36:08] [Server thread/WARN]: handleDisconnection() called twice
