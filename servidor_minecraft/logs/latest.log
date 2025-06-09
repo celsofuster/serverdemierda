@@ -828,3 +828,51 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [18:05:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/4029, l='ServerLevel[world]', x=-371.77, y=125.00, z=276.48]
 [18:05:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/4061, l='ServerLevel[world]', x=-396.23, y=130.00, z=273.24]
 [18:06:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4073, l='ServerLevel[world]', x=-395.08, y=26.00, z=306.50]
+[18:07:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/4615, l='ServerLevel[world]', x=-582.47, y=70.00, z=317.72]
+[18:07:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/4864, l='ServerLevel[world]', x=-597.57, y=49.00, z=333.14]
+[18:09:20] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-837, y=69, z=-245}
+[18:09:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-837, y=69, z=-245} but found not block entity block Block{minecraft:air} at location
+[18:09:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-837, y=69, z=-245}
+[18:10:03] [Server thread/WARN]: celsofuster was kicked for floating a vehicle too long!
+[18:10:03] [Server thread/INFO]: celsofuster lost connection: Flying is not enabled on this server
+[18:10:03] [Server thread/INFO]: celsofuster left the game
+[18:10:03] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[18:10:03] [Server thread/WARN]: handleDisconnection() called twice
+[18:10:12] [Server thread/INFO]: celsofuster[/127.232.63.210:46251] logged in with entity id 6737 at (-710.6641826006911, 172.16325627497358, -220.12312322873123)
+[18:10:12] [Server thread/INFO]: Sending server config values to client
+[18:10:12] [Server thread/INFO]: Loading config from file...
+[18:10:12] [Server thread/INFO]: celsofuster joined the game
+[18:10:12] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[18:10:12] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[18:10:12] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[18:10:12] [Server thread/INFO]: Receiving client config
+[18:10:41] [Server thread/WARN]: celsofuster was kicked for floating a vehicle too long!
+[18:10:42] [Server thread/INFO]: celsofuster lost connection: Flying is not enabled on this server
+[18:10:42] [Server thread/INFO]: celsofuster left the game
+[18:10:42] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[18:10:49] [Server thread/INFO]: celsofuster[/127.232.63.210:47381] logged in with entity id 7399 at (-752.9989085420892, 201.12897582249195, -346.36042964164534)
+[18:10:49] [Server thread/INFO]: Sending server config values to client
+[18:10:49] [Server thread/INFO]: Loading config from file...
+[18:10:49] [Server thread/INFO]: celsofuster joined the game
+[18:10:50] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[18:10:50] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[18:10:50] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[18:10:50] [Server thread/INFO]: Receiving client config
+[18:11:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7860, l='ServerLevel[world]', x=-660.60, y=-8.00, z=-473.53]
+[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.4315964428078587
+[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.7187634646527385
+[18:11:39] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.1924755581363797
+[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.4383585530723053
+[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.730024812801048
+[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.2113191838809598
+[18:11:40] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.7138466766801912
+[18:12:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8357, l='ServerLevel[world]', x=-531.62, y=70.00, z=-584.39]
+[18:12:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8361, l='ServerLevel[world]', x=-532.97, y=70.00, z=-585.53]
+[18:12:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8367, l='ServerLevel[world]', x=-529.76, y=70.00, z=-583.51]
+[18:12:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8386, l='ServerLevel[world]', x=-554.39, y=8.00, z=-515.55]
+[18:13:15] [Server thread/INFO]: celsofuster has made the advancement [Who is Cutting Onions?]
+[18:13:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8469, l='ServerLevel[world]', x=-538.20, y=68.00, z=-573.45]
+[18:13:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/8470, l='ServerLevel[world]', x=-538.20, y=68.00, z=-573.45]
+[18:13:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/8494, l='ServerLevel[world]', x=-543.30, y=67.00, z=-565.70]
+[18:14:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/8627, l='ServerLevel[world]', x=-593.45, y=63.00, z=-527.76]
+[18:15:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/8666, l='ServerLevel[world]', x=-591.46, y=17.00, z=-512.24]
