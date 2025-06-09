@@ -998,3 +998,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19:04:13] [Server thread/INFO]: celsofuster lost connection: Disconnected
 [19:04:13] [Server thread/INFO]: celsofuster left the game
 [19:04:13] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[19:11:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b4b2af8[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[19:11:11] [Server thread/WARN]: handleDisconnection() called twice
+[19:11:11] [Server thread/WARN]: handleDisconnection() called twice
