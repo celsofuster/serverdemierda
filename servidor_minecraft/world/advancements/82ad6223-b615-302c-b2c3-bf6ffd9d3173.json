@@ -24,6 +24,7 @@
       "minecraft:sparse_jungle": "2025-06-09 04:38:39 +0000",
       "minecraft:jungle": "2025-06-09 02:03:49 +0000",
       "minecraft:river": "2025-06-09 02:11:30 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-09 05:40:15 +0000",
       "minecraft:wooded_badlands": "2025-06-09 04:12:44 +0000",
       "minecraft:bamboo_jungle": "2025-06-09 04:35:55 +0000",
       "minecraft:plains": "2025-06-09 05:14:24 +0000"
@@ -1366,6 +1367,7 @@
       "old_growth_woodland": "2025-06-09 02:11:33 +0000",
       "mediterranean_forest": "2025-06-09 02:12:51 +0000",
       "rainforest": "2025-06-09 02:11:13 +0000",
+      "crystalline_chasm": "2025-06-09 05:53:00 +0000",
       "lush_desert": "2025-06-09 04:29:30 +0000",
       "volcano": "2025-06-09 04:28:12 +0000",
       "scrubland": "2025-06-09 02:16:42 +0000",
@@ -2007,6 +2009,7 @@
       "cooked_mutton": "2025-06-09 03:04:22 +0000",
       "potato": "2025-06-09 03:39:18 +0000",
       "cooked_beef": "2025-06-09 02:42:20 +0000",
+      "baked_potato": "2025-06-09 05:41:37 +0000",
       "cooked_salmon": "2025-06-09 05:07:27 +0000",
       "carrot": "2025-06-09 02:56:16 +0000"
     },
@@ -2032,10 +2035,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-09 05:48:57 +0000",
       "minecraft:cave_spider": "2025-06-09 03:44:29 +0000",
       "minecraft:skeleton": "2025-06-09 02:29:15 +0000",
+      "minecraft:zombified_piglin": "2025-06-09 05:51:00 +0000",
       "minecraft:stray": "2025-06-09 02:53:27 +0000",
       "minecraft:enderman": "2025-06-09 04:48:24 +0000",
+      "minecraft:magma_cube": "2025-06-09 05:51:14 +0000",
       "minecraft:spider": "2025-06-09 02:22:22 +0000",
       "minecraft:wither_skeleton": "2025-06-09 04:05:27 +0000",
       "minecraft:zombie": "2025-06-09 02:44:30 +0000",
@@ -4606,6 +4612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-09 05:05:24 +0000"
@@ -4624,15 +4636,45 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-09 05:47:37 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-09 05:51:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-09 05:48:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-09 05:51:04 +0000"
     },
     "done": true
   },
@@ -4690,9 +4732,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-09 05:37:20 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/misc/launch_landmine": {
     "criteria": {
       "recipe_condition": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-09 05:37:16 +0000"
     },
     "done": true
   },
@@ -4702,9 +4756,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-09 05:22:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:20 +0000"
     },
     "done": true
   },
@@ -4714,9 +4780,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-09 05:49:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:46:56 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/misc/potion_landmine": {
     "criteria": {
       "recipe_condition": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-09 05:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-09 05:50:09 +0000"
     },
     "done": true
   },
@@ -4729,6 +4831,12 @@
   "mythicmetals:recipes/misc/smelting/quadrillum_from_raw_ore": {
     "criteria": {
       "has_material": "2025-06-09 04:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-09 05:51:28 +0000"
     },
     "done": true
   },
@@ -4768,9 +4876,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-09 05:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-09 05:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-09 05:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-09 05:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:46:56 +0000"
     },
     "done": true
   },
@@ -4783,6 +4915,24 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-06-09 05:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
     },
     "done": true
   },
@@ -4804,9 +4954,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:20 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/warp_stone": {
     "criteria": {
       "has_ender_pearl": "2025-06-09 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2025-06-09 05:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
     },
     "done": true
   },
@@ -4834,9 +5002,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-06-09 05:12:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-09 05:47:36 +0000"
     },
     "done": true
   },
@@ -4858,15 +5044,69 @@
     },
     "done": true
   },
+  "landmines:recipes/misc/fire_landmine": {
+    "criteria": {
+      "recipe_condition": "2025-06-09 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-09 05:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-09 05:51:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-06-09 05:12:08 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-09 05:51:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-06-09 04:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-09 05:49:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-06-09 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-09 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-09 05:51:07 +0000"
     },
     "done": true
   },

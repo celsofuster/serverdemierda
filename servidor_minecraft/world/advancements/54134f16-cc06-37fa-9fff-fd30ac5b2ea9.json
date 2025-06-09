@@ -23,6 +23,7 @@
       "minecraft:forest": "2025-06-09 02:33:30 +0000",
       "minecraft:sparse_jungle": "2025-06-09 01:38:24 +0000",
       "minecraft:jungle": "2025-06-09 01:12:14 +0000",
+      "minecraft:deep_ocean": "2025-06-09 05:31:05 +0000",
       "minecraft:river": "2025-06-09 01:38:22 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 02:55:40 +0000",
       "minecraft:lush_caves": "2025-06-09 04:05:55 +0000",
@@ -1280,6 +1281,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-09 01:46:15 +0000",
       "mutton": "2025-06-09 03:23:38 +0000",
+      "apple": "2025-06-09 05:37:05 +0000",
       "bread": "2025-06-09 05:24:02 +0000",
       "cooked_chicken": "2025-06-09 04:30:47 +0000",
       "cooked_mutton": "2025-06-09 02:14:59 +0000",
@@ -1931,6 +1933,7 @@
       "minecraft:cave_spider": "2025-06-09 03:57:42 +0000",
       "minecraft:skeleton": "2025-06-09 01:44:54 +0000",
       "minecraft:spider": "2025-06-09 01:42:57 +0000",
+      "minecraft:wither_skeleton": "2025-06-09 05:28:06 +0000",
       "minecraft:zombie": "2025-06-09 02:09:11 +0000",
       "minecraft:creeper": "2025-06-09 01:45:28 +0000",
       "minecraft:drowned": "2025-06-09 03:44:16 +0000",
@@ -3019,6 +3022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-09 03:18:13 +0000"
@@ -3223,6 +3232,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-09 05:29:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-06-09 04:40:01 +0000"
@@ -3328,6 +3343,12 @@
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-06-09 03:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-09 05:54:52 +0000"
     },
     "done": true
   },
@@ -3763,6 +3784,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-06-09 05:54:52 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-06-09 04:07:17 +0000"
@@ -3853,6 +3880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-09 05:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-09 03:17:35 +0000"
@@ -3862,6 +3895,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:49:51 +0000"
     },
     "done": true
   },
@@ -4024,6 +4063,18 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_minecraft:glass": "2025-06-09 03:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-09 05:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-09 05:49:38 +0000"
     },
     "done": true
   },
@@ -4441,6 +4492,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-09 05:29:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_minecraft:wheat": "2025-06-09 03:58:26 +0000"
@@ -4543,9 +4600,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-09 05:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-09 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-09 05:29:25 +0000"
     },
     "done": true
   },
@@ -4648,6 +4717,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-09 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-09 05:49:51 +0000"
     },
     "done": true
   },
