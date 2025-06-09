@@ -2976,6 +2976,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "landmines:recipes/misc/zombie_landmine": {
     "criteria": {
       "recipe_condition": "2025-06-09 02:09:12 +0000"
@@ -3024,15 +3036,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-06-09 02:14:47 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-09 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
     },
     "done": true
   },
@@ -3045,6 +3075,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-06-09 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
     },
     "done": true
   },
@@ -3072,6 +3108,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-06-09 02:14:47 +0000"
@@ -3093,6 +3141,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-06-09 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
     },
     "done": true
   },
@@ -3150,6 +3204,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:recipes/misc/blasting/silver_from_raw_ore": {
     "criteria": {
       "has_material": "2025-06-09 02:17:48 +0000"
@@ -3165,6 +3231,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-09 02:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
     },
     "done": true
   },
@@ -3198,9 +3270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_minecraft:stone": "2025-06-09 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
     },
     "done": true
   },
@@ -3222,9 +3312,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-06-09 02:30:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
     },
     "done": true
   },
@@ -3258,6 +3372,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-09 02:14:47 +0000"
@@ -3285,6 +3411,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-09 02:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-09 02:42:16 +0000"
     },
     "done": true
   },
@@ -3342,6 +3480,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-06-09 02:15:27 +0000"
@@ -3351,6 +3495,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-09 02:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
     },
     "done": true
   },
@@ -3396,6 +3546,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/compat/forge_silver_ingots_from_raw_material": {
     "criteria": {
       "has_silver_ingots_from_raw_material": "2025-06-09 02:18:26 +0000"
@@ -3417,6 +3573,18 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-09 02:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
     },
     "done": true
   },
@@ -3492,6 +3660,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-06-09 02:18:26 +0000"
@@ -3501,6 +3681,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-09 02:27:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-09 02:43:36 +0000"
     },
     "done": true
   },
@@ -3576,6 +3762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-09 02:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-09 02:27:48 +0000"
@@ -3612,6 +3810,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_minecraft:oak_planks": "2025-06-09 02:42:06 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-06-09 02:27:48 +0000"
@@ -3645,6 +3849,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-06-09 02:30:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-06-09 02:43:36 +0000"
     },
     "done": true
   },
