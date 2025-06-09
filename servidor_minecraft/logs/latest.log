@@ -904,3 +904,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [23:41:32] [Server thread/INFO]: pablitox was slain by Zombie
 [23:42:13] [Server thread/INFO]: pablitox burned to death
 [23:42:13] [Server thread/INFO]: No grave backup generated (empty grave)
+[23:50:15] [Server thread/INFO]: pablitox lost connection: Disconnected
+[23:50:15] [Server thread/INFO]: pablitox left the game
+[23:50:15] [Server thread/INFO]: [voicechat] Disconnecting client pablitox
