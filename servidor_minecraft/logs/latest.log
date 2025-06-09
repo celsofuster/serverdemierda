@@ -972,3 +972,29 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [18:57:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c42628c[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
 [18:57:00] [Server thread/WARN]: handleDisconnection() called twice
 [18:57:00] [Server thread/WARN]: handleDisconnection() called twice
+[18:58:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a5543a0[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:58:49] [Server thread/WARN]: handleDisconnection() called twice
+[18:58:49] [Server thread/WARN]: handleDisconnection() called twice
+[19:01:33] [Server thread/INFO]: celsofuster[/127.232.63.210:48095] logged in with entity id 15096 at (-65.90504115008515, 62.0, -1654.1876804748892)
+[19:01:33] [Server thread/INFO]: Sending server config values to client
+[19:01:33] [Server thread/INFO]: Loading config from file...
+[19:01:33] [Server thread/INFO]: celsofuster joined the game
+[19:01:34] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[19:01:34] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[19:01:34] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[19:01:34] [Server thread/INFO]: Receiving client config
+[19:01:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15361, l='ServerLevel[world]', x=-122.36, y=68.00, z=-1772.17]
+[19:01:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15362, l='ServerLevel[world]', x=-122.36, y=68.00, z=-1772.17]
+[19:01:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15365, l='ServerLevel[world]', x=-121.55, y=69.92, z=-1776.39]
+[19:01:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15366, l='ServerLevel[world]', x=-121.55, y=69.92, z=-1776.39]
+[19:01:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/15372, l='ServerLevel[world]', x=-130.40, y=66.00, z=-1768.29]
+[19:01:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15373, l='ServerLevel[world]', x=-130.40, y=66.00, z=-1768.29]
+[19:02:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Black Wool'/15393, l='ServerLevel[world]', x=-138.13, y=65.00, z=-1765.51]
+[19:02:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/15394, l='ServerLevel[world]', x=-138.13, y=65.00, z=-1765.51]
+[19:02:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/15444, l='ServerLevel[world]', x=-113.50, y=67.00, z=-1561.50]
+[19:02:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/15521, l='ServerLevel[world]', x=-113.73, y=65.00, z=-1575.79]
+[19:02:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/15522, l='ServerLevel[world]', x=-113.73, y=65.00, z=-1575.79]
+[19:03:57] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 411.500000, 64.500000, -1682.500000]
+[19:04:13] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[19:04:13] [Server thread/INFO]: celsofuster left the game
+[19:04:13] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
