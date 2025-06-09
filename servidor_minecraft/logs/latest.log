@@ -939,3 +939,21 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [18:36:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b87948[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
 [18:36:08] [Server thread/WARN]: handleDisconnection() called twice
 [18:36:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:38:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@33a49590[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:38:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:38:08] [Server thread/WARN]: handleDisconnection() called twice
+[18:44:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fab13f7[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:44:52] [Server thread/WARN]: handleDisconnection() called twice
+[18:44:52] [Server thread/WARN]: handleDisconnection() called twice
+[18:45:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@42baf74[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:45:55] [Server thread/WARN]: handleDisconnection() called twice
+[18:45:55] [Server thread/WARN]: handleDisconnection() called twice
+[18:46:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@21a5c0c0[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:46:15] [Server thread/WARN]: handleDisconnection() called twice
+[18:46:15] [Server thread/WARN]: handleDisconnection() called twice
+[18:46:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@10dc270f[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:46:43] [Server thread/WARN]: handleDisconnection() called twice
+[18:46:43] [Server thread/WARN]: handleDisconnection() called twice
+[18:47:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@ba831f1[id=c7ddc2a9-c847-3642-90f9-1341312728eb,name=pablitox,properties={}] lost connection: Network configuration task not supported: bettercombat:config
+[18:47:13] [Server thread/WARN]: handleDisconnection() called twice
+[18:47:13] [Server thread/WARN]: handleDisconnection() called twice
