@@ -1840,6 +1840,7 @@
       "highland": "2025-06-09 18:04:56 +0000",
       "jacaranda_glade": "2025-06-09 18:09:19 +0000",
       "volcano": "2025-06-09 03:53:10 +0000",
+      "rocky_rainforest": "2025-06-10 00:59:36 +0000",
       "volcanic_plains": "2025-06-09 01:39:03 +0000",
       "old_growth_woodland": "2025-06-09 01:39:36 +0000",
       "crystalline_chasm": "2025-06-09 18:19:51 +0000",
@@ -5441,6 +5442,36 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-06-09 23:06:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 00:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 00:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 00:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-10 00:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 00:36:15 +0000"
     },
     "done": true
   },

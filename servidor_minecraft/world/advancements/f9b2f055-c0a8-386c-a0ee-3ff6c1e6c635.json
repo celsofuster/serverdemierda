@@ -397,6 +397,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-06-09 04:53:53 +0000",
+      "spider_nest": "2025-06-10 00:57:59 +0000",
       "glowing_grotto": "2025-06-09 06:26:36 +0000",
       "woodland": "2025-06-09 05:01:20 +0000",
       "floodplain": "2025-06-09 06:06:57 +0000",
@@ -3887,6 +3888,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-09 06:12:51 +0000",
+      "minecraft:enderman": "2025-06-10 00:58:41 +0000",
       "minecraft:spider": "2025-06-09 06:16:09 +0000",
       "minecraft:zombie": "2025-06-09 06:13:17 +0000",
       "minecraft:creeper": "2025-06-09 06:16:40 +0000",
@@ -4020,6 +4022,18 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-06-09 06:22:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-09 06:22:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-09 06:23:05 +0000"
@@ -4027,6 +4041,30 @@
     "done": true
   },
   "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-09 06:23:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-09 06:23:05 +0000"
     },
@@ -4050,39 +4088,9 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-06-09 06:22:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
-    },
-    "done": true
-  },
   "mythicmetals:carmot": {
     "criteria": {
       "gygrid": "2025-06-09 06:26:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2025-06-09 06:22:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-09 06:23:05 +0000"
     },
     "done": true
   },
@@ -4092,9 +4100,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "waystones:recipes/decorations/warp_scroll": {
     "criteria": {
-      "has_any_ingredient": "2025-06-09 06:23:05 +0000"
+      "has_ender_pearl": "2025-06-10 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-10 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-10 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "landmines:recipes/misc/teleport_landmine": {
+    "criteria": {
+      "recipe_condition": "2025-06-10 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-10 00:59:04 +0000"
     },
     "done": true
   },

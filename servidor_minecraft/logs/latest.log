@@ -23,3 +23,160 @@
 [00:31:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12710, l='ServerLevel[world]', x=131.80, y=75.00, z=35.49]
 [00:31:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12722, l='ServerLevel[world]', x=132.55, y=74.00, z=35.49]
 [00:31:56] [Server thread/INFO]: pablitox was shot by Skeleton
+[00:33:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/13257, l='ServerLevel[world]', x=139.26, y=86.25, z=49.74]
+[00:33:42] [Server thread/INFO]: pablitox was slain by Kobold Warrior
+[00:34:32] [Server thread/INFO]: celsofuster[/127.232.63.210:52273] logged in with entity id 13535 at (846.0822270497928, 66.0, -449.21732163846764)
+[00:34:32] [Server thread/INFO]: Sending server config values to client
+[00:34:32] [Server thread/INFO]: Loading config from file...
+[00:34:32] [Server thread/INFO]: celsofuster joined the game
+[00:34:33] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[00:34:33] [Server thread/INFO]: Receiving client config
+[00:34:33] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[00:34:33] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[00:34:56] [Server thread/INFO]: pablitox claimed a grave belonging to pablitox at 129, 75, 31, minecraft:overworld
+[00:35:21] [Server thread/INFO]: pablitox claimed a grave belonging to pablitox at 138, 86, 49, minecraft:overworld
+[00:36:05] [Server thread/INFO]: [Not Secure] <celsofuster> como vas
+[00:36:25] [Server thread/INFO]: [Not Secure] <pablitox> que
+[00:36:31] [Server thread/INFO]: [Not Secure] <pablitox> un duende maldito me robo la espada
+[00:36:46] [Server thread/INFO]: [Not Secure] <celsofuster> si lo matas te la devuelve
+[00:36:50] [Server thread/INFO]: [Not Secure] <pablitox> listo
+[00:38:24] [Server thread/INFO]: [Not Secure] <pablitox> donde estas
+[00:38:36] [Server thread/INFO]: [Not Secure] <celsofuster> 870 -443
+[00:38:54] [Server thread/INFO]: [Not Secure] <pablitox> voy
+[00:41:36] [Server thread/INFO]: [Not Secure] <celsofuster> tienes cama?
+[00:41:42] [Server thread/INFO]: [Not Secure] <pablitox> bopes
+[00:41:46] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[00:41:46] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[00:42:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/17183, l='ServerLevel[world]', x=533.70, y=67.17, z=-268.30]
+[00:42:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/17184, l='ServerLevel[world]', x=533.70, y=67.17, z=-268.30]
+[00:42:36] [Server thread/INFO]: pablitox was slain by Kobold Warrior
+[00:42:46] [Server thread/INFO]: [Not Secure] <celsofuster> q
+[00:42:52] [Server thread/INFO]: [Not Secure] <pablitox> malditos duenedes de mierda
+[00:43:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/17597, l='ServerLevel[world]', x=849.69, y=66.00, z=-454.00]
+[00:43:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/17989, l='ServerLevel[world]', x=858.16, y=59.59, z=-416.67]
+[00:44:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/18045, l='ServerLevel[world]', x=845.25, y=61.03, z=-430.67]
+[00:44:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/18105, l='ServerLevel[world]', x=758.25, y=66.00, z=-337.92]
+[00:44:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ink Sac'/18123, l='ServerLevel[world]', x=142.79, y=63.00, z=-63.78]
+[00:44:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/18181, l='ServerLevel[world]', x=729.20, y=76.97, z=-335.50]
+[00:44:36] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:44:43] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at 854, 62, -429, minecraft:overworld
+[00:44:51] [Server thread/INFO]: celsofuster was struck with lightning by Lightning Dragon
+[00:44:52] [Server thread/WARN]: celsofuster moved wrongly!
+[00:44:57] [Server thread/INFO]: celsofuster was struck with lightning by Lightning Dragon
+[00:44:57] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:11] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:45:11] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:18] [Server thread/INFO]: celsofuster was struck with lightning by Lightning Dragon
+[00:45:18] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:26] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:45:26] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:34] [Server thread/INFO]: celsofuster was struck with lightning by Lightning Dragon
+[00:45:34] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:44] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:45:44] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:51] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:45:51] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:45:58] [Server thread/INFO]: pablitox withered away
+[00:46:00] [Server thread/INFO]: celsofuster was slain by Lightning Dragon
+[00:46:00] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:46:06] [Server thread/INFO]: [Not Secure] <pablitox> pero
+[00:46:12] [Server thread/INFO]: celsofuster was energized by Lightning Dragon
+[00:46:12] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:46:56] [Server thread/INFO]: [Not Secure] <pablitox> tio estes serve es maso de jodido
+[00:46:56] [Server thread/INFO]: pablitox was slain by Zombie
+[00:47:16] [Server thread/INFO]: [Not Secure] <celsofuster> demasiado
+[00:47:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/20853, l='ServerLevel[world]', x=-42.90, y=45.00, z=46.35]
+[00:47:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/20912, l='ServerLevel[world]', x=-42.99, y=45.00, z=46.70]
+[00:47:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/20932, l='ServerLevel[world]', x=-42.03, y=48.00, z=55.12]
+[00:49:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/22008, l='ServerLevel[world]', x=-154.56, y=24.00, z=268.24]
+[00:49:10] [Server thread/INFO]: pablitox has made the advancement [Gentle Giant]
+[00:49:10] [Server thread/INFO]: pablitox has made the advancement [Best Friends Forever]
+[00:49:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/22162, l='ServerLevel[world]', x=-140.40, y=30.00, z=199.50]
+[00:49:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/22163, l='ServerLevel[world]', x=-141.12, y=30.00, z=197.40]
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.3087868222676775
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.8139285853737022
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.31782237498583754
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.819858301508134
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.3022074291772583
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.8025119896485364
+[00:49:28] [Server thread/WARN]: Pegasus (vehicle of pablitox) moved wrongly! 0.30282727897551354
+[00:50:12] [Server thread/INFO]: pablitox fell from a high place
+[00:50:20] [Server thread/INFO]: [Not Secure] <pablitox> cambie la semilla algp
+[00:51:08] [Server thread/INFO]: [Not Secure] <celsofuster> ns como hacerlo
+[00:53:17] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at 850, 60, -378, minecraft:overworld
+[00:54:08] [Server thread/INFO]: pablitox was slain by Kobold Warrior
+[00:54:08] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:54:56] [Server thread/INFO]: [Not Secure] <pablitox> ya me canse
+[00:55:03] [Server thread/INFO]: [Not Secure] <pablitox> me voy a poner serio
+[00:55:12] [Server thread/INFO]: pablitox fell from a high place
+[00:55:12] [Server thread/INFO]: No grave backup generated (empty grave)
+[00:55:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/25102, l='ServerLevel[world]', x=813.06, y=58.00, z=-479.50]
+[00:55:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/25125, l='ServerLevel[world]', x=807.39, y=55.00, z=-493.47]
+[00:55:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/25128, l='ServerLevel[world]', x=810.50, y=55.00, z=-494.69]
+[00:55:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/25130, l='ServerLevel[world]', x=808.74, y=55.00, z=-495.69]
+[00:55:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone Meal'/25131, l='ServerLevel[world]', x=808.74, y=55.00, z=-495.69]
+[00:55:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/25135, l='ServerLevel[world]', x=810.60, y=55.00, z=-497.71]
+[00:55:38] [Server thread/INFO]: Campesina[/127.183.188.71:55863] logged in with entity id 25144 at (471.47097344895684, -13.0, -486.4587503423252)
+[00:55:38] [Server thread/INFO]: Sending server config values to client
+[00:55:38] [Server thread/INFO]: Loading config from file...
+[00:55:38] [Server thread/INFO]: Campesina joined the game
+[00:55:39] [Server thread/INFO]: [voicechat] Received secret request of Campesina (18)
+[00:55:39] [Server thread/INFO]: [voicechat] Sent secret to Campesina
+[00:55:39] [Server thread/INFO]: Priority overwritten for player Campesina. Claiming: GRAVE / Robbing: INVENTORY
+[00:55:39] [Server thread/INFO]: Receiving client config
+[00:55:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/25306, l='ServerLevel[world]', x=813.68, y=54.72, z=-503.40]
+[00:55:41] [Server thread/INFO]: pablitox lost connection: Disconnected
+[00:55:41] [Server thread/INFO]: pablitox left the game
+[00:55:41] [Server thread/INFO]: [voicechat] Disconnecting client pablitox
+[00:55:47] [Server thread/INFO]: pablitox[/127.156.232.155:48141] logged in with entity id 25367 at (-8.127993508086279, 96.0, -6.10165176179393)
+[00:55:47] [Server thread/INFO]: Sending server config values to client
+[00:55:47] [Server thread/INFO]: Loading config from file...
+[00:55:47] [Server thread/INFO]: pablitox joined the game
+[00:55:47] [Server thread/INFO]: [voicechat] Received secret request of pablitox (18)
+[00:55:47] [Server thread/INFO]: [voicechat] Sent secret to pablitox
+[00:55:47] [Server thread/INFO]: Priority overwritten for player pablitox. Claiming: GRAVE / Robbing: INVENTORY
+[00:55:47] [Server thread/INFO]: Receiving client config
+[00:55:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/25493, l='ServerLevel[world]', x=510.37, y=110.00, z=-416.58]
+[00:55:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/25494, l='ServerLevel[world]', x=510.37, y=110.00, z=-416.58]
+[00:55:51] [Server thread/INFO]: [Not Secure] <Campesina> ey
+[00:55:58] [Server thread/INFO]: [Not Secure] <Campesina> acepten la llamada
+[00:56:04] [Server thread/INFO]: [Not Secure] <pablitox> no puedo hablar
+[00:56:07] [Server thread/INFO]: [Not Secure] <Campesina> pq
+[00:56:11] [Server thread/INFO]: [Not Secure] <pablitox> tengo la boca cocida por la operacion
+[00:56:16] [Server thread/INFO]: [Not Secure] <celsofuster> mas tardecito
+[00:56:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/25824, l='ServerLevel[world]', x=481.81, y=-14.00, z=-484.97]
+[00:56:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/25825, l='ServerLevel[world]', x=481.81, y=-14.00, z=-484.97]
+[00:56:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/25826, l='ServerLevel[world]', x=481.81, y=-14.00, z=-484.97]
+[00:56:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/25840, l='ServerLevel[world]', x=753.45, y=79.00, z=-536.80]
+[00:56:28] [Server thread/INFO]: [Not Secure] <celsofuster> pablo pasa ubi
+[00:56:33] [Server thread/INFO]: [Not Secure] <celsofuster> seba pasa ubi
+[00:56:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Tropical Fish'/25902, l='ServerLevel[world]', x=769.20, y=36.00, z=-537.10]
+[00:56:37] [Server thread/INFO]: [Not Secure] <pablitox> no tengo nada aqui pive
+[00:57:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/26353, l='ServerLevel[world]', x=435.70, y=-8.00, z=-500.70]
+[00:57:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/26498, l='ServerLevel[world]', x=604.85, y=72.00, z=-755.42]
+[00:57:14] [Server thread/INFO]: [Not Secure] <Campesina> ni se dnd estoy
+[00:57:32] [Server thread/INFO]: [Not Secure] <pablitox> yo pense que iba a ser un server chill pero hay como 10000 mods
+[00:57:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/26653, l='ServerLevel[world]', x=232.43, y=66.00, z=-127.00]
+[00:57:37] [Server thread/INFO]: [Not Secure] <Campesina> x434 y-8 z137
+[00:57:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/26822, l='ServerLevel[world]', x=298.84, y=64.00, z=-168.99]
+[00:57:53] [Server thread/INFO]: [Not Secure] <Campesina> mas bonito con miles de mods
+[00:58:13] [Server thread/INFO]: [Not Secure] <celsofuster> la semilla es una basura
+[00:58:21] [Server thread/INFO]: [Not Secure] <celsofuster> y eso lo hace gracioso
+[00:58:28] [Server thread/INFO]: [Not Secure] <pablitox> mierdaland
+[00:58:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ender Pearl'/27465, l='ServerLevel[world]', x=442.30, y=-24.00, z=-520.70]
+[00:58:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/27466, l='ServerLevel[world]', x=442.30, y=-24.00, z=-520.70]
+[00:58:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gravel'/27467, l='ServerLevel[world]', x=442.30, y=-24.00, z=-520.70]
+[00:59:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/27953, l='ServerLevel[world]', x=582.37, y=100.00, z=-457.83]
+[00:59:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/27954, l='ServerLevel[world]', x=582.37, y=100.00, z=-457.83]
+[00:59:50] [Server thread/INFO]: pablitox claimed a grave belonging to pablitox at 493, 73, -244, minecraft:overworld
+[00:59:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/27999, l='ServerLevel[world]', x=572.51, y=100.00, z=-451.42]
+[00:59:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/28000, l='ServerLevel[world]', x=572.51, y=100.00, z=-451.42]
+[01:00:59] [Server thread/INFO]: [Not Secure] <celsofuster> pablo no vayas para alla
+[01:01:05] [Server thread/INFO]: [Not Secure] <pablitox> es que alla me mori
+[01:01:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/28367, l='ServerLevel[world]', x=520.85, y=68.00, z=-238.97]
+[01:01:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/28431, l='ServerLevel[world]', x=537.00, y=5.00, z=-331.56]
+[01:02:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/28760, l='ServerLevel[world]', x=481.63, y=-29.00, z=-312.40]
+[01:02:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/28761, l='ServerLevel[world]', x=481.75, y=-29.00, z=-311.22]
+[01:02:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/28771, l='ServerLevel[world]', x=479.57, y=-29.00, z=-312.53]
+[01:02:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/28858, l='ServerLevel[world]', x=438.62, y=79.00, z=-99.38]
+[01:02:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/28859, l='ServerLevel[world]', x=438.62, y=79.00, z=-99.38]
