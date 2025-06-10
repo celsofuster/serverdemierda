@@ -440,3 +440,995 @@
 [01:33:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/46674, l='ServerLevel[world]', x=438.92, y=100.00, z=-341.41]
 [01:33:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/46689, l='ServerLevel[world]', x=450.17, y=100.00, z=-347.50]
 [01:34:02] [Server thread/INFO]: [Not Secure] <Campesina> pancho esta loco
+[01:34:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/46877, l='ServerLevel[world]', x=435.62, y=102.00, z=-349.25]
+[01:34:31] [Server thread/INFO]: pablitox was doomed to fall
+[01:34:38] [Server thread/INFO]: [Not Secure] <Campesina> JAJAJAJAJJAJAJA
+[01:34:41] [Server thread/INFO]: [Not Secure] <pablitox> nah mrc matense
+[01:34:47] [Server thread/INFO]: [Not Secure] <Campesina> busque las cosas
+[01:34:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/47205, l='ServerLevel[world]', x=-77.85, y=88.00, z=-64.33]
+[01:34:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/47206, l='ServerLevel[world]', x=-77.85, y=88.00, z=-64.33]
+[01:34:55] [Server thread/INFO]: [Not Secure] <Campesina> que esta lo de las tumbas
+[01:35:06] [Server thread/INFO]: [Not Secure] <celsofuster> de qmeperdi
+[01:35:09] [Server thread/INFO]: [Not Secure] <pablitox> gracias santiago
+[01:35:15] [Server thread/INFO]: [Not Secure] <celsofuster> pq
+[01:35:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47415, l='ServerLevel[world]', x=414.03, y=52.21, z=-370.82]
+[01:35:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47417, l='ServerLevel[world]', x=414.25, y=50.96, z=-369.26]
+[01:35:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47432, l='ServerLevel[world]', x=414.21, y=52.00, z=-371.53]
+[01:35:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47479, l='ServerLevel[world]', x=405.91, y=57.01, z=-363.38]
+[01:35:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47481, l='ServerLevel[world]', x=406.25, y=56.00, z=-364.45]
+[01:35:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47483, l='ServerLevel[world]', x=407.26, y=55.65, z=-363.39]
+[01:35:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47514, l='ServerLevel[world]', x=407.45, y=59.13, z=-363.49]
+[01:35:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47521, l='ServerLevel[world]', x=410.25, y=59.90, z=-363.25]
+[01:35:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47597, l='ServerLevel[world]', x=411.18, y=60.25, z=-377.57]
+[01:35:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47599, l='ServerLevel[world]', x=408.29, y=59.03, z=-378.44]
+[01:35:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47609, l='ServerLevel[world]', x=408.57, y=59.23, z=-380.72]
+[01:35:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47638, l='ServerLevel[world]', x=404.23, y=62.11, z=-383.27]
+[01:35:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/47686, l='ServerLevel[world]', x=409.05, y=62.45, z=-387.15]
+[01:36:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/47981, l='ServerLevel[world]', x=236.39, y=23.10, z=-173.70]
+[01:36:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/48353, l='ServerLevel[world]', x=351.56, y=30.00, z=-368.04]
+[01:37:09] [Server thread/INFO]: Campesina has made the advancement [Gentle Giant]
+[01:37:09] [Server thread/INFO]: Campesina has made the advancement [Best Friends Forever]
+[01:37:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/48726, l='ServerLevel[world]', x=495.98, y=70.00, z=-14.00]
+[01:37:24] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.3312392272628699
+[01:37:24] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.8443178107213498
+[01:37:24] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.3573827004991017
+[01:37:24] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.8704402630613117
+[01:37:24] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 1.3834939049766035
+[01:37:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/49368, l='ServerLevel[world]', x=1233.27, y=63.00, z=-1515.76]
+[01:37:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49369, l='ServerLevel[world]', x=1233.27, y=63.00, z=-1515.76]
+[01:37:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/49412, l='ServerLevel[world]', x=1227.42, y=63.00, z=-1520.33]
+[01:37:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49413, l='ServerLevel[world]', x=1227.42, y=63.00, z=-1520.33]
+[01:37:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/49444, l='ServerLevel[world]', x=1230.91, y=63.00, z=-1520.53]
+[01:37:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/49455, l='ServerLevel[world]', x=1233.30, y=65.00, z=-1511.30]
+[01:37:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49456, l='ServerLevel[world]', x=1233.30, y=65.00, z=-1511.30]
+[01:37:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/49500, l='ServerLevel[world]', x=1231.54, y=63.00, z=-1523.70]
+[01:37:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49501, l='ServerLevel[world]', x=1231.54, y=63.00, z=-1523.70]
+[01:37:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49586, l='ServerLevel[world]', x=1229.75, y=63.00, z=-1516.09]
+[01:37:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/49594, l='ServerLevel[world]', x=1235.72, y=63.00, z=-1534.23]
+[01:38:10] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.3228305020267612
+[01:38:10] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 0.7920573336297707
+[01:38:10] [Server thread/WARN]: Pegasus (vehicle of Campesina) moved wrongly! 1.2617065606751794
+[01:38:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/50328, l='ServerLevel[world]', x=252.91, y=71.00, z=-191.38]
+[01:39:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/50761, l='ServerLevel[world]', x=344.18, y=61.39, z=-182.99]
+[01:39:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/50764, l='ServerLevel[world]', x=343.42, y=59.81, z=-183.81]
+[01:40:58] [Server thread/INFO]: pablitox claimed a grave belonging to pablitox at 578, 2, -229, minecraft:overworld
+[01:41:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/52489, l='ServerLevel[world]', x=241.69, y=-16.00, z=156.70]
+[01:41:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52490, l='ServerLevel[world]', x=241.69, y=-16.00, z=156.70]
+[01:41:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52494, l='ServerLevel[world]', x=1294.66, y=61.78, z=-1610.87]
+[01:41:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52509, l='ServerLevel[world]', x=200.13, y=-32.00, z=170.65]
+[01:41:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52510, l='ServerLevel[world]', x=200.13, y=-32.00, z=170.65]
+[01:41:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52513, l='ServerLevel[world]', x=491.48, y=70.00, z=-254.70]
+[01:41:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52547, l='ServerLevel[world]', x=196.92, y=-33.00, z=168.93]
+[01:41:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52548, l='ServerLevel[world]', x=196.92, y=-33.00, z=168.93]
+[01:41:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/52557, l='ServerLevel[world]', x=598.64, y=15.00, z=-143.55]
+[01:41:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/52578, l='ServerLevel[world]', x=197.70, y=-33.00, z=162.41]
+[01:41:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/52579, l='ServerLevel[world]', x=197.70, y=-33.00, z=162.41]
+[01:41:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/52582, l='ServerLevel[world]', x=602.44, y=15.00, z=-139.58]
+[01:41:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52591, l='ServerLevel[world]', x=494.06, y=68.12, z=-262.69]
+[01:41:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52592, l='ServerLevel[world]', x=494.06, y=68.12, z=-262.69]
+[01:42:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52633, l='ServerLevel[world]', x=1289.87, y=64.00, z=-1608.70]
+[01:42:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/52645, l='ServerLevel[world]', x=491.70, y=63.00, z=-255.70]
+[01:42:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52659, l='ServerLevel[world]', x=198.06, y=-32.00, z=168.48]
+[01:42:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52669, l='ServerLevel[world]', x=197.70, y=-32.25, z=171.54]
+[01:42:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Sea Serpent Scales'/52878, l='ServerLevel[world]', x=1286.77, y=61.08, z=-1610.00]
+[01:42:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Sea Serpent Fang'/52879, l='ServerLevel[world]', x=1286.77, y=61.08, z=-1610.00]
+[01:42:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52884, l='ServerLevel[world]', x=494.27, y=66.00, z=-257.45]
+[01:42:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/52965, l='ServerLevel[world]', x=200.43, y=-32.00, z=150.11]
+[01:42:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/52993, l='ServerLevel[world]', x=194.87, y=-33.00, z=143.64]
+[01:42:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/52994, l='ServerLevel[world]', x=194.87, y=-33.00, z=143.64]
+[01:42:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/53123, l='ServerLevel[world]', x=189.09, y=-36.00, z=148.47]
+[01:42:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/53151, l='ServerLevel[world]', x=537.51, y=20.00, z=-333.60]
+[01:42:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/53297, l='ServerLevel[world]', x=202.55, y=-32.00, z=141.50]
+[01:43:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Onion Ring'/53460, l='ServerLevel[world]', x=1281.56, y=-2.96, z=-1738.56]
+[01:43:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/53598, l='ServerLevel[world]', x=1282.70, y=66.00, z=-1603.30]
+[01:44:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/54014, l='ServerLevel[world]', x=157.70, y=-29.83, z=90.70]
+[01:44:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/54018, l='ServerLevel[world]', x=470.53, y=-2.00, z=-207.49]
+[01:44:33] [Server thread/INFO]: [Not Secure] <pablitox> pasen cordenadas
+[01:44:42] [Server thread/INFO]: [Not Secure] <pablitox> porfa
+[01:44:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/54485, l='ServerLevel[world]', x=1123.65, y=62.82, z=-1624.70]
+[01:44:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/54486, l='ServerLevel[world]', x=1123.65, y=62.82, z=-1624.70]
+[01:44:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/54487, l='ServerLevel[world]', x=1123.65, y=62.82, z=-1624.70]
+[01:45:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/55021, l='ServerLevel[world]', x=1087.05, y=7.88, z=-1546.24]
+[01:45:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/55133, l='ServerLevel[world]', x=575.60, y=-24.00, z=-223.56]
+[01:45:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/55139, l='ServerLevel[world]', x=566.51, y=71.00, z=-196.99]
+[01:45:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/55140, l='ServerLevel[world]', x=566.51, y=71.00, z=-196.99]
+[01:45:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/55172, l='ServerLevel[world]', x=563.30, y=71.00, z=-192.10]
+[01:45:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/55173, l='ServerLevel[world]', x=563.30, y=71.00, z=-192.10]
+[01:45:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/55320, l='ServerLevel[world]', x=569.22, y=72.00, z=-207.17]
+[01:45:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/55321, l='ServerLevel[world]', x=569.22, y=72.00, z=-207.17]
+[01:45:41] [Server thread/INFO]: [Not Secure] <pablitox> pibeeeeeeeeees
+[01:45:44] [Server thread/INFO]: [Not Secure] <Campesina> q
+[01:45:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/55458, l='ServerLevel[world]', x=572.63, y=71.00, z=-220.47]
+[01:45:52] [Server thread/INFO]: [Not Secure] <pablitox> pasen cordenadas
+[01:46:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/55709, l='ServerLevel[world]', x=583.59, y=72.00, z=-225.80]
+[01:46:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/55710, l='ServerLevel[world]', x=583.59, y=72.00, z=-225.80]
+[01:46:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/55711, l='ServerLevel[world]', x=583.59, y=72.00, z=-225.80]
+[01:46:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/55818, l='ServerLevel[world]', x=580.50, y=72.00, z=-220.45]
+[01:46:12] [Server thread/INFO]: [Not Secure] <Campesina> JAJAJAJJA
+[01:46:20] [Server thread/INFO]: [Not Secure] <pablitox> alp campesina
+[01:46:21] [Server thread/INFO]: [Not Secure] <celsofuster> las niñas estan juntitas?
+[01:46:25] [Server thread/INFO]: [Not Secure] <pablitox> y ese martillo que
+[01:46:25] [Server thread/INFO]: [Not Secure] <Campesina> sip
+[01:46:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Lizzy scale'/56131, l='ServerLevel[world]', x=959.19, y=75.00, z=-1730.92]
+[01:46:29] [Server thread/INFO]: [Not Secure] <Campesina> ns
+[01:46:33] [Server thread/INFO]: [Not Secure] <Campesina> mira mira
+[01:46:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/56501, l='ServerLevel[world]', x=937.88, y=76.42, z=-1757.15]
+[01:46:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/56502, l='ServerLevel[world]', x=937.88, y=76.42, z=-1757.15]
+[01:46:54] [Server thread/INFO]: [Not Secure] <Campesina> mira todas las armas que tnego
+[01:46:57] [Server thread/INFO]: [Not Secure] <pablitox> que mostro
+[01:47:09] [Server thread/WARN]: Pansaof was kicked for floating too long!
+[01:47:09] [Server thread/INFO]: Pansaof lost connection: Flying is not enabled on this server
+[01:47:09] [Server thread/INFO]: Pansaof left the game
+[01:47:09] [Server thread/INFO]: [voicechat] Disconnecting client Pansaof
+[01:47:17] [Server thread/INFO]: Pansaof[/127.86.78.195:52815] logged in with entity id 56838 at (922.5378185877892, 76.1067203792573, -1758.121201665958)
+[01:47:17] [Server thread/INFO]: Sending server config values to client
+[01:47:17] [Server thread/INFO]: Loading config from file...
+[01:47:17] [Server thread/INFO]: Pansaof joined the game
+[01:47:17] [Server thread/INFO]: [voicechat] Received secret request of Pansaof (18)
+[01:47:17] [Server thread/INFO]: [voicechat] Sent secret to Pansaof
+[01:47:17] [Server thread/INFO]: Priority overwritten for player Pansaof. Claiming: GRAVE / Robbing: INVENTORY
+[01:47:17] [Server thread/INFO]: Receiving client config
+[01:47:57] [Server thread/INFO]: [Not Secure] <pablitox> gracias
+[01:48:00] [Server thread/INFO]: [Not Secure] <Campesina> de nada bb
+[01:48:06] [Server thread/INFO]: [Not Secure] <Campesina> te vi con poca vida
+[01:48:16] [Server thread/INFO]: [Not Secure] <pablitox> uffff
+[01:48:17] [Server thread/INFO]: Pansaof suffocated in a wall while fighting Cyclops
+[01:48:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/57935, l='ServerLevel[world]', x=599.65, y=14.00, z=-143.60]
+[01:48:26] [Server thread/INFO]: [Not Secure] <pablitox> alp pancho
+[01:48:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/58333, l='ServerLevel[world]', x=633.17, y=72.00, z=-198.17]
+[01:48:36] [Server thread/INFO]: [Not Secure] <celsofuster> pasa cords
+[01:48:40] [Server thread/INFO]: [Not Secure] <celsofuster> seba
+[01:48:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/58458, l='ServerLevel[world]', x=630.38, y=68.00, z=-185.11]
+[01:48:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/58459, l='ServerLevel[world]', x=630.38, y=68.00, z=-185.11]
+[01:48:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/58518, l='ServerLevel[world]', x=216.47, y=58.00, z=34.54]
+[01:48:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/58572, l='ServerLevel[world]', x=629.56, y=72.00, z=-181.94]
+[01:49:05] [Server thread/INFO]: [Not Secure] <Campesina> pasaselas pablo
+[01:49:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/58723, l='ServerLevel[world]', x=641.67, y=71.00, z=-173.36]
+[01:49:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/58724, l='ServerLevel[world]', x=641.67, y=71.00, z=-173.36]
+[01:49:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/58725, l='ServerLevel[world]', x=641.67, y=71.00, z=-173.36]
+[01:49:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/58767, l='ServerLevel[world]', x=647.97, y=71.00, z=-170.00]
+[01:49:17] [Server thread/INFO]: [Not Secure] <celsofuster> acabo de salir de senda mina
+[01:49:18] [Server thread/INFO]: [Not Secure] <pablitox> voy
+[01:49:22] [Server thread/INFO]: [Not Secure] <celsofuster> casi muero 5 veces
+[01:49:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/58888, l='ServerLevel[world]', x=654.03, y=74.00, z=-174.14]
+[01:49:35] [Server thread/INFO]: [Not Secure] <pablitox> 586 72 -215
+[01:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/59134, l='ServerLevel[world]', x=673.26, y=67.00, z=-140.73]
+[01:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/59135, l='ServerLevel[world]', x=673.26, y=67.00, z=-140.73]
+[01:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/59136, l='ServerLevel[world]', x=673.26, y=67.00, z=-140.73]
+[01:50:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/59553, l='ServerLevel[world]', x=914.90, y=74.41, z=-1750.50]
+[01:50:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/59554, l='ServerLevel[world]', x=914.90, y=74.41, z=-1750.50]
+[01:50:15] [Server thread/INFO]: Pansaof claimed a grave belonging to Pansaof at 899, 68, -1749, minecraft:overworld
+[01:50:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/59966, l='ServerLevel[world]', x=335.62, y=58.10, z=-214.79]
+[01:50:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/59968, l='ServerLevel[world]', x=335.77, y=58.75, z=-214.33]
+[01:50:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/59984, l='ServerLevel[world]', x=337.03, y=59.02, z=-217.46]
+[01:50:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/60187, l='ServerLevel[world]', x=315.42, y=-5.00, z=-138.39]
+[01:51:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/60480, l='ServerLevel[world]', x=889.02, y=66.00, z=-1749.89]
+[01:51:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/60481, l='ServerLevel[world]', x=889.02, y=66.00, z=-1749.89]
+[01:51:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/60482, l='ServerLevel[world]', x=889.02, y=66.00, z=-1749.89]
+[01:51:46] [Server thread/INFO]: [Not Secure] <Campesina> voy a comer ya vengo
+[01:51:49] [Server thread/INFO]: Campesina lost connection: Disconnected
+[01:51:49] [Server thread/INFO]: Campesina left the game
+[01:51:49] [Server thread/INFO]: [voicechat] Disconnecting client Campesina
+[01:52:05] [Server thread/INFO]: Shui3000[/127.147.80.121:56113] logged in with entity id 60765 at (314.6623962065945, 72.0, 78.67375880944647)
+[01:52:05] [Server thread/INFO]: Sending server config values to client
+[01:52:05] [Server thread/INFO]: Loading config from file...
+[01:52:05] [Server thread/INFO]: Shui3000 joined the game
+[01:52:06] [Server thread/INFO]: [voicechat] Received secret request of Shui3000 (18)
+[01:52:06] [Server thread/INFO]: [voicechat] Sent secret to Shui3000
+[01:52:06] [Server thread/INFO]: Priority overwritten for player Shui3000. Claiming: GRAVE / Robbing: INVENTORY
+[01:52:06] [Server thread/INFO]: Receiving client config
+[01:52:18] [Server thread/INFO]: [Not Secure] <Shui3000> holaaaaaaaaaaaaaaa amigues
+[01:52:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/61138, l='ServerLevel[world]', x=325.92, y=3.00, z=64.60]
+[01:52:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/61140, l='ServerLevel[world]', x=326.43, y=10.00, z=65.61]
+[01:52:28] [Server thread/INFO]: [Not Secure] <celsofuster> holagorda
+[01:52:30] [Server thread/INFO]: [Not Secure] <Shui3000> llamadita??
+[01:52:42] [Server thread/INFO]: [Not Secure] <Pansaof> yopuedop
+[01:52:50] [Server thread/INFO]: [Not Secure] <celsofuster> invite
+[01:52:58] [Server thread/INFO]: [Not Secure] <pablitox> santiago dame hierro
+[01:53:15] [Server thread/INFO]: [Not Secure] <celsofuster> como se dice
+[01:53:19] [Server thread/INFO]: [Not Secure] <pablitox> porfavor bebe
+[01:53:28] [Server thread/INFO]: [Not Secure] <Shui3000> donde andan?? tienen casa?
+[01:53:39] [Server thread/INFO]: [Not Secure] <pablitox> thanks
+[01:54:02] [Server thread/INFO]: [Not Secure] <celsofuster> yo voy a hacerme una
+[01:55:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/62629, l='ServerLevel[world]', x=502.97, y=72.00, z=-125.08]
+[01:55:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/62630, l='ServerLevel[world]', x=502.97, y=72.00, z=-125.08]
+[01:55:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/62719, l='ServerLevel[world]', x=499.32, y=73.00, z=-130.86]
+[01:55:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/63033, l='ServerLevel[world]', x=808.66, y=60.54, z=-1804.55]
+[01:56:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/63690, l='ServerLevel[world]', x=637.61, y=74.77, z=-307.39]
+[01:56:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/63694, l='ServerLevel[world]', x=791.13, y=61.34, z=-1706.08]
+[01:56:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/63856, l='ServerLevel[world]', x=634.45, y=76.00, z=-300.59]
+[01:56:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/63861, l='ServerLevel[world]', x=798.52, y=47.15, z=-1667.72]
+[01:56:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/64245, l='ServerLevel[world]', x=825.66, y=48.95, z=-1691.40]
+[01:57:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/64777, l='ServerLevel[world]', x=812.39, y=59.77, z=-1800.22]
+[01:58:11] [Server thread/INFO]: pablitox has made the advancement [A Seedy Place]
+[01:59:07] [Server thread/INFO]: Shui3000 has made the advancement [Cover Me with Diamonds]
+[01:59:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/65667, l='ServerLevel[world]', x=798.18, y=62.50, z=-1844.17]
+[01:59:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/65673, l='ServerLevel[world]', x=799.24, y=62.00, z=-1845.77]
+[01:59:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/65692, l='ServerLevel[world]', x=794.30, y=62.00, z=-1842.85]
+[01:59:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/65693, l='ServerLevel[world]', x=794.30, y=62.00, z=-1842.85]
+[01:59:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/65774, l='ServerLevel[world]', x=792.47, y=62.00, z=-1853.70]
+[01:59:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/65775, l='ServerLevel[world]', x=792.47, y=62.00, z=-1853.70]
+[02:00:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/65937, l='ServerLevel[world]', x=787.66, y=69.00, z=-1851.30]
+[02:00:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/65938, l='ServerLevel[world]', x=787.66, y=69.00, z=-1851.30]
+[02:00:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/66006, l='ServerLevel[world]', x=790.66, y=69.00, z=-1842.92]
+[02:00:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/66007, l='ServerLevel[world]', x=790.66, y=69.00, z=-1842.92]
+[02:00:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/66015, l='ServerLevel[world]', x=792.79, y=69.00, z=-1844.30]
+[02:00:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/66016, l='ServerLevel[world]', x=792.79, y=69.00, z=-1844.30]
+[02:00:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/66139, l='ServerLevel[world]', x=793.41, y=76.00, z=-1850.68]
+[02:00:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/66140, l='ServerLevel[world]', x=793.41, y=76.00, z=-1850.68]
+[02:00:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/66151, l='ServerLevel[world]', x=796.41, y=76.00, z=-1850.04]
+[02:00:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/66159, l='ServerLevel[world]', x=796.04, y=76.00, z=-1849.91]
+[02:00:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/66160, l='ServerLevel[world]', x=796.04, y=76.00, z=-1849.91]
+[02:00:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/66164, l='ServerLevel[world]', x=794.97, y=76.00, z=-1851.86]
+[02:00:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/66179, l='ServerLevel[world]', x=796.03, y=76.94, z=-1851.01]
+[02:01:14] [Server thread/INFO]: Campesina[/127.183.188.71:37399] logged in with entity id 66360 at (581.4355897826688, 72.0, -214.6963921937809)
+[02:01:14] [Server thread/INFO]: Sending server config values to client
+[02:01:14] [Server thread/INFO]: Loading config from file...
+[02:01:14] [Server thread/INFO]: Campesina joined the game
+[02:01:14] [Server thread/INFO]: Priority overwritten for player Campesina. Claiming: GRAVE / Robbing: INVENTORY
+[02:01:14] [Server thread/INFO]: Receiving client config
+[02:01:14] [Server thread/INFO]: [voicechat] Received secret request of Campesina (18)
+[02:01:14] [Server thread/INFO]: [voicechat] Sent secret to Campesina
+[02:01:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/66420, l='ServerLevel[world]', x=788.36, y=83.00, z=-1851.30]
+[02:01:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/66421, l='ServerLevel[world]', x=788.36, y=83.00, z=-1851.30]
+[02:01:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/66426, l='ServerLevel[world]', x=789.01, y=83.00, z=-1851.45]
+[02:01:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/66449, l='ServerLevel[world]', x=787.51, y=82.92, z=-1848.92]
+[02:01:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/66486, l='ServerLevel[world]', x=573.60, y=-25.00, z=-223.60]
+[02:01:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/66489, l='ServerLevel[world]', x=789.48, y=83.00, z=-1851.05]
+[02:01:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/66490, l='ServerLevel[world]', x=789.48, y=83.00, z=-1851.05]
+[02:01:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/66516, l='ServerLevel[world]', x=789.30, y=83.00, z=-1851.90]
+[02:01:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/66517, l='ServerLevel[world]', x=789.30, y=83.00, z=-1851.90]
+[02:01:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/66523, l='ServerLevel[world]', x=790.17, y=83.00, z=-1851.42]
+[02:01:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/66641, l='ServerLevel[world]', x=789.37, y=83.00, z=-1843.59]
+[02:01:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/66692, l='ServerLevel[world]', x=793.09, y=83.00, z=-1849.70]
+[02:01:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/66693, l='ServerLevel[world]', x=793.09, y=83.00, z=-1849.70]
+[02:02:22] [Server thread/INFO]: [Not Secure] <pablitox> 572 72 -212
+[02:02:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67071, l='ServerLevel[world]', x=789.70, y=91.91, z=-1851.88]
+[02:02:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/67072, l='ServerLevel[world]', x=789.70, y=91.91, z=-1851.88]
+[02:02:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67100, l='ServerLevel[world]', x=789.70, y=90.00, z=-1851.55]
+[02:02:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67166, l='ServerLevel[world]', x=790.60, y=90.00, z=-1849.98]
+[02:02:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/67167, l='ServerLevel[world]', x=790.60, y=90.00, z=-1849.98]
+[02:02:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67205, l='ServerLevel[world]', x=267.69, y=72.71, z=24.95]
+[02:02:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67219, l='ServerLevel[world]', x=268.27, y=73.14, z=26.83]
+[02:03:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/67379, l='ServerLevel[world]', x=269.07, y=72.00, z=26.55]
+[02:03:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/67380, l='ServerLevel[world]', x=269.07, y=72.00, z=26.55]
+[02:03:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/67384, l='ServerLevel[world]', x=269.72, y=72.00, z=26.58]
+[02:03:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/67496, l='ServerLevel[world]', x=278.30, y=71.00, z=33.86]
+[02:03:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/67505, l='ServerLevel[world]', x=368.46, y=63.00, z=-174.17]
+[02:03:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/67532, l='ServerLevel[world]', x=365.61, y=64.00, z=-174.98]
+[02:03:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/67590, l='ServerLevel[world]', x=789.30, y=97.00, z=-1851.76]
+[02:03:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/67732, l='ServerLevel[world]', x=796.59, y=97.00, z=-1851.49]
+[02:03:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/67733, l='ServerLevel[world]', x=796.59, y=97.00, z=-1851.49]
+[02:03:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/67796, l='ServerLevel[world]', x=791.95, y=97.00, z=-1844.22]
+[02:03:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/67797, l='ServerLevel[world]', x=791.95, y=97.00, z=-1844.22]
+[02:04:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68250, l='ServerLevel[world]', x=799.70, y=104.00, z=-1844.30]
+[02:04:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68251, l='ServerLevel[world]', x=799.70, y=104.00, z=-1844.30]
+[02:04:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/68252, l='ServerLevel[world]', x=799.70, y=104.00, z=-1844.30]
+[02:04:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68561, l='ServerLevel[world]', x=227.34, y=87.00, z=-163.70]
+[02:05:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68751, l='ServerLevel[world]', x=787.30, y=111.00, z=-1850.94]
+[02:05:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68752, l='ServerLevel[world]', x=787.30, y=111.00, z=-1850.94]
+[02:05:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/68753, l='ServerLevel[world]', x=787.30, y=111.00, z=-1850.94]
+[02:05:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/68754, l='ServerLevel[world]', x=787.30, y=111.00, z=-1850.94]
+[02:05:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68796, l='ServerLevel[world]', x=788.37, y=111.00, z=-1851.30]
+[02:05:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68797, l='ServerLevel[world]', x=788.37, y=111.00, z=-1851.30]
+[02:05:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68823, l='ServerLevel[world]', x=788.39, y=111.00, z=-1851.30]
+[02:05:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68824, l='ServerLevel[world]', x=788.39, y=111.00, z=-1851.30]
+[02:05:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68865, l='ServerLevel[world]', x=787.30, y=109.50, z=-1847.98]
+[02:05:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68866, l='ServerLevel[world]', x=787.30, y=109.50, z=-1847.98]
+[02:05:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/68867, l='ServerLevel[world]', x=787.30, y=109.50, z=-1847.98]
+[02:05:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68894, l='ServerLevel[world]', x=787.30, y=111.00, z=-1851.70]
+[02:05:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68895, l='ServerLevel[world]', x=787.30, y=111.00, z=-1851.70]
+[02:05:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/68896, l='ServerLevel[world]', x=787.30, y=111.00, z=-1851.70]
+[02:05:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68906, l='ServerLevel[world]', x=787.70, y=111.00, z=-1851.30]
+[02:05:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68907, l='ServerLevel[world]', x=787.70, y=111.00, z=-1851.30]
+[02:05:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/68949, l='ServerLevel[world]', x=788.81, y=111.00, z=-1851.30]
+[02:05:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/68950, l='ServerLevel[world]', x=788.81, y=111.00, z=-1851.30]
+[02:05:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69025, l='ServerLevel[world]', x=787.80, y=111.00, z=-1851.30]
+[02:05:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69043, l='ServerLevel[world]', x=789.30, y=111.00, z=-1851.75]
+[02:05:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69104, l='ServerLevel[world]', x=792.70, y=111.00, z=-1849.95]
+[02:05:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/69105, l='ServerLevel[world]', x=792.70, y=111.00, z=-1849.95]
+[02:05:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69198, l='ServerLevel[world]', x=790.98, y=111.00, z=-1840.30]
+[02:05:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/69199, l='ServerLevel[world]', x=790.98, y=111.00, z=-1840.30]
+[02:05:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/69293, l='ServerLevel[world]', x=552.66, y=64.00, z=-101.58]
+[02:06:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/69425, l='ServerLevel[world]', x=556.74, y=57.00, z=-61.79]
+[02:06:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/69441, l='ServerLevel[world]', x=554.87, y=55.86, z=-60.14]
+[02:06:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/69460, l='ServerLevel[world]', x=548.63, y=58.05, z=-56.72]
+[02:06:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Salmon'/69481, l='ServerLevel[world]', x=547.30, y=57.00, z=-54.45]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69561, l='ServerLevel[world]', x=788.91, y=118.00, z=-1851.30]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69562, l='ServerLevel[world]', x=788.91, y=118.00, z=-1851.30]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/69564, l='ServerLevel[world]', x=789.63, y=118.00, z=-1851.22]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69569, l='ServerLevel[world]', x=790.10, y=118.00, z=-1852.60]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69570, l='ServerLevel[world]', x=790.10, y=118.00, z=-1852.60]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/69571, l='ServerLevel[world]', x=790.10, y=118.00, z=-1852.60]
+[02:06:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/69572, l='ServerLevel[world]', x=790.10, y=118.00, z=-1852.60]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69586, l='ServerLevel[world]', x=789.62, y=118.00, z=-1852.50]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69587, l='ServerLevel[world]', x=789.62, y=118.00, z=-1852.50]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/69588, l='ServerLevel[world]', x=789.62, y=118.00, z=-1852.50]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69598, l='ServerLevel[world]', x=791.30, y=118.00, z=-1852.23]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69601, l='ServerLevel[world]', x=790.64, y=118.00, z=-1851.27]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69602, l='ServerLevel[world]', x=790.64, y=118.00, z=-1851.27]
+[02:06:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/69603, l='ServerLevel[world]', x=790.64, y=118.00, z=-1851.27]
+[02:06:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69618, l='ServerLevel[world]', x=789.30, y=118.00, z=-1849.66]
+[02:06:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69821, l='ServerLevel[world]', x=797.58, y=118.00, z=-1841.30]
+[02:06:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69822, l='ServerLevel[world]', x=797.58, y=118.00, z=-1841.30]
+[02:06:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69852, l='ServerLevel[world]', x=799.70, y=118.00, z=-1847.06]
+[02:06:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/69878, l='ServerLevel[world]', x=789.38, y=118.00, z=-1841.54]
+[02:06:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/69879, l='ServerLevel[world]', x=789.38, y=118.00, z=-1841.54]
+[02:06:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70145, l='ServerLevel[world]', x=787.31, y=125.96, z=-1849.49]
+[02:06:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70146, l='ServerLevel[world]', x=787.31, y=125.96, z=-1849.49]
+[02:06:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70168, l='ServerLevel[world]', x=787.70, y=125.00, z=-1850.72]
+[02:06:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70170, l='ServerLevel[world]', x=787.70, y=123.00, z=-1847.21]
+[02:06:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70171, l='ServerLevel[world]', x=787.70, y=123.00, z=-1847.21]
+[02:06:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70189, l='ServerLevel[world]', x=787.30, y=125.00, z=-1851.70]
+[02:07:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70197, l='ServerLevel[world]', x=788.85, y=125.00, z=-1851.42]
+[02:07:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70198, l='ServerLevel[world]', x=788.85, y=125.00, z=-1851.42]
+[02:07:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70230, l='ServerLevel[world]', x=790.09, y=125.00, z=-1852.05]
+[02:07:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/70231, l='ServerLevel[world]', x=790.09, y=125.00, z=-1852.05]
+[02:07:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70232, l='ServerLevel[world]', x=790.09, y=125.00, z=-1852.05]
+[02:07:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70245, l='ServerLevel[world]', x=792.09, y=125.00, z=-1850.66]
+[02:07:07] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70259, l='ServerLevel[world]', x=789.70, y=126.45, z=-1851.08]
+[02:07:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/70284, l='ServerLevel[world]', x=790.78, y=125.40, z=-1852.20]
+[02:07:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70288, l='ServerLevel[world]', x=789.81, y=125.71, z=-1850.87]
+[02:07:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70324, l='ServerLevel[world]', x=792.48, y=125.00, z=-1852.11]
+[02:07:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70325, l='ServerLevel[world]', x=792.48, y=125.00, z=-1852.11]
+[02:07:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70343, l='ServerLevel[world]', x=792.52, y=125.00, z=-1850.81]
+[02:07:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70372, l='ServerLevel[world]', x=795.70, y=125.00, z=-1840.73]
+[02:07:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70404, l='ServerLevel[world]', x=370.29, y=61.27, z=-320.89]
+[02:07:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70533, l='ServerLevel[world]', x=425.89, y=69.00, z=59.15]
+[02:07:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/70534, l='ServerLevel[world]', x=425.89, y=69.00, z=59.15]
+[02:07:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70535, l='ServerLevel[world]', x=425.89, y=69.00, z=59.15]
+[02:07:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70577, l='ServerLevel[world]', x=429.20, y=69.00, z=60.05]
+[02:07:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70601, l='ServerLevel[world]', x=799.17, y=125.00, z=-1846.17]
+[02:07:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70613, l='ServerLevel[world]', x=787.30, y=132.00, z=-1850.06]
+[02:07:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70659, l='ServerLevel[world]', x=790.09, y=132.00, z=-1852.24]
+[02:07:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70660, l='ServerLevel[world]', x=790.09, y=132.00, z=-1852.24]
+[02:07:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/70663, l='ServerLevel[world]', x=422.27, y=69.00, z=60.81]
+[02:07:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70671, l='ServerLevel[world]', x=790.11, y=132.00, z=-1851.09]
+[02:07:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70686, l='ServerLevel[world]', x=787.34, y=132.00, z=-1851.22]
+[02:07:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/70687, l='ServerLevel[world]', x=787.34, y=132.00, z=-1851.22]
+[02:08:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70736, l='ServerLevel[world]', x=798.19, y=132.00, z=-1844.93]
+[02:08:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70806, l='ServerLevel[world]', x=790.88, y=132.40, z=-1843.58]
+[02:08:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70811, l='ServerLevel[world]', x=790.18, y=132.00, z=-1841.30]
+[02:08:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70812, l='ServerLevel[world]', x=790.18, y=132.00, z=-1841.30]
+[02:08:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70813, l='ServerLevel[world]', x=790.18, y=132.00, z=-1841.30]
+[02:08:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/70818, l='ServerLevel[world]', x=789.76, y=132.00, z=-1842.76]
+[02:08:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/70819, l='ServerLevel[world]', x=789.76, y=132.00, z=-1842.76]
+[02:08:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70843, l='ServerLevel[world]', x=798.04, y=132.00, z=-1844.05]
+[02:08:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/70844, l='ServerLevel[world]', x=798.04, y=132.00, z=-1844.05]
+[02:08:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70855, l='ServerLevel[world]', x=798.43, y=132.00, z=-1842.45]
+[02:08:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70856, l='ServerLevel[world]', x=798.43, y=132.00, z=-1842.45]
+[02:08:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70857, l='ServerLevel[world]', x=798.43, y=132.00, z=-1842.45]
+[02:08:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/70867, l='ServerLevel[world]', x=799.70, y=132.00, z=-1846.21]
+[02:08:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/70868, l='ServerLevel[world]', x=799.70, y=132.00, z=-1846.21]
+[02:08:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70869, l='ServerLevel[world]', x=799.70, y=132.00, z=-1846.21]
+[02:08:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/70946, l='ServerLevel[world]', x=796.43, y=132.00, z=-1847.79]
+[02:08:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/70960, l='ServerLevel[world]', x=438.40, y=-32.00, z=-303.60]
+[02:08:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71078, l='ServerLevel[world]', x=790.93, y=139.00, z=-1847.34]
+[02:08:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Carrot'/71079, l='ServerLevel[world]', x=790.93, y=139.00, z=-1847.34]
+[02:08:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Ingot'/71092, l='ServerLevel[world]', x=790.71, y=139.00, z=-1842.23]
+[02:08:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71098, l='ServerLevel[world]', x=792.09, y=139.00, z=-1843.76]
+[02:08:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71099, l='ServerLevel[world]', x=792.09, y=139.00, z=-1843.76]
+[02:08:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71100, l='ServerLevel[world]', x=792.09, y=139.00, z=-1843.76]
+[02:08:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71109, l='ServerLevel[world]', x=790.87, y=139.00, z=-1840.59]
+[02:08:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71114, l='ServerLevel[world]', x=790.27, y=139.00, z=-1841.91]
+[02:08:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/71115, l='ServerLevel[world]', x=790.27, y=139.00, z=-1841.91]
+[02:08:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71126, l='ServerLevel[world]', x=422.30, y=76.00, z=50.79]
+[02:08:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71127, l='ServerLevel[world]', x=422.30, y=76.00, z=50.79]
+[02:08:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71128, l='ServerLevel[world]', x=419.30, y=76.00, z=52.40]
+[02:08:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71141, l='ServerLevel[world]', x=419.30, y=76.00, z=52.30]
+[02:08:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71146, l='ServerLevel[world]', x=791.17, y=139.00, z=-1853.35]
+[02:08:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71155, l='ServerLevel[world]', x=799.70, y=139.00, z=-1848.61]
+[02:08:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71202, l='ServerLevel[world]', x=791.59, y=139.00, z=-1853.59]
+[02:08:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71203, l='ServerLevel[world]', x=791.59, y=139.00, z=-1853.59]
+[02:08:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71204, l='ServerLevel[world]', x=791.59, y=139.00, z=-1853.59]
+[02:08:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/71205, l='ServerLevel[world]', x=791.59, y=139.00, z=-1853.59]
+[02:08:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71214, l='ServerLevel[world]', x=423.72, y=76.00, z=51.62]
+[02:08:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71229, l='ServerLevel[world]', x=425.07, y=76.00, z=54.50]
+[02:08:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71230, l='ServerLevel[world]', x=425.07, y=76.00, z=54.50]
+[02:09:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71257, l='ServerLevel[world]', x=787.50, y=139.00, z=-1850.08]
+[02:09:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71258, l='ServerLevel[world]', x=787.50, y=139.00, z=-1850.08]
+[02:09:17] [Server thread/INFO]: Shui3000 has made the advancement [Not Today, Thank You]
+[02:09:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71347, l='ServerLevel[world]', x=370.62, y=60.96, z=-321.55]
+[02:09:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71359, l='ServerLevel[world]', x=367.85, y=72.00, z=62.10]
+[02:09:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71360, l='ServerLevel[world]', x=367.85, y=72.00, z=62.10]
+[02:09:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71361, l='ServerLevel[world]', x=367.85, y=72.00, z=62.10]
+[02:09:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71363, l='ServerLevel[world]', x=421.87, y=62.00, z=62.45]
+[02:09:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71371, l='ServerLevel[world]', x=423.32, y=76.00, z=62.41]
+[02:09:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71372, l='ServerLevel[world]', x=423.32, y=76.00, z=62.41]
+[02:09:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/71373, l='ServerLevel[world]', x=400.40, y=15.00, z=112.40]
+[02:09:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71403, l='ServerLevel[world]', x=430.11, y=76.00, z=54.11]
+[02:09:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71480, l='ServerLevel[world]', x=419.43, y=69.00, z=61.70]
+[02:09:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71505, l='ServerLevel[world]', x=368.08, y=72.00, z=62.00]
+[02:09:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71525, l='ServerLevel[world]', x=787.68, y=169.67, z=-1844.35]
+[02:09:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71526, l='ServerLevel[world]', x=787.68, y=169.67, z=-1844.35]
+[02:09:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71539, l='ServerLevel[world]', x=430.85, y=76.00, z=56.17]
+[02:09:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71540, l='ServerLevel[world]', x=430.85, y=76.00, z=56.17]
+[02:09:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/71541, l='ServerLevel[world]', x=430.85, y=76.00, z=56.17]
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71548, l='ServerLevel[world]', x=389.50, y=64.00, z=-35.50]
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:54] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71551, l='ServerLevel[world]', x=508.23, y=64.00, z=26.82]
+[02:09:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71552, l='ServerLevel[world]', x=799.18, y=175.00, z=-1843.49]
+[02:09:55] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:55] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:55] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71558, l='ServerLevel[world]', x=430.68, y=76.00, z=61.70]
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71559, l='ServerLevel[world]', x=430.68, y=76.00, z=61.70]
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71560, l='ServerLevel[world]', x=430.68, y=76.00, z=61.70]
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71563, l='ServerLevel[world]', x=427.50, y=105.00, z=64.18]
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71564, l='ServerLevel[world]', x=425.25, y=76.00, z=56.80]
+[02:09:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71571, l='ServerLevel[world]', x=300.71, y=102.00, z=-338.70]
+[02:09:57] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:57] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:57] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71587, l='ServerLevel[world]', x=419.83, y=105.00, z=62.77]
+[02:09:58] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:58] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:58] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71599, l='ServerLevel[world]', x=428.53, y=76.83, z=60.18]
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/71600, l='ServerLevel[world]', x=428.53, y=76.83, z=60.18]
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71603, l='ServerLevel[world]', x=431.70, y=76.00, z=54.30]
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71604, l='ServerLevel[world]', x=431.70, y=76.00, z=54.30]
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71605, l='ServerLevel[world]', x=431.70, y=76.00, z=54.30]
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: Upgrade recipe was valid but item did not contain an Upgrade Component!
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71609, l='ServerLevel[world]', x=301.14, y=102.00, z=-339.13]
+[02:09:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71610, l='ServerLevel[world]', x=301.14, y=102.00, z=-339.13]
+[02:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Potato'/71616, l='ServerLevel[world]', x=422.95, y=76.00, z=61.53]
+[02:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71617, l='ServerLevel[world]', x=422.95, y=76.00, z=61.53]
+[02:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71623, l='ServerLevel[world]', x=788.80, y=174.00, z=-1844.16]
+[02:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71624, l='ServerLevel[world]', x=788.80, y=174.00, z=-1844.16]
+[02:10:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71628, l='ServerLevel[world]', x=417.51, y=105.00, z=58.19]
+[02:10:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71643, l='ServerLevel[world]', x=364.14, y=74.00, z=57.84]
+[02:10:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71645, l='ServerLevel[world]', x=430.70, y=76.00, z=61.70]
+[02:10:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/71646, l='ServerLevel[world]', x=430.70, y=76.00, z=61.70]
+[02:10:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71656, l='ServerLevel[world]', x=418.30, y=104.00, z=59.54]
+[02:10:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71667, l='ServerLevel[world]', x=471.01, y=98.00, z=-317.94]
+[02:10:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71669, l='ServerLevel[world]', x=471.01, y=98.62, z=-317.94]
+[02:10:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71677, l='ServerLevel[world]', x=795.50, y=175.00, z=-1854.19]
+[02:10:11] [Server thread/INFO]: Shui3000 has made the advancement [Isn't It Iron Pick]
+[02:10:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71684, l='ServerLevel[world]', x=420.22, y=104.00, z=53.75]
+[02:10:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71712, l='ServerLevel[world]', x=421.30, y=76.00, z=62.14]
+[02:10:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71713, l='ServerLevel[world]', x=421.30, y=76.00, z=62.14]
+[02:10:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71715, l='ServerLevel[world]', x=422.48, y=76.00, z=60.56]
+[02:10:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71723, l='ServerLevel[world]', x=421.30, y=76.79, z=62.61]
+[02:10:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/71724, l='ServerLevel[world]', x=421.30, y=76.79, z=62.61]
+[02:10:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71756, l='ServerLevel[world]', x=785.82, y=175.00, z=-1845.46]
+[02:10:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71788, l='ServerLevel[world]', x=428.42, y=83.00, z=52.08]
+[02:10:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71791, l='ServerLevel[world]', x=430.70, y=83.00, z=52.30]
+[02:10:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71792, l='ServerLevel[world]', x=430.70, y=83.00, z=52.30]
+[02:10:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/71793, l='ServerLevel[world]', x=430.70, y=83.00, z=52.30]
+[02:10:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/71820, l='ServerLevel[world]', x=785.81, y=175.00, z=-1849.49]
+[02:10:35] [Server thread/INFO]: pablitox has made the advancement [Ice Bucket Challenge]
+[02:10:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/71901, l='ServerLevel[world]', x=422.47, y=90.00, z=51.21]
+[02:10:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/71902, l='ServerLevel[world]', x=422.47, y=90.00, z=51.21]
+[02:10:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/71934, l='ServerLevel[world]', x=429.27, y=90.00, z=59.08]
+[02:11:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/71947, l='ServerLevel[world]', x=427.74, y=90.94, z=61.78]
+[02:11:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72033, l='ServerLevel[world]', x=423.57, y=90.00, z=53.23]
+[02:11:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72037, l='ServerLevel[world]', x=789.70, y=146.31, z=-1851.64]
+[02:11:12] [Server thread/INFO]: celsofuster has made the advancement [They Have a Cave Troll!]
+[02:11:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Brown Mushroom'/72045, l='ServerLevel[world]', x=421.93, y=90.00, z=55.27]
+[02:11:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Forest Troll Leather'/72046, l='ServerLevel[world]', x=421.93, y=90.00, z=55.27]
+[02:11:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72055, l='ServerLevel[world]', x=419.51, y=89.77, z=55.27]
+[02:11:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/72070, l='ServerLevel[world]', x=790.38, y=146.31, z=-1850.13]
+[02:11:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72077, l='ServerLevel[world]', x=424.33, y=90.00, z=55.05]
+[02:11:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Potato'/72078, l='ServerLevel[world]', x=424.33, y=90.00, z=55.05]
+[02:11:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72079, l='ServerLevel[world]', x=424.33, y=90.00, z=55.05]
+[02:11:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72085, l='ServerLevel[world]', x=789.70, y=147.04, z=-1849.76]
+[02:11:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72107, l='ServerLevel[world]', x=787.70, y=170.50, z=-1845.78]
+[02:11:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72108, l='ServerLevel[world]', x=796.70, y=146.00, z=-1847.88]
+[02:11:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72109, l='ServerLevel[world]', x=796.70, y=146.00, z=-1847.88]
+[02:11:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72110, l='ServerLevel[world]', x=796.70, y=146.00, z=-1847.88]
+[02:11:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72121, l='ServerLevel[world]', x=421.30, y=90.58, z=62.70]
+[02:11:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72122, l='ServerLevel[world]', x=421.30, y=90.58, z=62.70]
+[02:11:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72134, l='ServerLevel[world]', x=795.38, y=146.63, z=-1849.02]
+[02:11:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72145, l='ServerLevel[world]', x=796.01, y=146.00, z=-1848.37]
+[02:11:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/72146, l='ServerLevel[world]', x=796.01, y=146.00, z=-1848.37]
+[02:11:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72178, l='ServerLevel[world]', x=794.82, y=146.00, z=-1849.85]
+[02:11:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72179, l='ServerLevel[world]', x=794.82, y=146.00, z=-1849.85]
+[02:11:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72194, l='ServerLevel[world]', x=291.01, y=85.00, z=-281.14]
+[02:11:26] [Server thread/WARN]: Tried to over-fill a container
+[02:11:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72222, l='ServerLevel[world]', x=785.82, y=175.00, z=-1846.46]
+[02:11:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72248, l='ServerLevel[world]', x=419.68, y=94.50, z=57.25]
+[02:11:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72257, l='ServerLevel[world]', x=419.48, y=93.04, z=58.35]
+[02:11:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72258, l='ServerLevel[world]', x=419.48, y=93.04, z=58.35]
+[02:11:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72283, l='ServerLevel[world]', x=790.47, y=153.00, z=-1851.12]
+[02:11:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72294, l='ServerLevel[world]', x=419.69, y=96.50, z=56.10]
+[02:11:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72295, l='ServerLevel[world]', x=419.69, y=96.50, z=56.10]
+[02:11:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72299, l='ServerLevel[world]', x=788.00, y=153.00, z=-1851.30]
+[02:11:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72300, l='ServerLevel[world]', x=788.00, y=153.00, z=-1851.30]
+[02:11:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72307, l='ServerLevel[world]', x=789.73, y=153.00, z=-1851.12]
+[02:11:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72308, l='ServerLevel[world]', x=789.73, y=153.00, z=-1851.12]
+[02:11:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72310, l='ServerLevel[world]', x=790.34, y=153.00, z=-1851.60]
+[02:11:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/72311, l='ServerLevel[world]', x=790.34, y=153.00, z=-1851.60]
+[02:11:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72316, l='ServerLevel[world]', x=419.58, y=97.00, z=52.30]
+[02:11:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72317, l='ServerLevel[world]', x=419.58, y=97.00, z=52.30]
+[02:11:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72338, l='ServerLevel[world]', x=792.57, y=153.00, z=-1852.43]
+[02:11:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72345, l='ServerLevel[world]', x=788.84, y=153.00, z=-1851.70]
+[02:11:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72353, l='ServerLevel[world]', x=789.91, y=153.00, z=-1851.94]
+[02:11:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72354, l='ServerLevel[world]', x=789.91, y=153.00, z=-1851.94]
+[02:11:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72383, l='ServerLevel[world]', x=795.94, y=153.00, z=-1851.93]
+[02:11:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72384, l='ServerLevel[world]', x=795.94, y=153.00, z=-1851.93]
+[02:11:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72385, l='ServerLevel[world]', x=795.94, y=153.00, z=-1851.93]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72418, l='ServerLevel[world]', x=426.24, y=97.00, z=55.86]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72422, l='ServerLevel[world]', x=423.70, y=97.88, z=60.25]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72426, l='ServerLevel[world]', x=422.72, y=97.00, z=62.29]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72427, l='ServerLevel[world]', x=422.72, y=97.00, z=62.29]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72437, l='ServerLevel[world]', x=423.87, y=97.88, z=63.08]
+[02:11:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72438, l='ServerLevel[world]', x=423.87, y=97.88, z=63.08]
+[02:11:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72450, l='ServerLevel[world]', x=422.93, y=97.00, z=56.80]
+[02:11:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72451, l='ServerLevel[world]', x=422.93, y=97.00, z=56.80]
+[02:11:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72461, l='ServerLevel[world]', x=791.37, y=153.00, z=-1843.63]
+[02:11:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72465, l='ServerLevel[world]', x=423.46, y=97.00, z=59.56]
+[02:11:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72478, l='ServerLevel[world]', x=793.98, y=153.58, z=-1844.37]
+[02:11:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72479, l='ServerLevel[world]', x=793.98, y=153.58, z=-1844.37]
+[02:11:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72480, l='ServerLevel[world]', x=793.98, y=153.58, z=-1844.37]
+[02:11:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72483, l='ServerLevel[world]', x=424.65, y=97.00, z=61.75]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72493, l='ServerLevel[world]', x=797.30, y=153.00, z=-1848.67]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72496, l='ServerLevel[world]', x=421.06, y=97.00, z=61.30]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72497, l='ServerLevel[world]', x=421.06, y=97.00, z=61.30]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72505, l='ServerLevel[world]', x=426.11, y=97.00, z=52.70]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72507, l='ServerLevel[world]', x=421.30, y=97.00, z=62.70]
+[02:11:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72508, l='ServerLevel[world]', x=421.30, y=97.00, z=62.70]
+[02:12:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72536, l='ServerLevel[world]', x=428.08, y=97.00, z=61.90]
+[02:12:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72537, l='ServerLevel[world]', x=428.08, y=97.00, z=61.90]
+[02:12:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/72538, l='ServerLevel[world]', x=428.08, y=97.00, z=61.90]
+[02:12:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72598, l='ServerLevel[world]', x=793.25, y=160.00, z=-1851.53]
+[02:12:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/72599, l='ServerLevel[world]', x=793.25, y=160.00, z=-1851.53]
+[02:12:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72603, l='ServerLevel[world]', x=791.05, y=160.00, z=-1850.83]
+[02:12:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72604, l='ServerLevel[world]', x=791.05, y=160.00, z=-1850.83]
+[02:12:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72640, l='ServerLevel[world]', x=789.30, y=160.94, z=-1850.73]
+[02:12:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72673, l='ServerLevel[world]', x=793.77, y=160.00, z=-1851.33]
+[02:12:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72687, l='ServerLevel[world]', x=789.30, y=160.00, z=-1850.19]
+[02:12:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72688, l='ServerLevel[world]', x=789.30, y=160.00, z=-1850.19]
+[02:12:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72723, l='ServerLevel[world]', x=796.34, y=160.00, z=-1846.10]
+[02:12:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72724, l='ServerLevel[world]', x=796.34, y=160.00, z=-1846.10]
+[02:12:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72734, l='ServerLevel[world]', x=798.33, y=160.00, z=-1845.21]
+[02:12:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/72735, l='ServerLevel[world]', x=798.33, y=160.00, z=-1845.21]
+[02:12:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72736, l='ServerLevel[world]', x=798.33, y=160.00, z=-1845.21]
+[02:12:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72774, l='ServerLevel[world]', x=421.74, y=104.00, z=56.42]
+[02:12:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72782, l='ServerLevel[world]', x=425.96, y=104.00, z=54.80]
+[02:12:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72792, l='ServerLevel[world]', x=799.19, y=175.00, z=-1842.50]
+[02:12:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72816, l='ServerLevel[world]', x=425.18, y=104.00, z=53.00]
+[02:12:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/72820, l='ServerLevel[world]', x=426.05, y=104.00, z=55.00]
+[02:12:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/72880, l='ServerLevel[world]', x=787.30, y=165.50, z=-1847.88]
+[02:12:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/72881, l='ServerLevel[world]', x=787.30, y=165.50, z=-1847.88]
+[02:12:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/72882, l='ServerLevel[world]', x=787.30, y=165.50, z=-1847.88]
+[02:12:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/72895, l='ServerLevel[world]', x=790.76, y=167.00, z=-1852.07]
+[02:13:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/72928, l='ServerLevel[world]', x=789.70, y=167.00, z=-1851.37]
+[02:13:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/73041, l='ServerLevel[world]', x=794.81, y=167.00, z=-1850.14]
+[02:13:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/73077, l='ServerLevel[world]', x=794.25, y=167.00, z=-1840.30]
+[02:13:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/73078, l='ServerLevel[world]', x=794.25, y=167.00, z=-1840.30]
+[02:13:19] [Server thread/INFO]: pablitox was slain by Wither Skeleton
+[02:13:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/73348, l='ServerLevel[world]', x=788.91, y=167.00, z=-1842.69]
+[02:13:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/73358, l='ServerLevel[world]', x=789.99, y=167.00, z=-1847.75]
+[02:13:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/73359, l='ServerLevel[world]', x=789.99, y=167.00, z=-1847.75]
+[02:13:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Shovel'/73572, l='ServerLevel[world]', x=419.50, y=97.00, z=61.50]
+[02:13:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Sword'/73573, l='ServerLevel[world]', x=419.50, y=97.00, z=61.50]
+[02:13:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Ingot'/73574, l='ServerLevel[world]', x=419.50, y=97.00, z=61.50]
+[02:13:53] [Server thread/WARN]: Tried to over-fill a container
+[02:13:53] [Server thread/WARN]: Tried to over-fill a container
+[02:14:00] [Server thread/WARN]: Tried to over-fill a container
+[02:14:00] [Server thread/WARN]: Tried to over-fill a container
+[02:15:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/74424, l='ServerLevel[world]', x=374.36, y=-11.65, z=-363.90]
+[02:15:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/74597, l='ServerLevel[world]', x=390.86, y=72.00, z=55.18]
+[02:16:08] [Server thread/INFO]: pablitox claimed a grave belonging to pablitox at 430, 104, 55, minecraft:overworld
+[02:16:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/74829, l='ServerLevel[world]', x=793.55, y=77.00, z=-1854.92]
+[02:16:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/74830, l='ServerLevel[world]', x=793.55, y=77.00, z=-1854.92]
+[02:16:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/74968, l='ServerLevel[world]', x=341.70, y=-28.00, z=-384.68]
+[02:18:28] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/75961, l='ServerLevel[world]', x=789.74, y=69.00, z=-1845.74]
+[02:18:45] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.2987477046700633
+[02:18:45] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.7889421350029124
+[02:18:45] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 1.2845122881612951
+[02:18:45] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 1.7829588834232482
+[02:18:45] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 2.07299540728593
+[02:19:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/76487, l='ServerLevel[world]', x=798.33, y=63.40, z=-1833.29]
+[02:20:47] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.253543865065339
+[02:20:47] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.5853463276697646
+[02:21:34] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.26577123583092543
+[02:21:34] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.7892977978785893
+[02:21:34] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 1.3120210082906851
+[02:21:34] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 1.8338074885223818
+[02:21:34] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.3508575388198665
+[02:22:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/79629, l='ServerLevel[world]', x=603.70, y=71.00, z=-1326.51]
+[02:22:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/79660, l='ServerLevel[world]', x=601.24, y=71.00, z=-1329.53]
+[02:22:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/80238, l='ServerLevel[world]', x=268.68, y=72.04, z=60.86]
+[02:23:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/80352, l='ServerLevel[world]', x=277.67, y=70.48, z=63.63]
+[02:23:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/80353, l='ServerLevel[world]', x=277.67, y=70.48, z=63.63]
+[02:23:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/80428, l='ServerLevel[world]', x=646.56, y=68.00, z=-1320.08]
+[02:23:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/80432, l='ServerLevel[world]', x=613.57, y=62.00, z=-1297.23]
+[02:23:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Emerald'/80617, l='ServerLevel[world]', x=591.38, y=64.00, z=-1229.69]
+[02:23:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/80752, l='ServerLevel[world]', x=687.47, y=-6.00, z=-1198.37]
+[02:23:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/80763, l='ServerLevel[world]', x=422.04, y=63.00, z=30.42]
+[02:23:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/80764, l='ServerLevel[world]', x=422.04, y=63.00, z=30.42]
+[02:23:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/80793, l='ServerLevel[world]', x=419.08, y=63.00, z=28.53]
+[02:24:13] [Server thread/INFO]: pablitox has made the advancement [Take Aim]
+[02:24:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Phantom Membrane'/80896, l='ServerLevel[world]', x=365.61, y=74.32, z=52.90]
+[02:24:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/80935, l='ServerLevel[world]', x=473.58, y=63.00, z=20.96]
+[02:24:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/80951, l='ServerLevel[world]', x=356.54, y=76.00, z=55.69]
+[02:24:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/80976, l='ServerLevel[world]', x=476.46, y=63.00, z=11.67]
+[02:24:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81111, l='ServerLevel[world]', x=497.31, y=64.00, z=55.40]
+[02:24:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Potato'/81112, l='ServerLevel[world]', x=497.31, y=64.00, z=55.40]
+[02:24:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/81163, l='ServerLevel[world]', x=484.15, y=64.00, z=49.59]
+[02:24:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/81164, l='ServerLevel[world]', x=484.15, y=64.00, z=49.59]
+[02:24:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/81247, l='ServerLevel[world]', x=465.69, y=63.00, z=52.21]
+[02:24:57] [Server thread/INFO]: celsofuster has made the advancement [Rotten to the Core]
+[02:24:58] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/81276, l='ServerLevel[world]', x=462.74, y=62.65, z=47.68]
+[02:25:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81329, l='ServerLevel[world]', x=467.44, y=62.00, z=56.99]
+[02:25:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81364, l='ServerLevel[world]', x=610.23, y=64.00, z=-1209.52]
+[02:25:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/81365, l='ServerLevel[world]', x=610.23, y=64.00, z=-1209.52]
+[02:25:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81391, l='ServerLevel[world]', x=614.50, y=64.00, z=-1209.51]
+[02:25:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/81418, l='ServerLevel[world]', x=697.40, y=14.20, z=-1171.60]
+[02:25:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/81554, l='ServerLevel[world]', x=549.54, y=62.00, z=42.22]
+[02:25:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/81555, l='ServerLevel[world]', x=549.54, y=62.00, z=42.22]
+[02:25:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/81557, l='ServerLevel[world]', x=619.53, y=63.00, z=-1206.59]
+[02:25:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81585, l='ServerLevel[world]', x=619.19, y=63.00, z=-1207.49]
+[02:25:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81598, l='ServerLevel[world]', x=620.10, y=63.00, z=-1204.45]
+[02:25:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Phantom Membrane'/81624, l='ServerLevel[world]', x=543.24, y=68.93, z=37.13]
+[02:25:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/81625, l='ServerLevel[world]', x=543.24, y=68.93, z=37.13]
+[02:25:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81636, l='ServerLevel[world]', x=395.15, y=62.62, z=15.24]
+[02:25:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/81739, l='ServerLevel[world]', x=466.60, y=-41.00, z=30.56]
+[02:25:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/81740, l='ServerLevel[world]', x=465.56, y=-41.00, z=30.46]
+[02:25:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/81758, l='ServerLevel[world]', x=396.28, y=62.00, z=11.39]
+[02:25:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/81759, l='ServerLevel[world]', x=396.28, y=62.00, z=11.39]
+[02:26:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/81789, l='ServerLevel[world]', x=693.76, y=16.15, z=-1159.58]
+[02:26:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81978, l='ServerLevel[world]', x=565.15, y=69.00, z=-34.25]
+[02:26:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/81982, l='ServerLevel[world]', x=568.34, y=68.00, z=-35.50]
+[02:26:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/81983, l='ServerLevel[world]', x=568.34, y=68.00, z=-35.50]
+[02:26:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/82024, l='ServerLevel[world]', x=622.68, y=63.00, z=-1207.29]
+[02:26:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/82106, l='ServerLevel[world]', x=695.93, y=14.20, z=-1167.89]
+[02:26:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/82277, l='ServerLevel[world]', x=617.48, y=64.00, z=-72.51]
+[02:26:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/82314, l='ServerLevel[world]', x=614.41, y=64.00, z=-71.70]
+[02:26:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/82315, l='ServerLevel[world]', x=614.41, y=64.00, z=-71.70]
+[02:26:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/82327, l='ServerLevel[world]', x=615.96, y=64.00, z=-70.36]
+[02:26:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/82328, l='ServerLevel[world]', x=615.96, y=64.00, z=-70.36]
+[02:27:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/82379, l='ServerLevel[world]', x=647.30, y=66.00, z=-78.70]
+[02:27:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/82419, l='ServerLevel[world]', x=703.40, y=7.47, z=-1153.40]
+[02:27:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/82538, l='ServerLevel[world]', x=684.70, y=63.00, z=-56.73]
+[02:27:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/82539, l='ServerLevel[world]', x=684.70, y=63.00, z=-56.73]
+[02:27:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/82540, l='ServerLevel[world]', x=684.70, y=63.00, z=-56.73]
+[02:27:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/82559, l='ServerLevel[world]', x=683.43, y=63.94, z=-57.58]
+[02:27:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/82560, l='ServerLevel[world]', x=683.43, y=63.94, z=-57.58]
+[02:27:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/82632, l='ServerLevel[world]', x=694.13, y=64.00, z=-45.97]
+[02:27:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/82633, l='ServerLevel[world]', x=694.13, y=64.00, z=-45.97]
+[02:27:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/82645, l='ServerLevel[world]', x=694.60, y=64.00, z=-46.90]
+[02:27:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/82646, l='ServerLevel[world]', x=694.60, y=64.00, z=-46.90]
+[02:27:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/82655, l='ServerLevel[world]', x=402.75, y=65.00, z=51.20]
+[02:27:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/82692, l='ServerLevel[world]', x=681.23, y=63.00, z=-53.81]
+[02:27:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/82693, l='ServerLevel[world]', x=681.23, y=63.00, z=-53.81]
+[02:27:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/82700, l='ServerLevel[world]', x=605.85, y=64.00, z=-1202.30]
+[02:27:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/82716, l='ServerLevel[world]', x=605.17, y=64.00, z=-1201.14]
+[02:27:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/82720, l='ServerLevel[world]', x=606.12, y=64.00, z=-1200.49]
+[02:27:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/82924, l='ServerLevel[world]', x=721.60, y=64.00, z=-58.09]
+[02:27:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/82938, l='ServerLevel[world]', x=609.57, y=64.00, z=-1202.61]
+[02:27:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/83018, l='ServerLevel[world]', x=321.40, y=9.00, z=63.46]
+[02:27:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/83039, l='ServerLevel[world]', x=329.43, y=9.00, z=62.52]
+[02:28:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/83286, l='ServerLevel[world]', x=627.84, y=65.25, z=-59.64]
+[02:28:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/83313, l='ServerLevel[world]', x=625.23, y=65.40, z=-64.72]
+[02:28:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/83335, l='ServerLevel[world]', x=406.26, y=62.00, z=64.48]
+[02:28:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83336, l='ServerLevel[world]', x=406.26, y=62.00, z=64.48]
+[02:28:18] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/83373, l='ServerLevel[world]', x=626.92, y=65.54, z=-65.11]
+[02:28:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83382, l='ServerLevel[world]', x=405.11, y=63.00, z=66.47]
+[02:28:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83412, l='ServerLevel[world]', x=623.60, y=65.00, z=-66.00]
+[02:28:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/83418, l='ServerLevel[world]', x=525.45, y=58.15, z=28.30]
+[02:28:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/83419, l='ServerLevel[world]', x=525.45, y=58.15, z=28.30]
+[02:28:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83432, l='ServerLevel[world]', x=523.70, y=58.00, z=30.51]
+[02:28:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83465, l='ServerLevel[world]', x=582.59, y=101.00, z=-1110.32]
+[02:28:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/83495, l='ServerLevel[world]', x=524.98, y=56.00, z=28.61]
+[02:28:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/83496, l='ServerLevel[world]', x=524.98, y=56.00, z=28.61]
+[02:28:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/83549, l='ServerLevel[world]', x=415.13, y=62.53, z=56.77]
+[02:28:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83550, l='ServerLevel[world]', x=415.13, y=62.53, z=56.77]
+[02:28:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/83568, l='ServerLevel[world]', x=606.13, y=64.00, z=-43.53]
+[02:28:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83569, l='ServerLevel[world]', x=606.13, y=64.00, z=-43.53]
+[02:28:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/83615, l='ServerLevel[world]', x=608.39, y=64.71, z=-37.93]
+[02:28:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83685, l='ServerLevel[world]', x=484.66, y=63.00, z=31.39]
+[02:28:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83686, l='ServerLevel[world]', x=484.66, y=63.00, z=31.39]
+[02:28:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/83750, l='ServerLevel[world]', x=479.09, y=63.00, z=25.76]
+[02:28:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/83791, l='ServerLevel[world]', x=479.91, y=63.00, z=33.61]
+[02:28:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83803, l='ServerLevel[world]', x=617.73, y=63.00, z=-37.34]
+[02:28:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/83884, l='ServerLevel[world]', x=618.12, y=63.00, z=-35.55]
+[02:28:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/83885, l='ServerLevel[world]', x=618.12, y=63.00, z=-35.55]
+[02:29:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/83957, l='ServerLevel[world]', x=420.67, y=63.00, z=36.70]
+[02:29:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/83958, l='ServerLevel[world]', x=420.67, y=63.00, z=36.70]
+[02:29:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84003, l='ServerLevel[world]', x=563.96, y=118.00, z=-1069.98]
+[02:29:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/84016, l='ServerLevel[world]', x=563.30, y=118.00, z=-1070.18]
+[02:29:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Phantom Membrane'/84033, l='ServerLevel[world]', x=611.75, y=65.83, z=-34.05]
+[02:29:13] [Server thread/INFO]: Pansaof fell from a high place
+[02:29:42] [Server thread/INFO]: [Not Secure] <Campesina> epa
+[02:29:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84572, l='ServerLevel[world]', x=365.16, y=71.00, z=49.87]
+[02:29:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Saddle'/84573, l='ServerLevel[world]', x=365.16, y=71.00, z=49.87]
+[02:29:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84589, l='ServerLevel[world]', x=377.84, y=66.00, z=-40.83]
+[02:29:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84590, l='ServerLevel[world]', x=592.50, y=66.00, z=-148.50]
+[02:29:48] [Server thread/INFO]: [Not Secure] <Campesina> se me descargo el fono
+[02:29:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/84591, l='ServerLevel[world]', x=1075.60, y=6.69, z=-1530.40]
+[02:29:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84599, l='ServerLevel[world]', x=425.00, y=79.00, z=-106.11]
+[02:29:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/84614, l='ServerLevel[world]', x=469.69, y=63.00, z=23.90]
+[02:29:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/84615, l='ServerLevel[world]', x=469.69, y=63.00, z=23.90]
+[02:29:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/84616, l='ServerLevel[world]', x=469.69, y=63.00, z=23.90]
+[02:29:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bow'/84617, l='ServerLevel[world]', x=469.69, y=63.00, z=23.90]
+[02:29:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/84639, l='ServerLevel[world]', x=532.39, y=66.00, z=-23.18]
+[02:29:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/84640, l='ServerLevel[world]', x=532.39, y=66.00, z=-23.18]
+[02:29:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84641, l='ServerLevel[world]', x=423.50, y=104.00, z=61.50]
+[02:29:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84643, l='ServerLevel[world]', x=376.05, y=64.00, z=-72.02]
+[02:29:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/84656, l='ServerLevel[world]', x=572.30, y=67.00, z=-36.21]
+[02:29:55] [Server thread/INFO]: [Not Secure] <Campesina> consegui otra torre
+[02:29:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/84669, l='ServerLevel[world]', x=355.56, y=68.00, z=-8.54]
+[02:29:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/84722, l='ServerLevel[world]', x=641.20, y=65.00, z=-63.92]
+[02:29:59] [Server thread/INFO]: [Not Secure] <Campesina> qn viene
+[02:30:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/84910, l='ServerLevel[world]', x=1036.50, y=0.00, z=-1531.82]
+[02:30:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/85239, l='ServerLevel[world]', x=397.45, y=70.00, z=47.30]
+[02:30:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/85240, l='ServerLevel[world]', x=397.45, y=70.00, z=47.30]
+[02:30:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/85298, l='ServerLevel[world]', x=493.89, y=63.00, z=37.88]
+[02:30:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/85299, l='ServerLevel[world]', x=493.89, y=63.00, z=37.88]
+[02:30:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/85337, l='ServerLevel[world]', x=396.30, y=69.00, z=57.70]
+[02:30:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/85338, l='ServerLevel[world]', x=396.30, y=69.00, z=57.70]
+[02:30:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/85363, l='ServerLevel[world]', x=505.15, y=64.00, z=34.52]
+[02:30:38] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/85364, l='ServerLevel[world]', x=505.15, y=64.00, z=34.52]
+[02:30:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Brown Wool'/85451, l='ServerLevel[world]', x=505.32, y=64.00, z=45.75]
+[02:30:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/85452, l='ServerLevel[world]', x=505.32, y=64.00, z=45.75]
+[02:31:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/85992, l='ServerLevel[world]', x=337.65, y=10.00, z=50.22]
+[02:31:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/85993, l='ServerLevel[world]', x=337.65, y=10.00, z=50.22]
+[02:31:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/85994, l='ServerLevel[world]', x=337.65, y=10.00, z=50.22]
+[02:31:34] [Server thread/INFO]: [Not Secure] <celsofuster> DONDE
+[02:31:42] [Server thread/INFO]: [Not Secure] <Campesina> ahorita vamos
+[02:31:46] [Server thread/INFO]: [Not Secure] <Campesina> voy a la casa
+[02:31:56] [Server thread/INFO]: [Not Secure] <celsofuster> guardo la ubicacion?
+[02:32:00] [Server thread/INFO]: [Not Secure] <Campesina> no
+[02:32:04] [Server thread/INFO]: [Not Secure] <Campesina> pero se dnd es
+[02:32:18] [Server thread/INFO]: [Not Secure] <Campesina> igual en el mapa se ve
+[02:32:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Ender Pearl'/86943, l='ServerLevel[world]', x=560.50, y=70.00, z=-27.38]
+[02:32:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Grass Block'/86944, l='ServerLevel[world]', x=560.50, y=70.00, z=-27.38]
+[02:33:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/87904, l='ServerLevel[world]', x=579.66, y=124.00, z=-959.00]
+[02:33:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/87988, l='ServerLevel[world]', x=583.88, y=124.00, z=-959.57]
+[02:33:47] [Server thread/INFO]: Campesina lost connection: Timed out
+[02:33:47] [Server thread/INFO]: Campesina left the game
+[02:33:47] [Server thread/INFO]: [voicechat] Disconnecting client Campesina
+[02:33:51] [Server thread/INFO]: Pansaof lost connection: Timed out
+[02:33:51] [Server thread/INFO]: Pansaof left the game
+[02:33:51] [Server thread/INFO]: [voicechat] Disconnecting client Pansaof
+[02:33:54] [Server thread/INFO]: Shui3000 lost connection: Timed out
+[02:33:54] [Server thread/INFO]: Shui3000 left the game
+[02:33:54] [Server thread/INFO]: [voicechat] Disconnecting client Shui3000
+[02:33:56] [Server thread/INFO]: pablitox lost connection: Timed out
+[02:33:56] [Server thread/INFO]: pablitox left the game
+[02:33:56] [Server thread/INFO]: [voicechat] Disconnecting client pablitox
+[02:33:59] [Server thread/INFO]: celsofuster lost connection: Timed out
+[02:33:59] [Server thread/INFO]: celsofuster left the game
+[02:33:59] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[02:34:05] [Server thread/INFO]: Campesina (/127.183.188.71:55165) lost connection: Disconnected
+[02:34:09] [Server thread/INFO]: pablitox[/127.156.232.155:53147] logged in with entity id 88134 at (456.4483078300199, 63.0, 12.130305463059933)
+[02:34:09] [Server thread/INFO]: Sending server config values to client
+[02:34:09] [Server thread/INFO]: Loading config from file...
+[02:34:09] [Server thread/INFO]: pablitox joined the game
+[02:34:09] [Server thread/INFO]: Priority overwritten for player pablitox. Claiming: GRAVE / Robbing: INVENTORY
+[02:34:09] [Server thread/INFO]: [voicechat] Received secret request of pablitox (18)
+[02:34:09] [Server thread/INFO]: [voicechat] Sent secret to pablitox
+[02:34:09] [Server thread/INFO]: Receiving client config
+[02:34:09] [Server thread/INFO]: Shui3000[/127.147.80.121:46649] logged in with entity id 88177 at (313.77743710535816, 72.0, 80.27920094078543)
+[02:34:09] [Server thread/INFO]: Sending server config values to client
+[02:34:09] [Server thread/INFO]: Loading config from file...
+[02:34:09] [Server thread/INFO]: Shui3000 joined the game
+[02:34:10] [Server thread/INFO]: [voicechat] Received secret request of Shui3000 (18)
+[02:34:10] [Server thread/INFO]: [voicechat] Sent secret to Shui3000
+[02:34:10] [Server thread/INFO]: Priority overwritten for player Shui3000. Claiming: GRAVE / Robbing: INVENTORY
+[02:34:10] [Server thread/INFO]: Receiving client config
+[02:34:11] [Server thread/INFO]: celsofuster[/127.232.63.210:58585] logged in with entity id 88314 at (362.7312185950485, 65.0, -36.27746313718688)
+[02:34:11] [Server thread/INFO]: Sending server config values to client
+[02:34:11] [Server thread/INFO]: Loading config from file...
+[02:34:11] [Server thread/INFO]: celsofuster joined the game
+[02:34:11] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[02:34:11] [Server thread/INFO]: Receiving client config
+[02:34:11] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[02:34:11] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[02:34:11] [Server thread/INFO]: Pansaof[/127.86.78.195:52967] logged in with entity id 88365 at (665.3175625766081, 93.41999998688698, -978.3000000119209)
+[02:34:11] [Server thread/INFO]: Sending server config values to client
+[02:34:11] [Server thread/INFO]: Loading config from file...
+[02:34:11] [Server thread/INFO]: Pansaof joined the game
+[02:34:11] [Server thread/INFO]: Priority overwritten for player Pansaof. Claiming: GRAVE / Robbing: INVENTORY
+[02:34:11] [Server thread/INFO]: [voicechat] Received secret request of Pansaof (18)
+[02:34:11] [Server thread/INFO]: [voicechat] Sent secret to Pansaof
+[02:34:11] [Server thread/INFO]: Receiving client config
+[02:34:15] [Server thread/INFO]: Campesina[/127.183.188.71:56539] logged in with entity id 88571 at (316.94953593898, 72.0, 80.45768987337324)
+[02:34:15] [Server thread/INFO]: Sending server config values to client
+[02:34:15] [Server thread/INFO]: Loading config from file...
+[02:34:15] [Server thread/INFO]: Campesina joined the game
+[02:34:15] [Server thread/INFO]: Priority overwritten for player Campesina. Claiming: GRAVE / Robbing: INVENTORY
+[02:34:15] [Server thread/INFO]: Receiving client config
+[02:34:15] [Server thread/INFO]: [voicechat] Received secret request of Campesina (18)
+[02:34:15] [Server thread/INFO]: [voicechat] Sent secret to Campesina
+[02:34:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/88911, l='ServerLevel[world]', x=384.18, y=74.00, z=55.51]
+[02:34:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/88912, l='ServerLevel[world]', x=384.18, y=74.00, z=55.51]
+[02:34:57] [Server thread/INFO]: Pansaof claimed a grave belonging to Pansaof at 576, 80, -930, minecraft:overworld
+[02:35:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/89347, l='ServerLevel[world]', x=416.93, y=94.00, z=-766.79]
+[02:35:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/89348, l='ServerLevel[world]', x=416.93, y=94.00, z=-766.79]
+[02:36:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/89922, l='ServerLevel[world]', x=299.40, y=21.00, z=68.40]
+[02:36:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/90101, l='ServerLevel[world]', x=426.25, y=98.00, z=-715.31]
+[02:36:58] [Server thread/WARN]: Horse (vehicle of celsofuster) moved wrongly! 0.6926698177820148
+[02:36:58] [Server thread/WARN]: Horse (vehicle of celsofuster) moved wrongly! 1.1602388882746368
+[02:38:28] [Server thread/WARN]: Pansaof was kicked for floating too long!
+[02:38:29] [Server thread/INFO]: Pansaof lost connection: Flying is not enabled on this server
+[02:38:29] [Server thread/INFO]: Pansaof left the game
+[02:38:29] [Server thread/INFO]: [voicechat] Disconnecting client Pansaof
+[02:38:35] [Server thread/INFO]: Pansaof[/127.86.78.195:34245] logged in with entity id 91261 at (170.74242648733517, 79.85372891168582, -377.1561006320732)
+[02:38:35] [Server thread/INFO]: Sending server config values to client
+[02:38:35] [Server thread/INFO]: Loading config from file...
+[02:38:35] [Server thread/INFO]: Pansaof joined the game
+[02:38:36] [Server thread/INFO]: Priority overwritten for player Pansaof. Claiming: GRAVE / Robbing: INVENTORY
+[02:38:36] [Server thread/INFO]: Receiving client config
+[02:38:36] [Server thread/INFO]: [voicechat] Received secret request of Pansaof (18)
+[02:38:36] [Server thread/INFO]: [voicechat] Sent secret to Pansaof
+[02:38:48] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.3175685832418935
+[02:38:48] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.5541456949354142
+[02:39:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/91547, l='ServerLevel[world]', x=169.40, y=-19.00, z=-368.59]
+[02:39:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/92009, l='ServerLevel[world]', x=230.59, y=20.00, z=-87.24]
+[02:42:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/93331, l='ServerLevel[world]', x=341.70, y=66.00, z=75.90]
+[02:42:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/93332, l='ServerLevel[world]', x=341.70, y=66.00, z=75.90]
+[02:42:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/93410, l='ServerLevel[world]', x=716.50, y=-17.65, z=-22.45]
+[02:42:36] [Server thread/INFO]: Campesina has made the advancement [Amateur Archaeologist]
+[02:43:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/93755, l='ServerLevel[world]', x=666.62, y=69.00, z=-160.87]
+[02:43:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/93756, l='ServerLevel[world]', x=666.62, y=69.00, z=-160.87]
+[02:43:35] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:Shared Location:S:765:135:-311:0:false:0:Internal-overworld-waypoints
+[02:43:48] [Server thread/INFO]: [Not Secure] <Campesina> t
+[02:43:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/94330, l='ServerLevel[world]', x=322.39, y=38.16, z=38.70]
+[02:43:56] [Server thread/INFO]: [Not Secure] <pablitox> pasen cordenadas
+[02:44:05] [Server thread/INFO]: [Not Secure] <Shui3000> w
+[02:44:13] [Server thread/INFO]: Campesina has made the advancement [Take Aim]
+[02:44:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/94602, l='ServerLevel[world]', x=686.89, y=61.35, z=-99.42]
+[02:44:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/94603, l='ServerLevel[world]', x=686.89, y=61.35, z=-99.42]
+[02:44:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/94745, l='ServerLevel[world]', x=387.34, y=71.00, z=61.70]
+[02:44:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/94746, l='ServerLevel[world]', x=387.34, y=71.00, z=61.70]
+[02:44:26] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/94750, l='ServerLevel[world]', x=386.61, y=71.00, z=61.50]
+[02:44:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/94875, l='ServerLevel[world]', x=761.64, y=77.31, z=-313.08]
+[02:44:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/94918, l='ServerLevel[world]', x=595.20, y=63.00, z=107.39]
+[02:44:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/95085, l='ServerLevel[world]', x=691.76, y=64.00, z=-77.36]
+[02:44:50] [Server thread/INFO]: Campesina was slain by Mutant Zombie
+[02:44:50] [Server thread/INFO]: Campesina has made the advancement [Mutant Monsters]
+[02:44:50] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02:44:50] [Server thread/ERROR]: Combo count: 7 is dual wielding: false
+[02:44:50] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[02:44:50] [Server thread/ERROR]: Off-hand stack: 0 minecraft:air
+[02:44:50] [Server thread/ERROR]: Selected slot server: 3 | client: 3
+[02:44:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/95157, l='ServerLevel[world]', x=585.40, y=64.94, z=105.10]
+[02:44:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/95158, l='ServerLevel[world]', x=585.40, y=64.94, z=105.10]
+[02:45:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/95491, l='ServerLevel[world]', x=763.38, y=77.00, z=-308.41]
+[02:45:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/95492, l='ServerLevel[world]', x=763.38, y=77.00, z=-308.41]
+[02:45:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/95493, l='ServerLevel[world]', x=763.38, y=77.00, z=-308.41]
+[02:45:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Pufferfish'/95555, l='ServerLevel[world]', x=531.24, y=61.93, z=82.03]
+[02:45:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/95798, l='ServerLevel[world]', x=529.92, y=64.88, z=41.34]
+[02:45:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/95799, l='ServerLevel[world]', x=529.92, y=64.88, z=41.34]
+[02:45:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/96033, l='ServerLevel[world]', x=767.20, y=64.00, z=-253.71]
+[02:45:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Crossbow'/96034, l='ServerLevel[world]', x=767.20, y=64.00, z=-253.71]
+[02:45:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/96123, l='ServerLevel[world]', x=513.82, y=64.00, z=51.55]
+[02:45:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/96199, l='ServerLevel[world]', x=471.61, y=62.54, z=20.49]
+[02:45:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/96200, l='ServerLevel[world]', x=471.61, y=62.54, z=20.49]
+[02:45:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bee Traveler's Backpack'/96201, l='ServerLevel[world]', x=471.61, y=62.54, z=20.49]
+[02:46:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/96297, l='ServerLevel[world]', x=764.03, y=66.00, z=-231.51]
+[02:46:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/96298, l='ServerLevel[world]', x=764.03, y=66.00, z=-231.51]
+[02:46:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/96375, l='ServerLevel[world]', x=462.17, y=63.00, z=33.55]
+[02:46:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/96376, l='ServerLevel[world]', x=462.17, y=63.00, z=33.55]
+[02:46:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/96384, l='ServerLevel[world]', x=762.04, y=64.00, z=-227.34]
+[02:46:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/96385, l='ServerLevel[world]', x=762.04, y=64.00, z=-227.34]
+[02:46:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/96421, l='ServerLevel[world]', x=763.48, y=65.00, z=-232.46]
+[02:46:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/96422, l='ServerLevel[world]', x=763.48, y=65.00, z=-232.46]
+[02:46:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/96423, l='ServerLevel[world]', x=763.48, y=65.00, z=-232.46]
+[02:46:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/96562, l='ServerLevel[world]', x=478.60, y=-33.00, z=53.52]
+[02:46:37] [Server thread/WARN]: UUID of added entity already exists: class_1542['Shiny Scales'/96723, l='ServerLevel[world]', x=738.79, y=62.05, z=-32.75]
+[02:47:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/97065, l='ServerLevel[world]', x=874.50, y=51.00, z=-24.50]
+[02:47:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/97066, l='ServerLevel[world]', x=874.50, y=51.00, z=-24.50]
+[02:47:30] [Server thread/INFO]: Campesina claimed a grave belonging to Campesina at 689, 64, -83, minecraft:overworld
+[02:47:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/97414, l='ServerLevel[world]', x=677.00, y=63.00, z=-37.22]
+[02:47:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/97435, l='ServerLevel[world]', x=511.24, y=69.00, z=-271.12]
+[02:47:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/97512, l='ServerLevel[world]', x=669.37, y=63.00, z=-36.07]
+[02:47:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/97513, l='ServerLevel[world]', x=669.37, y=63.00, z=-36.07]
+[02:47:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/97585, l='ServerLevel[world]', x=673.10, y=63.00, z=-37.76]
+[02:47:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/97618, l='ServerLevel[world]', x=424.32, y=63.00, z=30.50]
+[02:47:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/97636, l='ServerLevel[world]', x=686.95, y=64.00, z=-85.52]
+[02:48:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/98057, l='ServerLevel[world]', x=712.13, y=64.00, z=-73.24]
+[02:48:14] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/98103, l='ServerLevel[world]', x=628.86, y=60.80, z=-99.60]
+[02:48:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/98167, l='ServerLevel[world]', x=715.66, y=64.00, z=-70.64]
+[02:48:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/98171, l='ServerLevel[world]', x=714.79, y=64.00, z=-71.97]
+[02:48:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/98302, l='ServerLevel[world]', x=713.07, y=64.00, z=-68.03]
+[02:48:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/98303, l='ServerLevel[world]', x=713.07, y=64.00, z=-68.03]
+[02:48:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/98363, l='ServerLevel[world]', x=613.57, y=64.00, z=-65.81]
+[02:48:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/98380, l='ServerLevel[world]', x=726.64, y=64.00, z=-48.29]
+[02:48:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/98381, l='ServerLevel[world]', x=726.64, y=64.00, z=-48.29]
+[02:48:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/98382, l='ServerLevel[world]', x=726.64, y=64.00, z=-48.29]
+[02:49:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/98919, l='ServerLevel[world]', x=593.42, y=64.00, z=-52.87]
+[02:49:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/98939, l='ServerLevel[world]', x=214.36, y=72.00, z=-40.30]
+[02:49:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/99116, l='ServerLevel[world]', x=576.67, y=64.00, z=-47.74]
+[02:49:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/99117, l='ServerLevel[world]', x=576.67, y=64.00, z=-47.74]
+[02:49:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/99210, l='ServerLevel[world]', x=585.32, y=66.00, z=-38.30]
+[02:49:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/99211, l='ServerLevel[world]', x=585.32, y=66.00, z=-38.30]
+[02:49:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/99300, l='ServerLevel[world]', x=841.01, y=72.01, z=-107.45]
+[02:49:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/99340, l='ServerLevel[world]', x=576.68, y=65.00, z=-42.42]
+[02:49:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/99341, l='ServerLevel[world]', x=576.68, y=65.00, z=-42.42]
+[02:49:33] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99353, l='ServerLevel[world]', x=789.95, y=66.00, z=-218.13]
+[02:49:38] [Server thread/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02:49:38] [Server thread/ERROR]: Combo count: 10 is dual wielding: false
+[02:49:38] [Server thread/ERROR]: Main-hand stack: 0 minecraft:air
+[02:49:38] [Server thread/ERROR]: Off-hand stack: 1 minecraft:shield
+[02:49:38] [Server thread/ERROR]: Selected slot server: 1 | client: 1
+[02:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99460, l='ServerLevel[world]', x=787.43, y=65.00, z=-211.80]
+[02:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/99461, l='ServerLevel[world]', x=787.43, y=65.00, z=-211.80]
+[02:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/99469, l='ServerLevel[world]', x=843.13, y=70.52, z=-103.30]
+[02:49:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/99470, l='ServerLevel[world]', x=843.13, y=70.52, z=-103.30]
+[02:49:44] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99561, l='ServerLevel[world]', x=837.19, y=68.00, z=-95.68]
+[02:49:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99645, l='ServerLevel[world]', x=876.82, y=70.00, z=-141.59]
+[02:49:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99646, l='ServerLevel[world]', x=145.56, y=101.00, z=-104.99]
+[02:49:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99765, l='ServerLevel[world]', x=326.41, y=83.00, z=1.74]
+[02:49:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99768, l='ServerLevel[world]', x=587.50, y=75.00, z=-178.25]
+[02:49:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/99769, l='ServerLevel[world]', x=587.50, y=75.00, z=-178.25]
+[02:49:56] [Server thread/INFO]: Pansaof has made the advancement [Mutant Monsters]
+[02:50:01] [Server thread/INFO]: [Not Secure] <Campesina> tww
+[02:50:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/99858, l='ServerLevel[world]', x=139.23, y=104.00, z=-104.50]
+[02:50:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/99928, l='ServerLevel[world]', x=852.99, y=69.00, z=-85.70]
+[02:50:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/99929, l='ServerLevel[world]', x=258.49, y=68.00, z=-62.78]
+[02:50:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/99930, l='ServerLevel[world]', x=258.49, y=68.00, z=-62.78]
+[02:50:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/100046, l='ServerLevel[world]', x=858.68, y=71.00, z=-77.13]
+[02:50:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/100167, l='ServerLevel[world]', x=572.78, y=72.00, z=-265.22]
+[02:50:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/100461, l='ServerLevel[world]', x=866.50, y=71.00, z=-106.80]
+[02:50:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/100462, l='ServerLevel[world]', x=866.50, y=71.00, z=-106.80]
+[02:51:26] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:REFUGIO GORDO:R:318:77:81:11:false:0:Internal-overworld-waypoints
+[02:51:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/101115, l='ServerLevel[world]', x=453.49, y=100.77, z=-270.30]
+[02:51:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/101116, l='ServerLevel[world]', x=453.49, y=100.77, z=-270.30]
+[02:52:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/101677, l='ServerLevel[world]', x=437.98, y=69.00, z=-47.09]
+[02:52:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/101690, l='ServerLevel[world]', x=956.19, y=6.16, z=-234.40]
+[02:52:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/101738, l='ServerLevel[world]', x=437.97, y=69.00, z=-47.79]
+[02:55:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/103014, l='ServerLevel[world]', x=948.41, y=7.20, z=-236.23]
+[02:59:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/104856, l='ServerLevel[world]', x=940.20, y=82.00, z=-206.42]
+[02:59:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Beef'/104857, l='ServerLevel[world]', x=940.20, y=82.00, z=-206.42]
+[02:59:08] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:torre:T:426:206:-762:4:false:0:Internal-overworld-waypoints
+[02:59:14] [Server thread/INFO]: [Not Secure] <Campesina> ww
+[02:59:56] [Server thread/INFO]: Shui3000 lost connection: Disconnected
+[02:59:56] [Server thread/INFO]: Shui3000 left the game
+[02:59:56] [Server thread/INFO]: [voicechat] Disconnecting client Shui3000
+[03:00:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/106399, l='ServerLevel[world]', x=942.89, y=64.00, z=-251.86]
+[03:00:50] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/106400, l='ServerLevel[world]', x=942.89, y=64.00, z=-251.86]
+[03:00:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/106500, l='ServerLevel[world]', x=501.77, y=14.00, z=28.39]
+[03:00:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/106501, l='ServerLevel[world]', x=1061.54, y=-2.00, z=-387.58]
+[03:00:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/106520, l='ServerLevel[world]', x=1062.56, y=-2.00, z=-387.41]
+[03:01:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/106620, l='ServerLevel[world]', x=1001.45, y=80.00, z=-258.88]
+[03:01:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Feather'/106624, l='ServerLevel[world]', x=950.22, y=65.00, z=-241.47]
+[03:01:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/106625, l='ServerLevel[world]', x=950.22, y=65.00, z=-241.47]
+[03:01:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Chicken'/106626, l='ServerLevel[world]', x=948.44, y=65.00, z=-239.79]
+[03:01:05] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.25744135435314774
+[03:01:05] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.5602548239779139
+[03:01:05] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.27028796895837104
+[03:01:05] [Server thread/WARN]: Horse (vehicle of pablitox) moved wrongly! 0.7454557507503523
+[03:01:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bamboo'/106772, l='ServerLevel[world]', x=1010.23, y=69.00, z=-322.23]
+[03:01:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/106844, l='ServerLevel[world]', x=993.94, y=68.00, z=-323.77]
+[03:02:00] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:torre:T:426:206:-762:4:false:0:Internal-overworld-waypoints
+[03:03:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/108513, l='ServerLevel[world]', x=425.31, y=94.00, z=-747.96]
+[03:03:47] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/108514, l='ServerLevel[world]', x=425.31, y=94.00, z=-747.96]
+[03:03:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/108561, l='ServerLevel[world]', x=419.86, y=94.00, z=-750.79]
+[03:03:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/108564, l='ServerLevel[world]', x=422.09, y=94.00, z=-751.70]
+[03:03:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/108565, l='ServerLevel[world]', x=422.09, y=94.00, z=-751.70]
+[03:03:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/108566, l='ServerLevel[world]', x=422.09, y=94.00, z=-751.70]
+[03:03:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/108621, l='ServerLevel[world]', x=420.47, y=94.00, z=-749.95]
+[03:03:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/108650, l='ServerLevel[world]', x=420.63, y=94.00, z=-749.78]
+[03:03:59] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/108677, l='ServerLevel[world]', x=403.31, y=20.00, z=-631.52]
+[03:04:13] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/108886, l='ServerLevel[world]', x=420.44, y=96.00, z=-727.17]
+[03:04:15] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/108908, l='ServerLevel[world]', x=423.49, y=96.63, z=-726.23]
+[03:04:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/108913, l='ServerLevel[world]', x=425.30, y=96.00, z=-726.68]
+[03:04:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/108937, l='ServerLevel[world]', x=429.00, y=95.90, z=-740.51]
+[03:04:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/108938, l='ServerLevel[world]', x=429.00, y=95.90, z=-740.51]
+[03:04:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/108957, l='ServerLevel[world]', x=427.71, y=94.94, z=-745.70]
+[03:04:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/108958, l='ServerLevel[world]', x=427.71, y=94.94, z=-745.70]
+[03:04:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Gunpowder'/108985, l='ServerLevel[world]', x=426.62, y=94.00, z=-747.94]
+[03:04:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/108986, l='ServerLevel[world]', x=426.62, y=94.00, z=-747.94]
+[03:04:25] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/108998, l='ServerLevel[world]', x=1050.60, y=16.00, z=-454.46]
+[03:04:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/109046, l='ServerLevel[world]', x=432.40, y=94.00, z=-755.65]
+[03:04:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow of Slowness'/109047, l='ServerLevel[world]', x=432.40, y=94.00, z=-755.65]
+[03:04:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/109048, l='ServerLevel[world]', x=432.40, y=94.00, z=-755.65]
+[03:04:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/109051, l='ServerLevel[world]', x=430.41, y=94.00, z=-748.16]
+[03:04:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Phantom Membrane'/109080, l='ServerLevel[world]', x=425.86, y=96.30, z=-747.70]
+[03:04:35] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/109129, l='ServerLevel[world]', x=425.14, y=94.00, z=-760.77]
+[03:04:51] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/109210, l='ServerLevel[world]', x=427.30, y=102.68, z=-755.79]

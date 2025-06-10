@@ -22,14 +22,15 @@
       "minecraft:beach": "2025-06-09 03:35:58 +0000",
       "minecraft:forest": "2025-06-09 04:28:04 +0000",
       "minecraft:sparse_jungle": "2025-06-09 03:13:18 +0000",
-      "minecraft:jungle": "2025-06-09 03:08:52 +0000",
-      "minecraft:ocean": "2025-06-09 04:02:20 +0000",
       "minecraft:deep_ocean": "2025-06-09 04:02:35 +0000",
       "minecraft:river": "2025-06-09 03:13:11 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 04:05:24 +0000",
       "minecraft:stony_shore": "2025-06-09 03:35:35 +0000",
+      "minecraft:jungle": "2025-06-09 03:08:52 +0000",
+      "minecraft:ocean": "2025-06-09 04:02:20 +0000",
       "minecraft:wooded_badlands": "2025-06-09 04:12:50 +0000",
       "minecraft:bamboo_jungle": "2025-06-09 04:26:47 +0000",
+      "minecraft:plains": "2025-06-10 02:24:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-09 04:03:38 +0000"
     },
     "done": false
@@ -2224,6 +2225,9 @@
     "criteria": {
       "minecraft:cave_spider": "2025-06-09 03:43:58 +0000",
       "minecraft:skeleton": "2025-06-09 03:22:46 +0000",
+      "minecraft:stray": "2025-06-10 02:09:59 +0000",
+      "minecraft:spider": "2025-06-10 02:28:21 +0000",
+      "minecraft:wither_skeleton": "2025-06-10 02:13:48 +0000",
       "minecraft:zombie": "2025-06-09 03:22:40 +0000",
       "minecraft:creeper": "2025-06-09 03:27:34 +0000",
       "minecraft:husk": "2025-06-09 03:22:41 +0000"
@@ -3856,12 +3860,6 @@
     },
     "done": true
   },
-  "mythicmetals:recipes/misc/smelting/tin_from_raw_ore": {
-    "criteria": {
-      "has_material": "2025-06-09 04:41:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-09 04:36:32 +0000"
@@ -3898,9 +3896,237 @@
     },
     "done": true
   },
+  "mythicmetals:recipes/misc/smelting/tin_from_raw_ore": {
+    "criteria": {
+      "has_material": "2025-06-09 04:41:54 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:recipes/misc/blasting/tin_from_raw_ore": {
     "criteria": {
       "has_material": "2025-06-09 04:41:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-06-10 01:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-10 01:59:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-10 01:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-10 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_minecraft:andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-10 02:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-10 02:09:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-10 02:09:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-10 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-10 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-10 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-10 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-06-10 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-10 02:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-10 02:26:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-06-10 02:54:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-10 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-06-10 02:36:54 +0000"
     },
     "done": true
   },
