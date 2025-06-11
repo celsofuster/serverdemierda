@@ -31,6 +31,7 @@
       "minecraft:desert": "2025-06-09 18:28:35 +0000",
       "minecraft:jungle": "2025-06-09 01:12:14 +0000",
       "minecraft:ocean": "2025-06-09 18:00:18 +0000",
+      "minecraft:birch_forest": "2025-06-11 03:24:23 +0000",
       "minecraft:savanna": "2025-06-09 04:29:24 +0000",
       "minecraft:wooded_badlands": "2025-06-09 04:05:42 +0000",
       "minecraft:plains": "2025-06-09 02:56:14 +0000",
@@ -1842,6 +1843,7 @@
       "volcano": "2025-06-09 03:53:10 +0000",
       "rocky_rainforest": "2025-06-10 00:59:36 +0000",
       "volcanic_plains": "2025-06-09 01:39:03 +0000",
+      "lavender_field": "2025-06-11 03:24:52 +0000",
       "old_growth_woodland": "2025-06-09 01:39:36 +0000",
       "crystalline_chasm": "2025-06-09 18:19:51 +0000",
       "grassland": "2025-06-09 18:02:38 +0000",
@@ -7300,7 +7302,8 @@
       "pine_taiga": "2025-06-11 00:24:18 +0000",
       "temperate_grove": "2025-06-11 00:40:20 +0000",
       "grassy_beach": "2025-06-11 00:24:07 +0000",
-      "blackwood_taiga": "2025-06-11 00:24:08 +0000"
+      "blackwood_taiga": "2025-06-11 00:24:08 +0000",
+      "rocky_meadow": "2025-06-11 03:25:39 +0000"
     },
     "done": false
   },
@@ -7309,7 +7312,8 @@
       "pine_taiga": "2025-06-11 00:24:18 +0000",
       "temperate_grove": "2025-06-11 00:40:20 +0000",
       "grassy_beach": "2025-06-11 00:24:07 +0000",
-      "blackwood_taiga": "2025-06-11 00:24:08 +0000"
+      "blackwood_taiga": "2025-06-11 00:24:08 +0000",
+      "rocky_meadow": "2025-06-11 03:25:39 +0000"
     },
     "done": false
   },
@@ -7781,9 +7785,165 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-06-11 03:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-06-11 03:22:03 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-11 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/yellow_cape": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-11 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-11 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-11 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-06-11 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2025-06-11 03:21:08 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-11 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-11 03:11:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-11 03:18:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-06-11 03:21:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-11 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-06-11 03:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-06-11 03:12:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig_smithing": {
     "criteria": {
       "has_pig": "2025-06-11 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-11 03:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-11 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 03:21:08 +0000"
     },
     "done": true
   },

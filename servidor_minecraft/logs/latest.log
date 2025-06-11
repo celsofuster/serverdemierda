@@ -1376,3 +1376,56 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [03:11:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Knife'/9124, l='ServerLevel[world]', x=769.69, y=62.77, z=424.48]
 [03:11:36] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Boots'/9125, l='ServerLevel[world]', x=769.69, y=62.77, z=424.48]
 [03:11:49] [Server thread/INFO]: celsofuster has made the advancement [Hunt and Gather]
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.48265135807014303,-11.072392302980816,0.5277790114132586
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.49282038939736594,-12.321618889651432,0.5388988419310863
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5010729449804785,-13.602676349224566,0.5479230072098744
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5077702076263222,-14.913692772309659,0.5552464604629677
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.513205290916062,-16.25290633272929,0.5611897212403392
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5176160676659265,-17.558658807638132,0.5660129033441308
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-18.53669656366244,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-19.258069502828498,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-19.778297712755133,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.140891531665297,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.379949420376875,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.52219387928028,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.588566968808344,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.59548069714762,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.55579693209662,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.47959534467342,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.374775236085604,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.247527181348595,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.5207628922772756,-20.102702649980316,0.5694539544355166
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! 0.050642100901654885,-10.087118212631857,0.055377111247707944
+[03:15:57] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved too quickly! -0.050642100901654885,10.103098787433481,-0.055377111247707944
+[03:17:35] [Server thread/INFO]: celsofuster was doomed to fall
+[03:17:44] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 1130.500000, 63.500000, 601.500000]
+[03:17:46] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at 1131, 63, 600, minecraft:overworld
+[03:18:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Yellow Wool'/11426, l='ServerLevel[world]', x=1140.24, y=63.00, z=589.57]
+[03:18:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/11427, l='ServerLevel[world]', x=1140.24, y=63.00, z=589.57]
+[03:18:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/11429, l='ServerLevel[world]', x=1139.27, y=63.88, z=590.61]
+[03:18:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/11430, l='ServerLevel[world]', x=1139.27, y=63.88, z=590.61]
+[03:18:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/11444, l='ServerLevel[world]', x=1137.71, y=63.00, z=593.58]
+[03:18:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/11445, l='ServerLevel[world]', x=1137.71, y=63.00, z=593.58]
+[03:18:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Yellow Wool'/11447, l='ServerLevel[world]', x=1140.55, y=63.00, z=593.18]
+[03:18:20] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/11448, l='ServerLevel[world]', x=1140.55, y=63.00, z=593.18]
+[03:18:26] [Server thread/INFO]: celsofuster was doomed to fall by Cyclops
+[03:18:37] [Server thread/INFO]: [celsofuster: Teleported celsofuster to 1149.500000, 76.500000, 603.500000]
+[03:18:47] [Server thread/INFO]: celsofuster claimed a grave belonging to celsofuster at 1141, 65, 590, minecraft:overworld
+[03:18:56] [Server thread/INFO]: celsofuster has made the advancement [My Name is Nobody]
+[03:18:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Leather'/11899, l='ServerLevel[world]', x=1143.12, y=66.00, z=603.99]
+[03:18:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Mutton'/11900, l='ServerLevel[world]', x=1143.12, y=66.00, z=603.99]
+[03:18:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['White Wool'/11901, l='ServerLevel[world]', x=1143.12, y=66.00, z=603.99]
+[03:20:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/12221, l='ServerLevel[world]', x=1067.70, y=63.00, z=645.92]
+[03:20:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/12222, l='ServerLevel[world]', x=1067.70, y=63.00, z=645.92]
+[03:20:48] [Worker-Main-1/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[03:21:06] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12384, l='ServerLevel[world]', x=1067.22, y=62.00, z=625.56]
+[03:21:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12484, l='ServerLevel[world]', x=1055.02, y=64.00, z=624.43]
+[03:21:45] [Server thread/WARN]: UUID of added entity already exists: class_1542['Iron Ingot'/12485, l='ServerLevel[world]', x=1055.02, y=64.00, z=624.43]
+[03:22:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12585, l='ServerLevel[world]', x=1051.30, y=67.77, z=591.97]
+[03:22:08] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/12586, l='ServerLevel[world]', x=1051.30, y=67.77, z=591.97]
+[03:22:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12622, l='ServerLevel[world]', x=1053.30, y=64.00, z=598.30]
+[03:22:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/12632, l='ServerLevel[world]', x=1052.70, y=66.00, z=598.32]
+[03:22:22] [Server thread/WARN]: UUID of added entity already exists: class_1542['Carrot'/12634, l='ServerLevel[world]', x=1052.70, y=66.62, z=598.32]
+[03:24:42] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:24:45] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:26:16] [Server thread/WARN]: UUID of added entity already exists: class_1542['Angler's Hat'/15038, l='ServerLevel[world]', x=1514.56, y=-37.80, z=1082.44]
