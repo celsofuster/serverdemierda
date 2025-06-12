@@ -1149,3 +1149,66 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [00:37:16] [Server thread/INFO]: celsofuster lost connection: Disconnected
 [00:37:16] [Server thread/INFO]: celsofuster left the game
 [00:37:16] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[00:55:21] [Server thread/INFO]: celsofuster[/127.232.63.210:60237] logged in with entity id 4307 at (1969.750819133322, 34.9, 1504.434390064189)
+[00:55:21] [Server thread/INFO]: Sending server config values to client
+[00:55:21] [Server thread/INFO]: Loading config from file...
+[00:55:21] [Server thread/INFO]: celsofuster joined the game
+[00:55:21] [Server thread/INFO]: Priority overwritten for player celsofuster. Claiming: GRAVE / Robbing: INVENTORY
+[00:55:21] [Server thread/INFO]: Receiving client config
+[00:55:21] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
+[00:55:21] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
+[00:57:38] [Server thread/INFO]: celsofuster has made the advancement [Eye Spy]
+[00:59:31] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/6473, l='ServerLevel[world]', x=1998.70, y=1.17, z=1400.70]
+[00:59:43] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.3293332227165138
+[00:59:43] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.6747285691214984
+[00:59:43] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.01582138897528
+[00:59:43] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.096433674585683
+[01:00:52] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/6898, l='ServerLevel[world]', x=1999.07, y=65.00, z=1479.00]
+[01:00:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/6899, l='ServerLevel[world]', x=1984.50, y=71.00, z=1485.50]
+[01:00:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/6904, l='ServerLevel[world]', x=2040.19, y=73.00, z=1512.77]
+[01:00:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/6905, l='ServerLevel[world]', x=2040.19, y=73.00, z=1512.77]
+[01:00:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/6906, l='ServerLevel[world]', x=1996.50, y=71.00, z=1489.50]
+[01:00:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/6915, l='ServerLevel[world]', x=1999.77, y=64.00, z=1479.00]
+[01:00:57] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/6922, l='ServerLevel[world]', x=1961.14, y=76.00, z=1518.48]
+[01:01:53] [Server thread/INFO]: [celsofuster: Gave 6 [Eye of Ender] to celsofuster]
+[01:02:31] [Server thread/INFO]: Campesina[/127.156.140.170:36657] logged in with entity id 7206 at (909.5266420981987, 111.0, -707.1388986161658)
+[01:02:31] [Server thread/INFO]: Sending server config values to client
+[01:02:31] [Server thread/INFO]: Loading config from file...
+[01:02:31] [Server thread/INFO]: Campesina joined the game
+[01:02:31] [Server thread/INFO]: [voicechat] Received secret request of Campesina (18)
+[01:02:31] [Server thread/INFO]: [voicechat] Sent secret to Campesina
+[01:02:31] [Server thread/INFO]: Priority overwritten for player Campesina. Claiming: GRAVE / Robbing: INVENTORY
+[01:02:31] [Server thread/INFO]: Receiving client config
+[01:02:32] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:02:32] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:02:55] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7613, l='ServerLevel[world]', x=898.40, y=-3.00, z=-708.50]
+[01:02:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7614, l='ServerLevel[world]', x=899.21, y=-3.00, z=-708.60]
+[01:03:14] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:Shared Location:S:1997:3:1491:0:false:0:Internal-overworld-waypoints
+[01:03:22] [Server thread/INFO]: [Not Secure] <celsofuster> el portal al end
+[01:03:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7895, l='ServerLevel[world]', x=839.43, y=2.00, z=-658.60]
+[01:04:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/7979, l='ServerLevel[world]', x=833.52, y=1.00, z=-579.06]
+[01:04:46] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/8277, l='ServerLevel[world]', x=939.44, y=72.00, z=-535.09]
+[01:06:00] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.2887544637553674
+[01:06:00] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.7469727945137947
+[01:06:00] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 0.992156287414673
+[01:06:00] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.1233490860345228
+[01:06:00] [Server thread/WARN]: Pegasus (vehicle of celsofuster) moved wrongly! 1.1935477368738248
+[01:06:30] [Server thread/INFO]: [Not Secure] <Campesina> culiaste rico bb?
+[01:06:32] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/9110, l='ServerLevel[world]', x=1037.62, y=11.00, z=-471.69]
+[01:06:36] [Server thread/INFO]: [Not Secure] <celsofuster> si
+[01:06:44] [Server thread/INFO]: [Not Secure] <Campesina> que bueno bb
+[01:07:10] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/9496, l='ServerLevel[world]', x=1037.62, y=17.00, z=-475.60]
+[01:07:48] [Server thread/INFO]: [Not Secure] <Campesina> tenias rato sin culiar no?
+[01:07:54] [Server thread/INFO]: [Not Secure] <celsofuster> si
+[01:07:57] [Server thread/INFO]: [Not Secure] <celsofuster> bastante
+[01:08:23] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/10063, l='ServerLevel[world]', x=1158.67, y=9.00, z=-354.40]
+[01:08:47] [Server thread/INFO]: [Not Secure] <celsofuster> bb voy a desconectarme un rato ahorita vuelvo
+[01:08:57] [Server thread/INFO]: [Not Secure] <celsofuster> cuando entren la mayoria vamos al end
+[01:09:02] [Server thread/INFO]: [Not Secure] <Campesina> eso
+[01:09:04] [Server thread/INFO]: [Not Secure] <Campesina> llego alla
+[01:09:13] [Server thread/INFO]: [Not Secure] <Campesina> y me salgo tmb
+[01:09:15] [Server thread/INFO]: [Not Secure] <celsofuster> te pase la ubi
+[01:09:19] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[01:09:19] [Server thread/INFO]: celsofuster left the game
+[01:09:19] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
+[01:09:19] [Server thread/INFO]: [Not Secure] <Campesina> pq tengo que doblar ropa
