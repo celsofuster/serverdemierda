@@ -1517,3 +1517,22 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [02:00:53] [Server thread/INFO]: [Not Secure] <celsofuster> xaero-waypoint:end portal:E:1999:3:1488:2:false:0:Internal-overworld-waypoints
 [02:03:13] [Server thread/ERROR]: POI data mismatch: never registered at class_2338{x=-763, y=71, z=294}
 [02:03:30] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/22556, l='ServerLevel[world]', x=1973.15, y=70.00, z=1492.85]
+[02:12:34] [Server thread/INFO]: Ananeitorxd lost connection: Disconnected
+[02:12:34] [Server thread/INFO]: Ananeitorxd left the game
+[02:12:34] [Server thread/INFO]: [voicechat] Disconnecting client Ananeitorxd
+[02:13:40] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/26822, l='ServerLevel[world]', x=1807.67, y=-22.65, z=1230.48]
+[02:15:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['String'/27478, l='ServerLevel[world]', x=1724.47, y=65.88, z=1007.04]
+[02:15:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Spider Eye'/27479, l='ServerLevel[world]', x=1724.47, y=65.88, z=1007.04]
+[02:15:01] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/27480, l='ServerLevel[world]', x=1724.47, y=65.88, z=1007.04]
+[02:15:17] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/27506, l='ServerLevel[world]', x=1720.95, y=66.00, z=1001.56]
+[02:17:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/28203, l='ServerLevel[world]', x=1586.96, y=82.00, z=901.52]
+[02:17:05] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/28207, l='ServerLevel[world]', x=1585.34, y=83.00, z=899.76]
+[02:18:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/28445, l='ServerLevel[world]', x=1471.21, y=64.00, z=974.58]
+[02:18:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/28446, l='ServerLevel[world]', x=1471.21, y=64.00, z=974.58]
+[02:18:02] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/28447, l='ServerLevel[world]', x=1471.21, y=64.00, z=974.58]
+[02:18:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Arrow'/28460, l='ServerLevel[world]', x=1473.97, y=63.00, z=976.50]
+[02:18:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/28461, l='ServerLevel[world]', x=1473.97, y=63.00, z=976.50]
+[02:20:12] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/29739, l='ServerLevel[world]', x=1057.34, y=-18.00, z=673.58]
+[02:24:41] [Server thread/INFO]: celsofuster lost connection: Disconnected
+[02:24:41] [Server thread/INFO]: celsofuster left the game
+[02:24:41] [Server thread/INFO]: [voicechat] Disconnecting client celsofuster
